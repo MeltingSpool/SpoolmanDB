@@ -1,4 +1,4 @@
-"""Semantic data integrity checks for SpoolmanDB Community source files."""
+"""Semantic data integrity checks for SpoolmanDB source files."""
 
 import json
 from pathlib import Path

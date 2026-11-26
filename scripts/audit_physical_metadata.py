@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit physical metadata in SpoolmanDB Community filament source files.
+"""Audit physical metadata in SpoolmanDB filament source files.
 
 Detects suspicious source metadata before it becomes a factual data error:
 1. Temperature plausibility & min/max consistency

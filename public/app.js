@@ -1,11 +1,11 @@
 (function () {
     "use strict";
 
-    const EXTERNAL_DB_URL = "https://icezaza2543.github.io/SpoolmanDB-Community/";
+    const EXTERNAL_DB_URL = "https://meltingspool.github.io/SpoolmanDB/";
     const MAX_RENDERED_ROWS = 24;
     const searchCache = new WeakMap();
     const MAX_QUALITY_ROWS = 140;
-    const GITHUB_REPO = "https://github.com/Icezaza2543/SpoolmanDB-Community";
+    const GITHUB_REPO = "https://github.com/MeltingSpool/SpoolmanDB";
     const SOURCE_FINDER_LIMIT = 8;
     const SERVED_FROM_PUBLIC_DIR = window.location.pathname.split("/").includes("public");
     const resourcePath = (file) => SERVED_FROM_PUBLIC_DIR ? "../" + file : file;

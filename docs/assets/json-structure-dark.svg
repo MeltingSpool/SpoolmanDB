@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1440" viewBox="0 0 1200 1440" role="img" aria-labelledby="title desc">
-  <title id="title">SpoolmanDB Community JSON schema map</title>
-  <desc id="desc">A dark white, black, and orange visual map of the JSON Schema rules used by SpoolmanDB Community.</desc>
+  <title id="title">SpoolmanDB JSON schema map</title>
+  <desc id="desc">A dark white, black, and orange visual map of the JSON Schema rules used by SpoolmanDB.</desc>
   <defs>
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.42"/>

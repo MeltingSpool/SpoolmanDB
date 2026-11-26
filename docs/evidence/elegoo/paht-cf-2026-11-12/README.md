@@ -23,5 +23,5 @@ A second measurement/lot verification may be helpful. The manufacturer page also
 
 ## Related contributions
 
-- [Community data correction](https://github.com/Icezaza2543/SpoolmanDB-Community/blob/main/filaments/elegoo.json): this measurement updates only the PAHT-CF 1 kg spool; unrelated ELEGOO products retain their original data
+- [Community data correction](https://github.com/MeltingSpool/SpoolmanDB/blob/main/filaments/elegoo.json): this measurement updates only the PAHT-CF 1 kg spool; unrelated ELEGOO products retain their original data
 - [Upstream contribution to Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB/pull/528)

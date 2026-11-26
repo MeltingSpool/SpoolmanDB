@@ -137,7 +137,7 @@ def fetch_upstream_source(
     last_error: Exception | None = None
     request = urllib.request.Request(
         url,
-        headers={"User-Agent": "SpoolmanDB-Community-compat-check"},
+        headers={"User-Agent": "SpoolmanDB-compat-check"},
     )
 
     for attempt in range(1, attempts + 1):

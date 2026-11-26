@@ -4,7 +4,7 @@ Note on Architecture & Intent:
 This module provides a deterministic projection layer for architectural preparedness in case
 a future Spoolman release enforces strict contract field parsing (rejecting extra/unknown fields).
 It is NOT a claim that current Spoolman releases require a stripped export, nor does it alter
-the primary rich 'filaments.json' artifact published by SpoolmanDB-Community.
+the primary rich 'filaments.json' artifact published by SpoolmanDB.
 """
 
 from __future__ import annotations

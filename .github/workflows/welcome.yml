@@ -3,7 +3,7 @@ name: Welcome Contributor
 on:
   issues:
     types: [opened]
-  pull_request:
+  pull_request_target:
     types: [opened]
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
               message = [
                 `### 🎉 Thank you for opening this Pull Request, @${creator}!`,
                 '',
-                'We really appreciate you taking the time to contribute to the **SpoolmanDB Community** database!',
+                'We really appreciate you taking the time to contribute to the **SpoolmanDB** database!',
                 '',
                 'Here is what happens next:',
                 '1. **Automated Validation:** Our validation workflow will run shortly to check your JSON files against the schemas.',
@@ -40,7 +40,7 @@ jobs:
               message = [
                 `### 👋 Hello @${creator}! Thank you for opening an issue.`,
                 '',
-                'Thanks for helping us keep the **SpoolmanDB Community** database up-to-date!',
+                'Thanks for helping us keep the **SpoolmanDB** database up-to-date!',
                 '',
                 'If you are suggesting a **new filament/brand** or reporting an **incorrect data point**, please make sure you have provided:',
                 '- [ ] Manufacturer name & official website.',

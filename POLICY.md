@@ -2,11 +2,11 @@
 
 Effective date: 2026-06-29
 
-This policy explains how SpoolmanDB Community handles data quality, privacy expectations, public contributions, and correction requests. It applies to the public repository, compiled JSON files, and GitHub Pages site.
+This policy explains how SpoolmanDB handles data quality, privacy expectations, public contributions, and correction requests. It applies to the public repository, compiled JSON files, and GitHub Pages site.
 
 ## 1. Data scope
 
-SpoolmanDB Community is intended to store public filament and material reference data, including manufacturer names, product names, material types, densities, temperatures, diameters, weights, spool types, color names, color hex values, manufacturer product codes, SKUs, platform variant IDs, EAN/GTIN identifiers, and public SDS/TDS links.
+SpoolmanDB is intended to store public filament and material reference data, including manufacturer names, product names, material types, densities, temperatures, diameters, weights, spool types, color names, color hex values, manufacturer product codes, SKUs, platform variant IDs, EAN/GTIN identifiers, and public SDS/TDS links.
 
 The project is not intended to store personal data, private customer information, confidential manufacturer files, private pricing agreements, authentication tokens, or non-public business records.
 

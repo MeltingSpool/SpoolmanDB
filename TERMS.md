@@ -2,7 +2,7 @@
 
 Effective date: 2026-06-29
 
-These terms describe how the public SpoolmanDB Community repository, GitHub Pages site, compiled JSON data, and contribution channels are intended to be used. They are written for project clarity and are not a substitute for legal advice.
+These terms describe how the public SpoolmanDB repository, GitHub Pages site, compiled JSON data, and contribution channels are intended to be used. They are written for project clarity and are not a substitute for legal advice.
 
 ## 1. Relationship to the license
 
@@ -12,7 +12,7 @@ These terms apply to use of the hosted project resources, the community-maintain
 
 ## 2. Community-maintained data
 
-SpoolmanDB Community publishes filament and material data collected from public manufacturer information, contributor research, and community review. The data may contain omissions, stale manufacturer information, transcription errors, incorrect color approximations, or other mistakes.
+SpoolmanDB publishes filament and material data collected from public manufacturer information, contributor research, and community review. The data may contain omissions, stale manufacturer information, transcription errors, incorrect color approximations, or other mistakes.
 
 You are responsible for checking important filament properties against manufacturer documentation, product labels, safety data sheets, technical data sheets, or your own testing before relying on them for purchasing, printing, safety, storage, or operational decisions.
 
