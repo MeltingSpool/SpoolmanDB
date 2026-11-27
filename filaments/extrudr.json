@@ -24,7 +24,7 @@
           "hex": "F4F4F4"
         },
         {
-          "name": "Jet Black ",
+          "name": "Jet Black",
           "hex": "282828"
         },
         {
@@ -100,7 +100,7 @@
           "hex": "F4F4F4"
         },
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E",
           "codes": [
             "9010241082025"
@@ -172,7 +172,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E",
           "codes": [
             "9010241202027"
@@ -567,7 +567,7 @@
           "hex": "F4F4F4"
         },
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         },
         {
@@ -628,7 +628,7 @@
       "bed_temp": 90,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         },
         {
@@ -824,7 +824,7 @@
       ],
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -856,7 +856,7 @@
       ],
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -1069,7 +1069,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -1095,7 +1095,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -1270,7 +1270,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -1296,7 +1296,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -1471,7 +1471,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -1497,7 +1497,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -1672,7 +1672,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -1698,7 +1698,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -1873,7 +1873,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -1899,7 +1899,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -2074,7 +2074,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -2100,7 +2100,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -2275,7 +2275,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Transparent ",
+          "name": "Transparent",
           "hex": "FFFFFF",
           "translucent": true
         }
@@ -2301,7 +2301,7 @@
       "bed_temp": 110,
       "colors": [
         {
-          "name": "Black ",
+          "name": "Black",
           "hex": "1E1E1E"
         }
       ],
@@ -2537,7 +2537,7 @@
           "finish": "matte"
         },
         {
-          "name": "Hellfire Red ",
+          "name": "Hellfire Red",
           "hex": "F80000",
           "finish": "matte"
         },
@@ -2702,7 +2702,7 @@
           "hex": "F80000"
         },
         {
-          "name": "Hellfire Red ",
+          "name": "Hellfire Red",
           "hex": "F80000"
         },
         {
@@ -3045,7 +3045,7 @@
           "hex": "F80000"
         },
         {
-          "name": "Hellfire Red ",
+          "name": "Hellfire Red",
           "hex": "F80000"
         },
         {
