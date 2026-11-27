@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install validation dependencies
-        run: python -m pip install -r requirements-dev.txt
+        run: python -m pip install -r requirements.txt
       - name: Compile filaments
         run: python scripts/compile_filaments.py
       - name: Validate compiled output
@@ -37,7 +37,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install validation dependencies
-        run: python -m pip install -r requirements-dev.txt
+        run: python -m pip install -r requirements.txt
       - name: Verify local snapshot matches configured stable commit
         run: python scripts/check_spoolman_compat.py --mode verify-pin
 
@@ -52,7 +52,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install validation dependencies
-        run: python -m pip install -r requirements-dev.txt
+        run: python -m pip install -r requirements.txt
       - name: Compile filaments
         run: python scripts/compile_filaments.py
       - name: Validate compiled output

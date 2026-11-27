@@ -64,13 +64,13 @@ public/                    GitHub Pages shell and deployed data target
 
 First install developer dependencies:
 
-```powershell
-pip install -r requirements-dev.txt
+```bash
+pip install -r requirements.txt
 ```
 
 Then compile, validate, and test:
 
-```powershell
+```bash
 python scripts/readme_snapshot.py --write
 python scripts/compile_filaments.py
 python scripts/validate.py
