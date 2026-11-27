@@ -2,7 +2,7 @@
   "manufacturer": "Printy Please",
   "filaments": [
     {
-      "name": "{color_name}",
+      "name": "Cat Yarn {color_name}",
       "material": "ABS",
       "density": 1.09,
       "weights": [
