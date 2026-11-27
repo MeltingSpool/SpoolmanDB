@@ -1,4 +1,4 @@
-# SpoolmanDB
+# SpoolmanDB by MeltingSpool
 
 [![Build](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml/badge.svg)](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -86,7 +86,7 @@ Counts describe repository source data. The live site reflects the latest deploy
 For local development, use Python 3.11+ and Node.js 22:
 
 ```sh
-python -m pip install -r requirements-dev.txt
+python -m pip install -r requirements.txt
 python scripts/compile_filaments.py
 python scripts/validate.py --strict
 python scripts/compile_id_baseline.py --strict
