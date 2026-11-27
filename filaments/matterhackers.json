@@ -119,6 +119,95 @@
         }
       ]
     },
+        {
+      "name": "MH Build Series PLA {color_name}",
+      "material": "PLA",
+      "density": 1.25,
+      "weights": [
+        {
+          "weight": 1000,
+          "is_refill": true
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        190,
+        220
+      ],
+      "bed_temp_range": [
+        25,
+        55
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "ABACB0",
+          "codes": [
+            "M-K0P-DTFA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MH Build Series Matte PLA {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        190,
+        220
+      ],
+      "bed_temp_range": [
+        25,
+        55
+      ],
+      "finish": "matte",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000",
+          "finish": "matte"
+        }
+      ]
+    },
+    {
+      "name": "MH Build Series Silky PLA {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        200,
+        230
+      ],
+      "bed_temp_range": [
+        25,
+        55
+      ],
+      "colors": [
+        {
+          "name": "Silky Blue",
+          "hex": "0072ce"
+        }
+      ]
+    },
     {
       "name": "MH Build Series PETG {color_name}",
       "material": "PETG",
@@ -170,37 +259,6 @@
       ]
     },
     {
-      "name": "MH Build Series PLA {color_name}",
-      "material": "PLA",
-      "density": 1.25,
-      "weights": [
-        {
-          "weight": 1000,
-          "is_refill": true
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        25,
-        55
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "ABACB0",
-          "codes": [
-            "M-K0P-DTFA"
-          ]
-        }
-      ]
-    },
-    {
       "name": "MH Build Series ABS {color_name}",
       "material": "ABS",
       "density": 1.04,
@@ -246,6 +304,58 @@
         {
           "name": "Natural",
           "hex": "e8e0d0"
+        }
+      ]
+    },
+        {
+      "name": "MH Build Series ASA {color_name}",
+      "material": "ASA",
+      "density": 1.07,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        240,
+        260
+      ],
+      "bed_temp_range": [
+        90,
+        110
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "0057b8"
+        },
+        {
+          "name": "Green",
+          "hex": "00a651"
+        },
+        {
+          "name": "Red",
+          "hex": "c8102e"
+        },
+        {
+          "name": "White",
+          "hex": "ffffff"
+        },
+        {
+          "name": "Gray",
+          "hex": "808080"
+        },
+        {
+          "name": "Yellow",
+          "hex": "ffd100"
         }
       ]
     },
