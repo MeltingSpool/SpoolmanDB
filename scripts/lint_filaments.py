@@ -88,22 +88,20 @@ def check_name(rep, where, name, material, manufacturer, color_count):
     if not name or name != name.strip() or "  " in name:
         rep.error(where, f"name {name!r} is empty or has leading, trailing or doubled whitespace")
 
-    remainder = name.replace(PLACEHOLDER, "")
+    remainder = squash(name.replace(PLACEHOLDER, ""))
+    _name = squash(name)
+    _material = squash(material)
+    _manufacturer = squash(manufacturer)
 
     # Only an error when the name is *nothing but* the material. Real product
     # lines that contain the material (PolyLite PLA, CR-PETG) are fine.
-    if squash(remainder) in {
-        squash(material),
-        squash(base_material(material)),
-    }:
+    if remainder in {_material, base_material(_material)}:
         rep.error(
             where,
             f"name {name!r} is just the material, which is already in the material field",
             f'use "name": "{PLACEHOLDER}"',
         )
-    elif squash(remainder) and (squash(material) in
-        squash(remainder) or squash(base_material(material)) in
-        squash(remainder)):
+    elif _material in remainder or base_material(_material) in remainder:
      rep.warn(
             where,
             f"name {name!r} repeats the material name",
@@ -111,13 +109,13 @@ def check_name(rep, where, name, material, manufacturer, color_count):
             "it is genuinely part of the product name",
         )
 
-    if squash(remainder) in {squash(manufacturer), squash(manufacturer) + squash(material)}:
+    if remainder in {_manufacturer, _manufacturer + _material}:
         rep.error(
             where,
             f"name {name!r} is just the manufacturer, which is already in the manufacturer field",
             f'use "name": "{PLACEHOLDER}"',
         )
-    elif squash(manufacturer) and squash(manufacturer) in squash(remainder):
+    elif _manufacturer and _manufacturer in remainder:
         rep.warn(
             where,
             f"name {name!r} repeats the manufacturer name",
