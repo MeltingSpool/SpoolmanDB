@@ -18,7 +18,34 @@ jobs:
         with:
           script: |
             const isPullRequest = !!context.payload.pull_request;
-            const creator = context.actor;
+            const target = isPullRequest ? context.payload.pull_request : context.payload.issue;
+            const creator = target.user?.login || context.actor;
+            const currentNumber = target.number;
+
+            let isFirstOfType = true;
+            for await (const response of github.paginate.iterator(
+              github.rest.issues.listForRepo,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                creator,
+                state: 'all',
+                per_page: 100
+              }
+            )) {
+              const hasPrior = response.data.some(
+                (item) => !!item.pull_request === isPullRequest && item.number < currentNumber
+              );
+              if (hasPrior) {
+                isFirstOfType = false;
+                break;
+              }
+            }
+
+            if (!isFirstOfType) {
+              console.log(`Skipping welcome message: @${creator} has already opened a ${isPullRequest ? 'pull request' : 'issue'} before #${currentNumber}.`);
+              return;
+            }
             
             let message = '';
             if (isPullRequest) {
