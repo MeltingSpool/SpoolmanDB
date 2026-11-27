@@ -1,4 +1,4 @@
-# SpoolmanDB
+# SpoolmanDB by MeltingSpool
 
 [![Build](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml/badge.svg)](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
