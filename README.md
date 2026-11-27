@@ -44,16 +44,16 @@ For integrations that store public IDs, consult the [retired-ID registry](https:
 
 ## Current snapshot
 
-* **Published records**: 52,168
+* **Published records**: 52,137
 
 <!-- readme-snapshot:start -->
 | Source | Count |
 | --- | ---: |
-| Manufacturer source files | 492 |
+| Manufacturer source files | 491 |
 | Material definitions | 157 |
-| Source filament objects | 12,380 |
-| Color entries | 35,601 |
-| Compiled filament variants | 52,168 |
+| Source filament objects | 12,376 |
+| Color entries | 35,585 |
+| Compiled filament variants | 52,137 |
 | Source filaments with country of origin | 9,715 |
 | Source filaments with TDS/product links | 5,695 |
 | Source filaments with SDS links | 1,851 |
@@ -67,8 +67,8 @@ Counts in this block are generated from the current repository state. Run `pytho
 
 | Source weight metadata | Entries |
 | --- | ---: |
-| `spool_type: plastic` | 9,776 |
-| `spool_type: cardboard` | 3,154 |
+| `spool_type: plastic` | 9,757 |
+| `spool_type: cardboard` | 3,169 |
 | `spool_type: metal` | 0 |
 | `spool_type: refill` (legacy) | 256 |
 | `spool_type: unknow` (legacy) | 26 |
