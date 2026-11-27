@@ -312,14 +312,6 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Black/Red",
-          "hexes": [
-            "000000",
-            "ff0000"
-          ],
-          "multi_color_direction": "longitudinal"
-        },
-        {
           "name": "Blue + Purple + Black",
           "hexes": [
             "0000ff",
