@@ -1,26 +1,26 @@
 {
-    "type": "array",
-    "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-            "material",
-            "density"
-        ],
-        "properties": {
-            "material": {
-                "type": "string"
-            },
-            "density": {
-                "type": "number",
-                "exclusiveMinimum": 0
-            },
-            "extruder_temp": {
-                "type": "integer"
-            },
-            "bed_temp": {
-                "type": "integer"
-            }
-        }
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "material",
+      "density"
+    ],
+    "properties": {
+      "material": {
+        "type": "string"
+      },
+      "density": {
+        "type": "number",
+        "exclusiveMinimum": 0
+      },
+      "extruder_temp": {
+        "type": "integer"
+      },
+      "bed_temp": {
+        "type": "integer"
+      }
     }
+  }
 }
