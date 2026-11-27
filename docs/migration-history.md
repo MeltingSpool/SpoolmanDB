@@ -136,7 +136,7 @@ This is an **intentional breaking catalog migration** retiring 114 duplicate OFD
 
 The [exact retired IDs, survivors and original keys](audits/2026-10-03-paramount3d-duplicate-review.md#complete-approved-retired-id-list) and [reviewed JSON audit](audits/2026-10-03-paramount3d-duplicate-review.json) record the explicit owner-pattern override and unresolved metadata. PM070 (Matte Black) and prefix cleanup remain in the [backlog](audits/duplicate-backlog.md). Existing Spoolman spools keep local imported data, but Spoolman does not consume the registry or redirect retired external lookups.
 
-This community extension complements the original SpoolmanDB while maintaining its own data-quality tooling and public explorer. Upstream changes are monitored, and suitable source-backed corrections may be proposed back through focused PRs following review and an explicit contribution decision. Community-only extensions remain documented separately, with careful attention to public-ID stability, validation, and a green GitHub Pages deployment.
+This catalog extends the original [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB) while maintaining its own data-quality tooling and public explorer. Upstream changes are monitored, and suitable source-backed corrections may be proposed back through focused PRs following review and an explicit contribution decision. Community-only extensions remain documented separately, with careful attention to public-ID stability, validation, and a green GitHub Pages deployment.
 
 ### AzureFilm duplicate migration (2026-10-03)
 

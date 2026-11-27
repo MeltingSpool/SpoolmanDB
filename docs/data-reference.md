@@ -4,7 +4,7 @@
 
 ### Spoolman compatibility contract
 
-`spool_type` in the published `filaments.json` describes physical spool material and is restricted to the values accepted by Spoolman. Community-only refill metadata is emitted as the additional boolean `is_refill`. The public Community JSON and Explorer retain that distinction; current Spoolman accepts the extra field but drops it when serializing data into its own cache.
+`spool_type` in the published `filaments.json` describes physical spool material and is restricted to the values accepted by Spoolman. Refill metadata beyond the Spoolman contract is emitted as the additional boolean `is_refill`. The public Community JSON and Explorer retain that distinction; current Spoolman accepts the extra field but drops it when serializing data into its own cache.
 
 | Source weight metadata | Published `spool_type` | Published `is_refill` |
 | --- | --- | ---: |
@@ -24,7 +24,7 @@ A separate **canary** check fetches current `Donkie/Spoolman:master`, validates 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/data-model-dark.svg">
-  <img alt="SpoolmanDB Community data model visualization" src="assets/data-model-light.svg">
+  <img alt="SpoolmanDB data model visualization" src="assets/data-model-light.svg">
 </picture>
 
 Source files stay small enough to review by hand. The compiler validates and expands them into the flat JSON contract consumed by Spoolman.
@@ -33,7 +33,7 @@ Source files stay small enough to review by hand. The compiler validates and exp
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/json-structure-dark.svg">
-  <img alt="SpoolmanDB Community JSON schema map visualization" src="assets/json-structure-light.svg">
+  <img alt="SpoolmanDB JSON schema map visualization" src="assets/json-structure-light.svg">
 </picture>
 
 ## Repository layout
@@ -52,7 +52,7 @@ public/                    GitHub Pages shell and deployed data target
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repository-layout-dark.svg">
-  <img alt="SpoolmanDB Community repository layout visualization" src="assets/repository-layout-light.svg">
+  <img alt="SpoolmanDB repository layout visualization" src="assets/repository-layout-light.svg">
 </picture>
 
 ## Contributor workflow
@@ -114,7 +114,7 @@ Color entries can override `finish`, `multi_color_direction`, `pattern`, `transl
 
 Compiled `name` values stay upstream-compatible with [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB): the compiler expands the source template and color only. `material` remains a separate field.
 
-The Community Explorer may compose `material + name` for display and search when the product name does not already contain the material as its own token. For example, `name: "Plus BLACK"` with `material: "ABS"` is stored as-is in `filaments.json`, while Explorer shows `ABS Plus BLACK`.
+The Explorer may compose `material + name` for display and search when the product name does not already contain the material as its own token. For example, `name: "Plus BLACK"` with `material: "ABS"` is stored as-is in `filaments.json`, while Explorer shows `ABS Plus BLACK`.
 
 `python scripts/validate.py` prints non-blocking `WARN display-name` hints for ambiguous templates. Use `--strict-display-names` only when you want that check to fail validation.
 

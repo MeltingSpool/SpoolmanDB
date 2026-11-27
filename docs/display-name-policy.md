@@ -11,7 +11,7 @@ Many filament source templates describe a product line without repeating the mat
 }
 ```
 
-Read in isolation, `name` does not make the material obvious. The Community Explorer should still present a clear label to humans without changing the upstream-compatible compiled data contract.
+Read in isolation, `name` does not make the material obvious. The Explorer should still present a clear label to humans without changing the upstream-compatible compiled data contract.
 
 ## Decisions
 

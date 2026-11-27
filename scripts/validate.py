@@ -84,7 +84,7 @@ def report_display_name_warnings(filaments_dir: Path, *, strict: bool) -> bool:
     return True
 
 def main():
-    parser = argparse.ArgumentParser(description="Validate SpoolmanDB Community data files.")
+    parser = argparse.ArgumentParser(description="Validate SpoolmanDB data files.")
     parser.add_argument(
         "--strict-display-names",
         action="store_true",

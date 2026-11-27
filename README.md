@@ -1,20 +1,20 @@
-# SpoolmanDB Community
+# SpoolmanDB
 
-[![Build](https://github.com/Icezaza2543/SpoolmanDB-Community/actions/workflows/build.yml/badge.svg)](https://github.com/Icezaza2543/SpoolmanDB-Community/actions/workflows/build.yml)
+[![Build](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml/badge.svg)](https://github.com/MeltingSpool/SpoolmanDB/actions/workflows/build.yml)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2ea44f.svg)](CONTRIBUTING.md)
 
 An independent, community-maintained filament catalog that complements [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB). Browse colors and materials, inspect technical documents, and use the published database with [Spoolman](https://github.com/Donkie/Spoolman).
 
-[**Open the Explorer →**](https://icezaza2543.github.io/SpoolmanDB-Community/#explorer) · [Contribute data](CONTRIBUTING.md) · [Compatibility](docs/UPSTREAM_COMPATIBILITY.md) · [Data policy](POLICY.md)
+[**Open the Explorer →**](https://meltingspool.github.io/SpoolmanDB/#explorer) · [Contribute data](CONTRIBUTING.md) · [Compatibility](docs/UPSTREAM_COMPATIBILITY.md) · [Data policy](POLICY.md)
 
 ## Use with Spoolman
 
-1. Browse the [catalog](https://icezaza2543.github.io/SpoolmanDB-Community/#explorer) and check the product and packaging you need.
+1. Browse the [catalog](https://meltingspool.github.io/SpoolmanDB/#explorer) and check the product and packaging you need.
 2. Set this environment variable in your Spoolman server configuration (for Docker Compose, under your existing service's `environment`):
 
    ```yaml
-   EXTERNAL_DB_URL: https://icezaza2543.github.io/SpoolmanDB-Community/
+   EXTERNAL_DB_URL: https://meltingspool.github.io/SpoolmanDB/
    ```
 
 3. Restart/recreate your Spoolman service with that configuration, then use its external filament picker. The URL is the **directory**, including the trailing slash; Spoolman requests the JSON files beneath it.
@@ -38,9 +38,9 @@ Data completeness describes which fields are present. It does **not** certify a 
 
 We prefer manufacturer product pages, technical documents and recorded measurements. Unknown density, colors, identifiers and spool tare must not be invented. A catalog entry is reference data; check the exact package and manufacturer's current guidance.
 
-Historical public IDs are protected by a baseline gate. Community extensions include document links, product identifiers and refill metadata. Some fields are supported by upstream SpoolmanDB but are not consumed by the Spoolman application. [Read the field compatibility matrix](docs/UPSTREAM_COMPATIBILITY.md).
+Historical public IDs are protected by a baseline gate. Extensions beyond upstream include document links, product identifiers and refill metadata. Some fields are supported by upstream SpoolmanDB but are not consumed by the Spoolman application. [Read the field compatibility matrix](docs/UPSTREAM_COMPATIBILITY.md).
 
-For integrations that store public IDs, consult the [retired-ID registry](https://icezaza2543.github.io/SpoolmanDB-Community/retired_ids.json). The [Polymaker migration](docs/audits/2026-11-25-polymaker-rename.md) renamed 1,046 IDs without changing materials or packaging. The [AzureFilm pilot](docs/audits/2026-11-23-azurefilm-reclassification.md) was a separate material correction. Spoolman keeps existing local spool data but does not follow these mappings automatically.
+For integrations that store public IDs, consult the [retired-ID registry](https://meltingspool.github.io/SpoolmanDB/retired_ids.json). The [Polymaker migration](docs/audits/2026-11-25-polymaker-rename.md) renamed 1,046 IDs without changing materials or packaging. The [AzureFilm pilot](docs/audits/2026-11-23-azurefilm-reclassification.md) was a separate material correction. Spoolman keeps existing local spool data but does not follow these mappings automatically.
 
 ## Current snapshot
 
@@ -81,7 +81,7 @@ Counts describe repository source data. The live site reflects the latest deploy
 
 ## Contribute
 
-[Report missing or incorrect data](https://github.com/Icezaza2543/SpoolmanDB-Community/issues/new/choose), or send a focused manufacturer PR with source evidence. Start with [CONTRIBUTING.md](CONTRIBUTING.md); maintainers should also read the [maintenance guide](docs/maintenance.md).
+[Report missing or incorrect data](https://github.com/MeltingSpool/SpoolmanDB/issues/new/choose), or send a focused manufacturer PR with source evidence. Start with [CONTRIBUTING.md](CONTRIBUTING.md); maintainers should also read the [maintenance guide](docs/maintenance.md).
 
 For local development, use Python 3.11+ and Node.js 22:
 
@@ -114,7 +114,7 @@ Open `http://localhost:8000/public/` to preview the Explorer. Do not commit gene
 | Missing evidence and reopening conditions | [Coverage backlog](docs/coverage-backlog.md) |
 | Earlier owner-approved duplicate migrations | [Migration history](docs/migration-history.md) |
 
-Published resources: [filaments.json](https://icezaza2543.github.io/SpoolmanDB-Community/filaments.json) · [materials.json](https://icezaza2543.github.io/SpoolmanDB-Community/materials.json) · [compiled schema](https://icezaza2543.github.io/SpoolmanDB-Community/filaments.compiled.schema.json).
+Published resources: [filaments.json](https://meltingspool.github.io/SpoolmanDB/filaments.json) · [materials.json](https://meltingspool.github.io/SpoolmanDB/materials.json) · [compiled schema](https://meltingspool.github.io/SpoolmanDB/filaments.compiled.schema.json).
 
 ## Thanks to upstream
 

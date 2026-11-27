@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-  <title id="title">SpoolmanDB Community repository layout</title>
+  <title id="title">SpoolmanDB repository layout</title>
   <desc id="desc">A white, black, and orange repository map showing source data, validation contracts, build tools, public output, and contributor files.</desc>
   <defs>
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">

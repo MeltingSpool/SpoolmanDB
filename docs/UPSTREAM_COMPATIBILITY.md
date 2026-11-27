@@ -1,6 +1,6 @@
 # Upstream Compatibility & Divergence Tracker
 
-This document tracks the compatibility status, technical divergence, and capability matrix between **SpoolmanDB-Community** and upstream repositories.
+This document tracks the compatibility status, technical divergence, and capability matrix between **SpoolmanDB** and upstream repositories.
 
 ---
 
@@ -8,11 +8,11 @@ This document tracks the compatibility status, technical divergence, and capabil
 
 | Upstream Repository | Role / Type | Status | Observed State & Relationship |
 | :--- | :--- | :--- | :--- |
-| **`Donkie/Spoolman`** | Application Server & Contract Provider | **ACTIVE UPSTREAM** | Primary target contract provider. Community dataset compiles strictly to Spoolman's `ExternalFilament` contract (`spoolman/externaldb.py`). |
+| **`Donkie/Spoolman`** | Application Server & Contract Provider | **ACTIVE UPSTREAM** | Primary target contract provider. This dataset compiles strictly to Spoolman's `ExternalFilament` contract (`spoolman/externaldb.py`). |
 | **`Donkie/SpoolmanDB`** | Static Data Repository | **ACTIVE UPSTREAM** | Latest observed main: `c67dcd85dd4ff8de9bbc4f1eaa617aa837e95b1a` (2026-10-29), checked 2026-10-30. Selective reconciliation: 20 Sunlu PETG 2.0 variants accepted; conflicts deferred. |
 
 > [!NOTE]
-> **SpoolmanDB-Community** operates as an independent community database for 3D printing filaments. It is compatible with the pinned stable Spoolman contract and monitored against the current master canary. It enforces strict public ID stability, data verification guidelines, and rich technical metadata.
+> **SpoolmanDB** operates as an independent community database for 3D printing filaments. It is compatible with the pinned stable Spoolman contract and monitored against the current master canary. It enforces strict public ID stability, data verification guidelines, and rich technical metadata.
 
 ---
 
@@ -26,8 +26,8 @@ Upstream testing configurations are defined in [`contracts/spoolman_upstream.jso
   * No field/type/enum drift from the previous v0.25.0 pin; the reviewed AST-only snapshot is unchanged. This verifies the external-data contract, not a live server/UI import. See [release and catalog audit](audits/2026-11-07-release-catalog.md).
 * **Spoolman Canary (Advisory)**: Branch `master`
   * Contract Check: **PASSING** (No `ExternalFilament` field or type drift)
-* **SpoolmanDB Historical Community Base**: `5b61e755926568ec3b3235701684595872b70b49` (`2025-11-28`)
-  * This remains the historical data base used when Community diverged; it is not the current upstream head.
+* **Historical divergence base**: `5b61e755926568ec3b3235701684595872b70b49` (`2025-11-28`)
+  * This remains the historical data base from which this catalog diverged; it is not the current upstream head.
 * **SpoolmanDB Latest Observed Main**: `c67dcd85dd4ff8de9bbc4f1eaa617aa837e95b1a` (`2026-10-29`)
   * Includes COO (#283), per-color TD (#497), fixed single-color names (#496), Bambu Silk (#486) and Kingroon PLA (#499). [Reconciliation decisions](audits/2026-10-30-reconciliation.md) preserve the historical base and existing IDs.
   * Previous observation: `77c3ad7f4eecd342be72845063fe5b34dad69cd0` (2026-08-31), retained for audit history only; no longer the latest observed head.
@@ -44,7 +44,7 @@ Status Enum Definitions:
 * **`upstream-pending`**: Proposed feature awaiting upstream review or merge.
 * **`hold`**: Feature held in community pending further consensus or design review.
 
-| Feature / Capability | Status | Upstream Spoolman Behavior | Community Implementation | Upstream References |
+| Feature / Capability | Status | Upstream Spoolman Behavior | SpoolmanDB Implementation | Upstream References |
 | :--- | :--- | :--- | :--- | :--- |
 | **`spool_type` Material Enum** | `supported` | Native enum in `ExternalFilament` (`plastic`, `cardboard`, `metal`) | Normalized to strict enum; legacy null types sanitized. | — |
 | **Refill & `is_refill` Boolean** | `community-extension` | Absent from `ExternalFilament`; accepts `plastic`/`cardboard`/`metal` or `null` only | Supported (source `refill` normalized to `null` `spool_type` + explicit `is_refill: true`, preserving `legacy_id_spool_type`). | `Donkie/SpoolmanDB#26` |

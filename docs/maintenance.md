@@ -1,4 +1,4 @@
-# SpoolmanDB-Community Maintenance Guide
+# SpoolmanDB Maintenance Guide
 
 Use this guide for evidence-backed maintenance. The JSON schemas and compiler are authoritative; the Explorer's relationship diagram is conceptual, not a physical database schema.
 

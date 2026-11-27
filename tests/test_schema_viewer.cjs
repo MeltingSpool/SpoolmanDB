@@ -24,7 +24,7 @@ function element() {
     };
 }
 
-function harness({ pathname = "/SpoolmanDB-Community/", failFile = null } = {}) {
+function harness({ pathname = "/SpoolmanDB/", failFile = null } = {}) {
     const nodes = Object.fromEntries([
         "schema-choice", "schema-status", "schema-summary", "schema-fields-body",
         "schema-open-link", "schema-copy-url",
@@ -57,7 +57,7 @@ function harness({ pathname = "/SpoolmanDB-Community/", failFile = null } = {}) 
 }
 
 module.exports = async function testSchemaViewer() {
-    for (const pathname of ["/SpoolmanDB-Community/", "/public/"]) {
+    for (const pathname of ["/SpoolmanDB/", "/public/"]) {
         const { api, nodes, requests } = harness({ pathname });
         await api.loadSchemas();
         assert.equal(requests.length, Object.keys(api.SCHEMA_CONFIG).length);
