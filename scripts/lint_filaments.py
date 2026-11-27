@@ -8,6 +8,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from unidecode import unidecode
 
 SCHEMA = Path("filaments.schema.json")
 FILAMENTS_DIR = Path("filaments")
@@ -224,7 +225,7 @@ def lint_file(path: Path, keysets) -> Report:
         return rep
 
     manufacturer = data.get("manufacturer", "")
-    expected = re.sub(r"[^a-z0-9]", "", manufacturer.lower())
+    expected = re.sub(r"[^a-z0-9]", "", unidecode(manufacturer.lower()))
     if path.stem.lower() != expected and expected:
         rep.warn(
             path.name,
