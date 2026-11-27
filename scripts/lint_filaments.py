@@ -106,6 +106,15 @@ def check_name(rep, where, name, material, manufacturer, color_count):
             f"name {name!r} is just the material, which is already in the material field",
             f'use "name": "{PLACEHOLDER}"',
         )
+    elif squash_material(remainder) and (squash_material(material) in
+        squash_material(remainder) or squash_material(base_material(material)) in
+        squash_material(remainder)):
+     rep.warn(
+            where,
+            f"name {name!r} repeats the material name",
+            "the material is already a field, drop it from the name unless "
+            "it is genuinely part of the product name",
+        )
 
     if squash(remainder) in {squash(manufacturer), squash(manufacturer) + squash(material)}:
         rep.error(
