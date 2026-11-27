@@ -62,13 +62,8 @@ def base_material(material: str) -> str:
 
 
 def squash(text: str) -> str:
-    """Lowercases and drops separators, so 'PLA - ' == 'pla'."""
-    return re.sub(r"[^a-z0-9]", "", text.lower())
-
-
-def squash_material(text: str) -> str:
-    """Like squash, but keeps '+' so that ABS+ stays distinct from ABS."""
-    return re.sub(r"[^a-z0-9+]", "", text.lower())
+    """Lowercases and drops separators, so 'PLA - ' == 'pla', but pluses remain untouched."""
+    return re.sub(r"[^a-z0-9]+", "", text.lower())
 
 
 def check_keys(rep, where, obj, permitted, kind):
@@ -97,18 +92,18 @@ def check_name(rep, where, name, material, manufacturer, color_count):
 
     # Only an error when the name is *nothing but* the material. Real product
     # lines that contain the material (PolyLite PLA, CR-PETG) are fine.
-    if squash_material(remainder) in {
-        squash_material(material),
-        squash_material(base_material(material)),
+    if squash(remainder) in {
+        squash(material),
+        squash(base_material(material)),
     }:
         rep.error(
             where,
             f"name {name!r} is just the material, which is already in the material field",
             f'use "name": "{PLACEHOLDER}"',
         )
-    elif squash_material(remainder) and (squash_material(material) in
-        squash_material(remainder) or squash_material(base_material(material)) in
-        squash_material(remainder)):
+    elif squash(remainder) and (squash(material) in
+        squash(remainder) or squash(base_material(material)) in
+        squash(remainder)):
      rep.warn(
             where,
             f"name {name!r} repeats the material name",
