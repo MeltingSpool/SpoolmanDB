@@ -62,8 +62,8 @@ def base_material(material: str) -> str:
 
 
 def squash(text: str) -> str:
-    """Lowercases and drops separators, so 'PLA - ' == 'pla', but pluses remain untouched."""
-    return re.sub(r"[^a-z0-9]+", "", text.lower())
+    """Lowercases and drops separators, so 'PLA - ' == 'pla', but pluses remain untouched and slashes become pluses."""
+    return re.sub(r"[^a-z0-9]+", "", text.lower().replace("/", "+"))
 
 
 def check_keys(rep, where, obj, permitted, kind):
