@@ -191,23 +191,14 @@ def check_numbers(rep, where, filament):
             )
 
     for i, weight in enumerate(filament["weights"]):
-        net = weight["weight"]
         tare = weight.get("spool_weight")
         is_refill = weight.get("is_refill") is True or weight.get("spool_type") == "refill"
-        if tare is None:
-            if not is_refill:
-                rep.warn(
-                    f"{where} weights[{i}]",
-                    "missing spool_weight",
-                    "If you can, put an empty spool on a kitchen scale and use the "
-                    "result. Do not guess; use verifiable data.",
-                )
-        elif tare >= net:
+        if tare is None and not is_refill:
             rep.warn(
                 f"{where} weights[{i}]",
-                f"spool_weight {tare} is not less than the filament weight {net}",
-                "weight is the net filament weight and spool_weight the empty "
-                "spool; a store listing's gross weight is neither",
+                "missing spool_weight",
+                "If you can, put an empty spool on a kitchen scale and use the "
+                "result. Do not guess; use verifiable data.",
             )
 
     combos = (
