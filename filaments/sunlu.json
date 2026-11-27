@@ -12591,11 +12591,6 @@
           "hex": "F8E600"
         }
       ],
-      "extruder_temp": 60,
-      "bed_temp_range": [
-        0,
-        0
-      ],
       "tds_url": "https://cdn.shopify.com/s/files/1/0909/3450/9859/files/PCL-TDS.pdf"
     },
     {
