@@ -102,12 +102,15 @@ def check_name(rep, where, name, material, manufacturer, color_count):
             f'use "name": "{PLACEHOLDER}"',
         )
     elif _material in remainder or base_material(_material) in remainder:
-     rep.warn(
-            where,
-            f"name {name!r} repeats the material name",
-            "the material is already a field, drop it from the name unless "
-            "it is genuinely part of the product name",
-        )
+        if _material == "pp" and not " pp " in remainder:
+            pass
+        else:
+            rep.warn(
+                where,
+                f"name {name!r} repeats the material name",
+                "the material is already a field, drop it from the name unless "
+                "it is genuinely part of the product name",
+            )
 
     if remainder in {_manufacturer, _manufacturer + _material}:
         rep.error(
