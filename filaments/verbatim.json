@@ -2,7 +2,7 @@
   "manufacturer": "Verbatim",
   "filaments": [
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -33,7 +33,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -64,7 +64,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -95,7 +95,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -126,7 +126,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -157,7 +157,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -188,7 +188,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -219,7 +219,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -253,7 +253,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -287,7 +287,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -321,7 +321,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -355,7 +355,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -390,7 +390,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -425,7 +425,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -459,7 +459,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -494,7 +494,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -528,7 +528,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -562,7 +562,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -597,7 +597,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -630,7 +630,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -663,7 +663,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -697,7 +697,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "Verbatim ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -730,7 +730,7 @@
       "country_of_origin": "JP"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -761,7 +761,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -792,7 +792,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -822,7 +822,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -852,7 +852,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -883,7 +883,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -913,7 +913,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -944,7 +944,7 @@
       "bed_temp": 90
     },
     {
-      "name": "BVOH {color_name}",
+      "name": "{color_name}",
       "material": "BVOH",
       "density": 1.14,
       "weights": [
@@ -973,7 +973,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1004,7 +1004,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1035,7 +1035,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1066,7 +1066,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1098,7 +1098,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1130,7 +1130,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1161,7 +1161,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1193,7 +1193,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1224,7 +1224,7 @@
       "bed_temp": 90
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1255,7 +1255,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1286,7 +1286,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1317,7 +1317,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1348,7 +1348,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1378,7 +1378,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1409,7 +1409,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1440,7 +1440,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -1470,7 +1470,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "Tefabloc TPE {color_name}",
+      "name": "Tefabloc {color_name}",
       "material": "TPE",
       "density": 1.2,
       "weights": [

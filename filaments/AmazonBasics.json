@@ -244,7 +244,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

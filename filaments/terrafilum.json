@@ -2,7 +2,7 @@
   "manufacturer": "Terrafilum",
   "filaments": [
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -47,8 +47,8 @@
       ]
     },
     {
-      "name": "PLA-ABS {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-ABS",
       "density": 1.18,
       "weights": [
         {
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "name": "PLA-TPU {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-TPU",
       "density": 1.18,
       "weights": [
         {

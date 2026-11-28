@@ -2,7 +2,7 @@
   "manufacturer": "SA 3D Fusion",
   "filaments": [
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [

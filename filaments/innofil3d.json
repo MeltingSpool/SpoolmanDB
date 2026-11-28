@@ -2,7 +2,7 @@
   "manufacturer": "Innofil3D",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "PET {color_name}",
+      "name": "{color_name}",
       "material": "PET",
       "density": 1.34,
       "weights": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Flex45 {color_name}",
+      "name": "{color_name}",
       "material": "TPU-45A",
       "density": 1.15,
       "weights": [
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Flex60 {color_name}",
+      "name": "{color_name}",
       "material": "TPU-60A",
       "density": 1.25,
       "weights": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "ABS Fusion+ {color_name}",
+      "name": "Fusion+ {color_name}",
       "material": "ABS",
       "density": 1.08,
       "weights": [
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.06,
       "weights": [
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "name": "PET CF15 {color_name}",
+      "name": "{color_name}",
       "material": "PET-CF15",
       "density": 1.23,
       "weights": [
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "name": "PAHT CF15 {color_name}",
+      "name": "HT {color_name}",
       "material": "PA-CF15",
       "density": 1.18,
       "weights": [
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "name": "PP GF30 {color_name}",
+      "name": "{color_name}",
       "material": "PP-GF30",
       "density": 0.94,
       "weights": [
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "name": "PA {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.12,
       "weights": [
@@ -535,7 +535,7 @@
       ]
     },
     {
-      "name": "TPU 85A {color_name}",
+      "name": "{color_name}",
       "material": "TPU-85A",
       "density": 1.21,
       "weights": [

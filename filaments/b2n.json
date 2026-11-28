@@ -2,7 +2,7 @@
   "manufacturer": "B2N",
   "filaments": [
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.29,
       "weights": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.29,
       "weights": [

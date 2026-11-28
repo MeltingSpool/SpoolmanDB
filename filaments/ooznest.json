@@ -2,7 +2,7 @@
   "manufacturer": "Ooznest",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -52,7 +52,7 @@
       "country_of_origin": "GB"
     },
     {
-      "name": "GLITZ PLA {color_name}",
+      "name": "GLITZ {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

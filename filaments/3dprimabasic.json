@@ -2,7 +2,7 @@
   "manufacturer": "3D Prima Basic",
   "filaments": [
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -156,7 +156,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -212,7 +212,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -303,7 +303,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "Recycle PLA {color_name}",
+      "name": "Recycle {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

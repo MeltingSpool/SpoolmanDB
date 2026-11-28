@@ -2,7 +2,7 @@
   "manufacturer": "EPAX",
   "filaments": [
     {
-      "name": "Fast PLA+ {color_name}",
+      "name": "Fast {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -540,7 +540,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Fast PETG {color_name}",
+      "name": "Fast {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -732,7 +732,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG-CF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.27,
       "weights": [
@@ -763,7 +763,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1244,7 +1244,7 @@
       "finish": "matte"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

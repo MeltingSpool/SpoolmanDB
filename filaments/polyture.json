@@ -2,7 +2,7 @@
   "manufacturer": "Polyture",
   "filaments": [
     {
-      "name": "POLYTURE ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "POLYTURE ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [

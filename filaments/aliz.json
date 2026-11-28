@@ -2,7 +2,7 @@
   "manufacturer": "Aliz",
   "filaments": [
     {
-      "name": "PETG Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -32,7 +32,7 @@
       "country_of_origin": "HU"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -141,7 +141,7 @@
       "country_of_origin": "HU"
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -191,7 +191,7 @@
       "country_of_origin": "HU"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

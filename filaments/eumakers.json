@@ -2,7 +2,7 @@
   "manufacturer": "EUMAKERS",
   "filaments": [
     {
-      "name": "PA Carbon Fiber {color_name}",
+      "name": "{color_name}",
       "material": "PA-CF",
       "density": 1.0,
       "weights": [
@@ -70,7 +70,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA Glass Fiber {color_name}",
+      "name": "{color_name}",
       "material": "PA-GF",
       "density": 1.14,
       "weights": [
@@ -143,7 +143,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PLA Anti Hydrolysis {color_name}",
+      "name": "Anti Hydrolysis {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "PLA Eco {color_name}",
+      "name": "Eco {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "name": "PLA Fast Prints {color_name}",
+      "name": "Fast Prints {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "name": "PLA Fluorescent {color_name}",
+      "name": "Fluorescent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -397,7 +397,7 @@
       ]
     },
     {
-      "name": "PLA Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -485,7 +485,7 @@
       "pattern": "sparkle"
     },
     {
-      "name": "PLA Glossy {color_name}",
+      "name": "Glossy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -578,7 +578,7 @@
       "finish": "glossy"
     },
     {
-      "name": "PLA High Impact {color_name}",
+      "name": "High Impact {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "name": "PLA Iridescent {color_name}",
+      "name": "Iridescent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -726,7 +726,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -829,7 +829,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA Metallic {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "name": "PLA Multicolor {color_name}",
+      "name": "Multicolor {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1013,7 +1013,7 @@
       "multi_color_direction": "coaxial"
     },
     {
-      "name": "PLA Pearl {color_name}",
+      "name": "Pearl {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1091,7 +1091,7 @@
       ]
     },
     {
-      "name": "PLA Stone {color_name}",
+      "name": "Stone {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1174,7 +1174,7 @@
       ]
     },
     {
-      "name": "PLA Transparent {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "name": "PLA UV Reactive {color_name}",
+      "name": "UV Reactive {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1314,7 +1314,7 @@
       "glow": true
     },
     {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1379,7 +1379,7 @@
       "fill": "wood"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1725,7 +1725,7 @@
       ]
     },
     {
-      "name": "Fluorescent PLA {color_name}",
+      "name": "Fluorescent {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -1770,7 +1770,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "Iridescent PLA {color_name}",
+      "name": "Iridescent {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -1811,7 +1811,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1869,7 +1869,7 @@
       "finish": "matte"
     },
     {
-      "name": "Metallic PLA {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -1910,7 +1910,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "Pearl PLA {color_name}",
+      "name": "Pearl {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -1951,7 +1951,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2000,7 +2000,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "Silver Glitter PLA {color_name}",
+      "name": "Silver Glitter {color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -2045,7 +2045,7 @@
       "country_of_origin": "IT"
     },
     {
-      "name": "UV Reactive Glow PLA {color_name}",
+      "name": "UV Reactive Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

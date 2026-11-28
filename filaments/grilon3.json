@@ -35,7 +35,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -70,7 +70,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -105,7 +105,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -144,7 +144,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://www.nth.com.ar/documentos/grilon3_pla.pdf",
       "density": 1.25,
@@ -359,7 +359,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://www.nth.com.ar/documentos/grilon3_pla.pdf",
       "density": 1.25,
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -912,7 +912,7 @@
       ]
     },
     {
-      "name": "PLA Astra {color_name}",
+      "name": "Astra {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -1092,7 +1092,7 @@
       ]
     },
     {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.18,
       "weights": [
@@ -1248,7 +1248,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "Nylon 12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "name": "Nylon 6 {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -1408,7 +1408,7 @@
       ]
     },
     {
-      "name": "PLA 850 {color_name}",
+      "name": "850 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1513,7 +1513,7 @@
       ]
     },
     {
-      "name": "PLA 870 {color_name}",
+      "name": "870 {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -1598,7 +1598,7 @@
       ]
     },
     {
-      "name": "PLA Zeta {color_name}",
+      "name": "Zeta {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -1776,7 +1776,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1809,7 +1809,7 @@
       ]
     },
     {
-      "name": "Maxicarrete ABS {color_name}",
+      "name": "Maxicarrete {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -1864,7 +1864,7 @@
       ]
     },
     {
-      "name": "Maxicarrete PETG {color_name}",
+      "name": "Maxicarrete {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1994,7 +1994,7 @@
       ]
     },
     {
-      "name": "PLA {color_name} Megafill",
+      "name": "{color_name} Megafill",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -2099,7 +2099,7 @@
       ]
     },
     {
-      "name": "PETG {color_name} Megafill",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2151,7 +2151,7 @@
       ]
     },
     {
-      "name": "PLA Boutique {color_name} Megafill",
+      "name": "Boutique {color_name} Megafill",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -2186,7 +2186,7 @@
       ]
     },
     {
-      "name": "PLA Boutique {color_name}",
+      "name": "Boutique {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -2368,7 +2368,7 @@
       "country_of_origin": "AR"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://www.nth.com.ar/documentos/grilon3_pla.pdf",
       "density": 1.24,

@@ -3648,8 +3648,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ABS-GF {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS-GF",
       "density": 1.08,
       "weights": [
         {
@@ -3738,7 +3738,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ASA Aero {color_name}",
+      "name": "Aero {color_name}",
       "material": "ASA",
       "density": 0.99,
       "weights": [
@@ -3767,8 +3767,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/asa-tds"
     },
     {
-      "name": "ASA-CF {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.02,
       "weights": [
         {
@@ -3798,8 +3798,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Matte ASA CF {color_name}",
-      "material": "ASA",
+      "name": "Matte {color_name}",
+      "material": "ASA-CF",
       "density": 1.07,
       "weights": [
         {
@@ -3831,8 +3831,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.01,
       "weights": [
         {
@@ -3863,8 +3863,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6-CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.09,
       "weights": [
         {
@@ -3907,8 +3907,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6-GF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-GF",
       "density": 1.14,
       "weights": [
         {
@@ -3992,8 +3992,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PAHT-CF {color_name}",
-      "material": "PA6",
+      "name": "HT {color_name}",
+      "material": "PA6-CF",
       "density": 1.06,
       "weights": [
         {
@@ -4030,8 +4030,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PET-CF {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-CF",
       "density": 1.29,
       "weights": [
         {
@@ -4074,7 +4074,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PETG",
       "density": 1.25,
       "weights": [
@@ -4151,8 +4151,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/petg-basic-tds"
     },
     {
-      "name": "PETG-CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.25,
       "weights": [
         {
@@ -4235,7 +4235,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG Translucent {color_name}",
+      "name": "Translucent {color_name}",
       "material": "PETG",
       "density": 1.25,
       "weights": [
@@ -4308,7 +4308,7 @@
       "tds_url": "https://store.bblcdn.com/s1/default/338c9cd853fd44d9b6ed354a49048e72/Bambu_PETG_Translucent_Technical_Data_Sheet.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4336,7 +4336,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4361,7 +4361,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4389,7 +4389,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4417,7 +4417,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4442,7 +4442,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4467,7 +4467,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4492,7 +4492,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4517,7 +4517,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4545,7 +4545,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4573,7 +4573,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4598,7 +4598,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4623,7 +4623,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4648,7 +4648,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4673,7 +4673,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4701,7 +4701,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4729,7 +4729,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4757,7 +4757,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4782,7 +4782,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4807,7 +4807,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4832,7 +4832,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4857,7 +4857,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4882,7 +4882,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4907,7 +4907,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4935,7 +4935,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4960,7 +4960,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4985,7 +4985,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5010,7 +5010,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5038,7 +5038,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5066,7 +5066,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5091,7 +5091,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5116,7 +5116,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5144,7 +5144,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5169,7 +5169,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5197,7 +5197,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5225,7 +5225,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5250,7 +5250,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5275,7 +5275,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5300,7 +5300,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5325,7 +5325,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5353,7 +5353,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5381,7 +5381,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5406,7 +5406,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5431,7 +5431,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5456,7 +5456,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5481,7 +5481,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5509,7 +5509,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5537,7 +5537,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5565,7 +5565,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5590,7 +5590,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5615,7 +5615,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5640,7 +5640,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5665,7 +5665,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5690,7 +5690,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5715,7 +5715,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5743,7 +5743,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5768,7 +5768,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5793,7 +5793,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5818,7 +5818,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5846,7 +5846,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5874,7 +5874,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5899,7 +5899,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5924,7 +5924,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Basic Gradient {color_name}",
+      "name": "Basic Gradient {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5977,7 +5977,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-basic-tds"
     },
     {
-      "name": "PLA Galaxy {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PLA",
       "density": 1.19,
       "weights": [
@@ -6014,7 +6014,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-galaxy-tds"
     },
     {
-      "name": "PLA Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -6043,7 +6043,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-marble-tds"
     },
     {
-      "name": "PLA Metal {color_name}",
+      "name": "Metal {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -6084,7 +6084,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-metal-tds"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6115,8 +6115,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "PLA-CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.22,
       "weights": [
         {
@@ -6171,7 +6171,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA Silk Dual Color {color_name}",
+      "name": "Silk Dual Color {color_name}",
       "material": "PLA",
       "density": 1.32,
       "weights": [
@@ -6331,7 +6331,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Bambu_PLA_Silk_Dual_Color_Technical_Data_Sheet.pdf"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6362,7 +6362,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6393,7 +6393,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6424,7 +6424,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6455,7 +6455,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6486,7 +6486,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6517,7 +6517,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6548,7 +6548,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6579,7 +6579,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6610,7 +6610,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "PLA Sparkle {color_name}",
+      "name": "Sparkle {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -6685,7 +6685,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-sparkle-tds"
     },
     {
-      "name": "PLA Tough+ {color_name}",
+      "name": "Tough+ {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -6710,7 +6710,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-tough-tds"
     },
     {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.21,
       "weights": [
@@ -6755,8 +6755,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/pla-wood-tds"
     },
     {
-      "name": "PPA-CF {color_name}",
-      "material": "PPA",
+      "name": "{color_name}",
+      "material": "PPA-CF",
       "density": 1.25,
       "weights": [
         {
@@ -6780,8 +6780,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PPS-CF {color_name}",
-      "material": "PPS",
+      "name": "{color_name}",
+      "material": "PPS-CF",
       "density": 1.26,
       "weights": [
         {
@@ -6914,8 +6914,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides/support-for-pla-tds"
     },
     {
-      "name": "TPU 95A HF {color_name}",
-      "material": "TPU",
+      "name": "HF {color_name}",
+      "material": "TPU-95A",
       "density": 1.22,
       "weights": [
         {
@@ -6959,8 +6959,8 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-85A",
       "density": 1.18,
       "weights": [
         {
@@ -6974,31 +6974,85 @@
       ],
       "colors": [
         {
-          "name": "85A Light Cyan",
+          "name": "Light Cyan",
           "hex": "C2EFE8"
         },
         {
-          "name": "85A Neon Orange",
+          "name": "Neon Orange",
           "hex": "FA8423"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "CN",
+      "tds_url": "https://wiki.bambulab.com/en/filament-guides"
+    },
+    {
+      "name": "{color_name}",
+      "material": "TPU-90A",
+      "density": 1.18,
+      "weights": [
         {
-          "name": "90A Black",
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 250
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "90A Blaze",
+          "name": "Blaze",
           "hex": "F1AAA8"
         },
         {
-          "name": "90A Frozen",
+          "name": "Frozen",
           "hex": "FFFFFF"
         },
         {
-          "name": "90A White",
+          "name": "White",
           "hex": "FFFFFF"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "CN",
+      "tds_url": "https://wiki.bambulab.com/en/filament-guides"
+    },
+    {
+      "name": "For AMS {color_name}",
+      "material": "TPU-68D",
+      "density": 1.18,
+      "weights": [
         {
-          "name": "for AMS",
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 250
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "FFFB00"
         }
       ],
@@ -7014,7 +7068,7 @@
       "tds_url": "https://wiki.bambulab.com/en/filament-guides"
     },
     {
-      "name": "PLA Pure {color_name}",
+      "name": "Pure {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7038,7 +7092,7 @@
       "colors": [
         {
           "name": "Pure White",
-          "display_name": "PLA Pure White",
+          "display_name": "Pure White",
           "hex": "FFFFFF",
           "codes": [
             "17100"
@@ -7076,7 +7130,7 @@
       "tds_url": "https://store.bblcdn.eu/s8/default/bc2bbe5af3cc45e6a3808eaeb1933c83/pla_pure_-TDS.pdf"
     },
     {
-      "name": "PLA Pure {color_name}",
+      "name": "Pure {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7098,8 +7152,7 @@
       ],
       "colors": [
         {
-          "name": "Pure White",
-          "display_name": "PLA Pure White",
+          "name": "White",
           "hex": "FFFFFF",
           "codes": [
             "17100"

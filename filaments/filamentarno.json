@@ -237,7 +237,7 @@
       ]
     },
     {
-      "name": "PLA+ Standart {color_name}",
+      "name": "Standart {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "name": "PLA+ Standart {color_name}",
+      "name": "Standart {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "name": "ABS Standart {color_name}",
+      "name": "Standart {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "name": "ABS Standart {color_name}",
+      "name": "Standart {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

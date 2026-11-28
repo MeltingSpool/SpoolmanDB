@@ -192,7 +192,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -229,7 +229,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -306,7 +306,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "ARMY PETG {color_name}",
+      "name": "ARMY {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -351,7 +351,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -367,177 +367,27 @@
         {
           "name": "Bright Orange",
           "hex": "FF8E24"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Copper brown",
           "hex": "C06341"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Machine Blue",
           "hex": "5CADBF"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Nuclear Orange",
           "hex": "FF6600"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "PARK-SIDE",
           "hex": "364429"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "ABACB0"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Ultramarine Blue Transparent",
           "hex": "0066D9"
@@ -554,7 +404,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PLA HT110 {color_name}",
+      "name": "HT110 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -615,7 +465,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "L-EGO PLA {color_name}",
+      "name": "L-EGO {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -631,148 +481,23 @@
         {
           "name": "Baby Blue",
           "hex": "C1D4FF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "L-EGO PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Cloud Nine",
           "hex": "A5EEEE"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "L-EGO PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Desert Dune",
           "hex": "C9C6A7"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "L-EGO PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Mild Moss",
           "hex": "ADEBB3"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "L-EGO PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Nude Color",
           "hex": "F6DFB7"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "L-EGO PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Sour Mustard",
           "hex": "F8DA8E"
@@ -789,7 +514,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Metallic PLA {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -805,119 +530,19 @@
         {
           "name": "Blue",
           "hex": "2941BD"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "Metallic PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "144F3B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "Metallic PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "921888"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "Metallic PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "CC2616"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "Metallic PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Turquoise",
           "hex": "23668C"
@@ -934,7 +559,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -951,1283 +576,183 @@
           "name": "Aqua dream partially transparent",
           "hex": "0099E6",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "ARMY Highland GREEN",
           "hex": "5A7D5A"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Banana peel",
           "hex": "F9E352"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black-grey",
           "hex": "4C5051"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
+        },
         {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Blue L-EGO",
+          "name": "L-EGO Blue",
           "hex": "0066D9"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Body color",
           "hex": "D8CF8C"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "BONDI BEACH",
           "hex": "C4C67D"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Bright Orange",
           "hex": "FF7A33"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
+        },
         {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Brown L-EGO",
+          "name": "L-EGO Brown",
           "hex": "A45B27"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Caramel Champagne",
           "hex": "FBE9B8"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "CRAZY MAUVE",
           "hex": "D3C6FF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "CYBER BALLERINA",
           "hex": "E5BADF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Dark Gold Powder",
           "hex": "A38D00"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Fuchsia dream partially transparent",
           "hex": "F300EA"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Galaxy Black",
           "hex": "3E413F"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "GRANDMA GRAY",
           "hex": "B4BAB0"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
+        },
         {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Green L-EGO",
+          "name": "L-EGO Green",
           "hex": "58C91B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green pearl",
           "hex": "26A648"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Honey partially transparent",
           "hex": "C5A900",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Lavender field partially transparent",
           "hex": "B894E2"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Blush",
           "hex": "F4E3E5"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "LILAC LILY",
           "hex": "C9BAD3"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Lilac mist partially transparent",
           "hex": "988DE7"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Machine Blue",
           "hex": "5CADBF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "MANGO TANGO",
           "hex": "AE8A2D"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "MARBLE",
           "hex": "ECEFED"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Mint breeze partially transparent",
           "hex": "97D7D0",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Mustard Field",
           "hex": "E3B145"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "MYSTIC CLEAR UV",
           "hex": "E4E7E5"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Neon coral partially transparent",
           "hex": "F47D59",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Nordic Blue",
           "hex": "97B2D2"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Olive Powder",
           "hex": "ADB092"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "PARK-SIDE",
           "hex": "364429"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Peach flame partially transparent",
           "hex": "F6A25C",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "PICK YOUR POISON",
           "hex": "C4DC00"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink Powder",
           "hex": "D2AFB5"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Purple pearl",
           "hex": "963877"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Royal Red",
           "hex": "C25C56"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Sandy Blush",
           "hex": "FF9C66"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "949597"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Soft Linen",
           "hex": "F5CF6F"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "SUMMER SKY",
           "hex": "8CC6E4"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Wild Sage",
           "hex": "BCD69B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "WISTERIA WINDS",
           "hex": "D1AABA"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "YELLOW MARBLE",
           "hex": "FFFB00"
@@ -2244,7 +769,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

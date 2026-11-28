@@ -2,7 +2,7 @@
   "manufacturer": "D3D Sigma",
   "filaments": [
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.27,
       "weights": [
@@ -94,7 +94,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -147,7 +147,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -184,7 +184,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "DUDV2",
   "filaments": [
     {
-      "name": "TPU AMS STTPU {color_name}",
+      "name": "AMS STTPU {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "PETG Dual {color_name}",
+      "name": "Dual {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "name": "PLA+ Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [

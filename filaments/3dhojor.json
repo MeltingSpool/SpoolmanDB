@@ -2,7 +2,7 @@
   "manufacturer": "3DHoJor",
   "filaments": [
     {
-      "name": "Basic PLA {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -25,7 +25,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Basic Black",
+          "name": "Black",
           "codes": [
             "HJ-Hyper PLA-175B1-DE",
             "HJ-Hyper PLA-175B1-US"
@@ -33,7 +33,7 @@
           "hex": "1a1a1a"
         },
         {
-          "name": "Basic Blue",
+          "name": "Blue",
           "codes": [
             "HJ-Hyper PLA-175U1-DE",
             "HJ-Hyper PLA-175U1-US"
@@ -41,7 +41,7 @@
           "hex": "1e3a8a"
         },
         {
-          "name": "Basic Cold White",
+          "name": "Cold White",
           "codes": [
             "HJ-Hyper PLA-175CW1-DE",
             "HJ-Hyper PLA-175CW1-US"
@@ -49,7 +49,7 @@
           "hex": "f0f4f8"
         },
         {
-          "name": "Basic Fire Engine Red",
+          "name": "Fire Engine Red",
           "codes": [
             "HJ-Hyper PLA-175FR1-DE",
             "HJ-Hyper PLA-175FR1-US"
@@ -57,7 +57,7 @@
           "hex": "ce2029"
         },
         {
-          "name": "Basic Green",
+          "name": "Green",
           "codes": [
             "HJ-Hyper PLA-175G1-DE",
             "HJ-Hyper PLA-175G1-US"
@@ -65,7 +65,7 @@
           "hex": "2e7d32"
         },
         {
-          "name": "Basic Grey",
+          "name": "Grey",
           "codes": [
             "HJ-Hyper PLA-175H1-DE",
             "HJ-Hyper PLA-175H1-US"
@@ -73,7 +73,7 @@
           "hex": "808080"
         },
         {
-          "name": "Basic Light Blue",
+          "name": "Light Blue",
           "codes": [
             "HJ-Hyper PLA-175LU1-DE",
             "HJ-Hyper PLA-175LU1-US"
@@ -81,7 +81,7 @@
           "hex": "87ceeb"
         },
         {
-          "name": "Basic Light Gray",
+          "name": "Light Gray",
           "codes": [
             "HJ-Hyper PLA-175LH1-DE",
             "HJ-Hyper PLA-175LH1-US"
@@ -89,7 +89,7 @@
           "hex": "b0b0b0"
         },
         {
-          "name": "Basic Orange",
+          "name": "Orange",
           "codes": [
             "HJ-Hyper PLA-175O1-DE",
             "HJ-Hyper PLA-175O1-US"
@@ -97,7 +97,7 @@
           "hex": "ff8c00"
         },
         {
-          "name": "Basic Pink",
+          "name": "Pink",
           "codes": [
             "HJ-Hyper PLA-175P1-DE",
             "HJ-Hyper PLA-175P1-US"
@@ -105,7 +105,7 @@
           "hex": "ff69b4"
         },
         {
-          "name": "Basic Purple",
+          "name": "Purple",
           "codes": [
             "HJ-Hyper PLA-175Z1-DE",
             "HJ-Hyper PLA-175Z1-US"
@@ -113,7 +113,7 @@
           "hex": "800080"
         },
         {
-          "name": "Basic Silver",
+          "name": "Silver",
           "codes": [
             "HJ-Hyper PLA-175S1-DE",
             "HJ-Hyper PLA-175S1-US"
@@ -121,7 +121,7 @@
           "hex": "c0c0c0"
         },
         {
-          "name": "Basic White",
+          "name": "White",
           "codes": [
             "HJ-Hyper PLA-175W1-DE",
             "HJ-Hyper PLA-175W1-US"
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Crystal Rainbow PLA {color_name}",
+      "name": "Crystal Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -154,7 +154,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Crystal Rainbow Flame",
+          "name": "Flame",
           "codes": [
             "HJ-PLA-CrystalRainbow-175FL1-US"
           ],
@@ -167,7 +167,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Galaxy",
+          "name": "Galaxy",
           "codes": [
             "HJ-PLA-CrystalRainbow-175GA1-US"
           ],
@@ -180,7 +180,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Glacier",
+          "name": "Glacier",
           "codes": [
             "HJ-PLA-CrystalRainbow-175TBW1-US"
           ],
@@ -193,7 +193,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Late Autumn",
+          "name": "Late Autumn",
           "codes": [
             "HJ-PLA-CrystalRainbow-175LA1-US"
           ],
@@ -206,7 +206,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Maple Leaf",
+          "name": "Maple Leaf",
           "codes": [
             "HJ-PLA-CrystalRainbow-175MF1-US"
           ],
@@ -219,7 +219,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Nebulae",
+          "name": "Nebulae",
           "codes": [
             "HJ-PLA-CrystalRainbow-175TBP1-US"
           ],
@@ -232,7 +232,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Prairie",
+          "name": "Prairie",
           "codes": [
             "HJ-PLA-CrystalRainbow-175TBG1-US"
           ],
@@ -245,7 +245,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Crystal Rainbow Wheat Field",
+          "name": "Wheat Field",
           "codes": [
             "HJ-PLA-CrystalRainbow-175WF1-US"
           ],
@@ -262,7 +262,7 @@
       "multi_color_direction": "longitudinal"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -285,7 +285,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Matte Almond Yellow",
+          "name": "Almond Yellow",
           "codes": [
             "HJ-Matte PLA-175Y1KG-DE",
             "HJ-Matte PLA-175Y1KG-US"
@@ -293,7 +293,7 @@
           "hex": "efdecd"
         },
         {
-          "name": "Matte Dark Grey",
+          "name": "Dark Grey",
           "codes": [
             "HJ-Matte PLA-175DH1KG-DE",
             "HJ-Matte PLA-175DH1KG-US"
@@ -301,7 +301,7 @@
           "hex": "4a4a4a"
         },
         {
-          "name": "Matte Deep Black",
+          "name": "Deep Black",
           "codes": [
             "HJ-Matte PLA-175DP1KG-DE",
             "HJ-Matte PLA-175DP1KG-US"
@@ -309,7 +309,7 @@
           "hex": "1a1a1a"
         },
         {
-          "name": "Matte Light Blue",
+          "name": "Light Blue",
           "codes": [
             "HJ-Matte PLA-175LU1KG-DE",
             "HJ-Matte PLA-175LU1KG-US"
@@ -317,7 +317,7 @@
           "hex": "87ceeb"
         },
         {
-          "name": "Matte Light Khaki",
+          "name": "Light Khaki",
           "codes": [
             "HJ-Matte PLA-175LK1KG-DE",
             "HJ-Matte PLA-175LK1KG-US"
@@ -325,7 +325,7 @@
           "hex": "808080"
         },
         {
-          "name": "Matte Milky White",
+          "name": "Milky White",
           "codes": [
             "HJ-Matte PLA-175NW1KG-DE",
             "HJ-Matte PLA-175NW1KG-US"
@@ -333,7 +333,7 @@
           "hex": "faf8f5"
         },
         {
-          "name": "Matte Mint Green",
+          "name": "Mint Green",
           "codes": [
             "HJ-Matte PLA-175MG1KG-DE",
             "HJ-Matte PLA-175MG1KG-US"
@@ -341,7 +341,7 @@
           "hex": "98ff98"
         },
         {
-          "name": "Matte Morandi Purple",
+          "name": "Morandi Purple",
           "codes": [
             "HJ-Matte PLA-175Z1KG-DE",
             "HJ-Matte PLA-175Z1KG-US"
@@ -349,7 +349,7 @@
           "hex": "9b8ec4"
         },
         {
-          "name": "Matte Peach Pink",
+          "name": "Peach Pink",
           "codes": [
             "HJ-Matte PLA-175P1KG-DE",
             "HJ-Matte PLA-175P1KG-US"
@@ -357,7 +357,7 @@
           "hex": "ff69b4"
         },
         {
-          "name": "Matte Tangerine",
+          "name": "Tangerine",
           "codes": [
             "HJ-Matte PLA-175O1KG-DE",
             "HJ-Matte PLA-175O1KG-US"
@@ -368,7 +368,7 @@
       "finish": "matte"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -391,70 +391,70 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "PETG Blue",
+          "name": "Blue",
           "codes": [
             "HJ-PETG-175SU1KG-US"
           ],
           "hex": "1e3a8a"
         },
         {
-          "name": "PETG Green",
+          "name": "Green",
           "codes": [
             "HJ-PETG-175G1KG-US"
           ],
           "hex": "2e7d32"
         },
         {
-          "name": "PETG Natural",
+          "name": "Natural",
           "codes": [
             "HJ-PETG-175SN1KG-US"
           ],
           "hex": "d4c4a8"
         },
         {
-          "name": "PETG Orange",
+          "name": "Orange",
           "codes": [
             "HJ-PETG-175SO1KG-US"
           ],
           "hex": "ff8c00"
         },
         {
-          "name": "PETG Solid Black",
+          "name": "Solid Black",
           "codes": [
             "HJ-PETG-175SB1KG-US-001"
           ],
           "hex": "1a1a1a"
         },
         {
-          "name": "PETG Solid Blue",
+          "name": "Solid Blue",
           "codes": [
             "HJ-PETG-175U1KG-US"
           ],
           "hex": "1e3a8a"
         },
         {
-          "name": "PETG Solid Grey",
+          "name": "Solid Grey",
           "codes": [
             "HJ-PETG-175SH1KG-US-001"
           ],
           "hex": "808080"
         },
         {
-          "name": "PETG Solid Red",
+          "name": "Solid Red",
           "codes": [
             "HJ-PETG-175SR1KG-US"
           ],
           "hex": "c41e2a"
         },
         {
-          "name": "PETG Solid Silver",
+          "name": "Solid Silver",
           "codes": [
             "HJ-PETG-175SS1KG-US"
           ],
           "hex": "c0c0c0"
         },
         {
-          "name": "PETG Solid White",
+          "name": "Solid White",
           "codes": [
             "HJ-PETG-175SW1KG-US-001"
           ],
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "name": "PLA Lite {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -486,70 +486,70 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "PLA Blue",
+          "name": "Blue",
           "codes": [
             "HJ-PLA Lite-175U1KG-US"
           ],
           "hex": "1e3a8a"
         },
         {
-          "name": "PLA Fire Engine Red",
+          "name": "Fire Engine Red",
           "codes": [
             "HJ-PLA Lite-175FR1KG-US"
           ],
           "hex": "ce2029"
         },
         {
-          "name": "PLA Green",
+          "name": "Green",
           "codes": [
             "HJ-PLA Lite-175G1KG-US"
           ],
           "hex": "2e7d32"
         },
         {
-          "name": "PLA Lite Black",
+          "name": "Lite Black",
           "codes": [
             "HJ-PLA Lite-175B1KG-US"
           ],
           "hex": "1a1a1a"
         },
         {
-          "name": "PLA Lite Cold White",
+          "name": "Lite Cold White",
           "codes": [
             "HJ-PLA Lite-175CW1KG-US"
           ],
           "hex": "f5f5f5"
         },
         {
-          "name": "PLA Lite Grey",
+          "name": "Lite Grey",
           "codes": [
             "HJ-PLA Lite-175H1KG-US"
           ],
           "hex": "808080"
         },
         {
-          "name": "PLA Red",
+          "name": "Red",
           "codes": [
             "HJ-PLA Lite-175R1KG-US"
           ],
           "hex": "c41e2a"
         },
         {
-          "name": "PLA Very Peri",
+          "name": "Very Peri",
           "codes": [
             "HJ-PLA Lite-175F1KG-US"
           ],
           "hex": "6667ab"
         },
         {
-          "name": "PLA White",
+          "name": "White",
           "codes": [
             "HJ-PLA Lite-175W1KG-US"
           ],
           "hex": "f5f5f5"
         },
         {
-          "name": "PLA Yellow",
+          "name": "Yellow",
           "codes": [
             "HJ-PLA Lite-175Y1KG-US"
           ],
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -581,14 +581,14 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "PLA Pro Beige",
+          "name": "Beige",
           "codes": [
             "HJ-PLA Pro-175BG1-US"
           ],
           "hex": "d4b896"
         },
         {
-          "name": "PLA Pro Black",
+          "name": "Black",
           "codes": [
             "HJ-PLA Pro-175B1KG -DE",
             "HJ-PLA Pro-175B1KG -US"
@@ -596,7 +596,7 @@
           "hex": "1a1a1a"
         },
         {
-          "name": "PLA Pro Blue",
+          "name": "Blue",
           "codes": [
             "HJ-PLA Pro-175U1KG -DE",
             "HJ-PLA Pro-175U1KG -US"
@@ -604,14 +604,14 @@
           "hex": "1e3a8a"
         },
         {
-          "name": "PLA Pro Bone White",
+          "name": "Bone White",
           "codes": [
             "HJ-PLA Pro-175BW1"
           ],
           "hex": "f5f5f5"
         },
         {
-          "name": "PLA Pro Brown",
+          "name": "Brown",
           "codes": [
             "HJ-PLA Pro-175C1",
             "HJ-PLA Pro-175C1-DE"
@@ -619,7 +619,7 @@
           "hex": "8b4513"
         },
         {
-          "name": "PLA Pro Cold White",
+          "name": "Cold White",
           "codes": [
             "HJ-PLA Pro-175W1KG -DE",
             "HJ-PLA Pro-175W1KG -US"
@@ -627,14 +627,14 @@
           "hex": "f5f5f5"
         },
         {
-          "name": "PLA Pro Green",
+          "name": "Green",
           "codes": [
             "HJ-PLA Pro-175G1-US"
           ],
           "hex": "2e7d32"
         },
         {
-          "name": "PLA Pro Grey",
+          "name": "Grey",
           "codes": [
             "HJ-PLA Pro-175H1KG -DE",
             "HJ-PLA Pro-175H1KG -US"
@@ -642,14 +642,14 @@
           "hex": "808080"
         },
         {
-          "name": "PLA Pro Light Blue",
+          "name": "Light Blue",
           "codes": [
             "HJ-PLA Pro-175D1-US"
           ],
           "hex": "1e3a8a"
         },
         {
-          "name": "PLA Pro Orange",
+          "name": "Orange",
           "codes": [
             "HJ-PLA Pro-175O1-DE",
             "HJ-PLA Pro-175O1-US"
@@ -657,14 +657,14 @@
           "hex": "ff8c00"
         },
         {
-          "name": "PLA Pro Peak Green",
+          "name": "Peak Green",
           "codes": [
             "HJ-PLA Pro-175V1"
           ],
           "hex": "2e7d32"
         },
         {
-          "name": "PLA Pro Pink",
+          "name": "Pink",
           "codes": [
             "HJ-PLA Pro-175P1-DE",
             "HJ-PLA Pro-175P1-US"
@@ -672,14 +672,14 @@
           "hex": "ff69b4"
         },
         {
-          "name": "PLA Pro Purple",
+          "name": "Purple",
           "codes": [
             "HJ-PLA Pro-175Z1-US"
           ],
           "hex": "800080"
         },
         {
-          "name": "PLA Pro Red",
+          "name": "Red",
           "codes": [
             "HJ-PLA Pro-175R1KG -DE",
             "HJ-PLA Pro-175R1KG -US"
@@ -687,7 +687,7 @@
           "hex": "c41e2a"
         },
         {
-          "name": "PLA Pro Silver",
+          "name": "Silver",
           "codes": [
             "HJ-PLA Pro-175S1-US",
             "HJ-PLA Pro-175S1KG -US"
@@ -695,7 +695,7 @@
           "hex": "c0c0c0"
         },
         {
-          "name": "PLA Pro Yellow",
+          "name": "Yellow",
           "codes": [
             "HJ-PLA Pro-175Y1-DE",
             "HJ-PLA Pro-175Y1-US"
@@ -705,7 +705,7 @@
       ]
     },
     {
-      "name": "Rapid PLA {color_name}",
+      "name": "Rapid {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -728,49 +728,49 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Rapid Black",
+          "name": "Black",
           "codes": [
             "HJ-PLA HS-175B1KG-US"
           ],
           "hex": "1a1a1a"
         },
         {
-          "name": "Rapid Blue",
+          "name": "Blue",
           "codes": [
             "HJ-PLA HS-175U1KG-US"
           ],
           "hex": "1e3a8a"
         },
         {
-          "name": "Rapid Grey",
+          "name": "Grey",
           "codes": [
             "HJ-PLA HS-175H1KG-US"
           ],
           "hex": "808080"
         },
         {
-          "name": "Rapid Orange",
+          "name": "Orange",
           "codes": [
             "HJ-PLA HS-175O1KG-US"
           ],
           "hex": "ff8c00"
         },
         {
-          "name": "Rapid Red",
+          "name": "Red",
           "codes": [
             "HJ-PLA HS-175R1KG-US"
           ],
           "hex": "c41e2a"
         },
         {
-          "name": "Rapid White",
+          "name": "White",
           "codes": [
             "HJ-PLA HS-175W1KG-US"
           ],
           "hex": "f5f5f5"
         },
         {
-          "name": "Rapid Yellow",
+          "name": "Yellow",
           "codes": [
             "HJ-PLA HS-175Y1KG-US"
           ],
@@ -1060,7 +1060,7 @@
       "multi_color_direction": "coaxial"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1083,7 +1083,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Silk Blue",
+          "name": "Blue",
           "codes": [
             "HJ-Silk PLA-175U1-DE",
             "HJ-Silk PLA-175U1-US"
@@ -1091,7 +1091,7 @@
           "hex": "1e3a8a"
         },
         {
-          "name": "Silk Bronze",
+          "name": "Bronze",
           "codes": [
             "HJ-Silk PLA-175BR1-DE",
             "HJ-Silk PLA-175BR1-US"
@@ -1099,7 +1099,7 @@
           "hex": "cd7f32"
         },
         {
-          "name": "Silk Copper",
+          "name": "Copper",
           "codes": [
             "HJ-Silk PLA-175CO1KG-DE-001",
             "HJ-Silk PLA-175CO1KG-US-001"
@@ -1107,14 +1107,14 @@
           "hex": "b87333"
         },
         {
-          "name": "Silk Gold",
+          "name": "Gold",
           "codes": [
             "HJ-Silk PLA-175J1KG-US-001"
           ],
           "hex": "ffd700"
         },
         {
-          "name": "Silk Green",
+          "name": "Green",
           "codes": [
             "HJ-Silk PLA-175G1-DE",
             "HJ-Silk PLA-175G1-US"
@@ -1122,28 +1122,28 @@
           "hex": "2e7d32"
         },
         {
-          "name": "Silk Pink",
+          "name": "Pink",
           "codes": [
             "HJ-Silk PLA-175P1-US"
           ],
           "hex": "ff69b4"
         },
         {
-          "name": "Silk Purple",
+          "name": "Purple",
           "codes": [
             "HJ-Silk PLA-175Z1-US"
           ],
           "hex": "800080"
         },
         {
-          "name": "Silk Red",
+          "name": "Red",
           "codes": [
             "HJ-Silk PLA-175R1-US"
           ],
           "hex": "c41e2a"
         },
         {
-          "name": "Silk Silver",
+          "name": "Silver",
           "codes": [
             "HJ-Silk PLA-175S1KG-DE-001",
             "HJ-Silk PLA-175S1KG-US-001"
@@ -1151,7 +1151,7 @@
           "hex": "c0c0c0"
         },
         {
-          "name": "Silk White",
+          "name": "White",
           "codes": [
             "HJ-Silk PLA-175W1-US"
           ],
@@ -1161,7 +1161,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Silk Rainbow PLA {color_name}",
+      "name": "Silk Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1184,7 +1184,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Silk Rainbow Blood Orange",
+          "name": "Blood Orange",
           "codes": [
             "HJ-PLA-SilkRainbow-175BN1-US"
           ],
@@ -1197,7 +1197,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Coral Reef",
+          "name": "Coral Reef",
           "codes": [
             "HJ-PLA-SilkRainbow-175CF1-US"
           ],
@@ -1210,7 +1210,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Fiery Rose",
+          "name": "Fiery Rose",
           "codes": [
             "HJ-PLA-SilkRainbow-175LS1-US"
           ],
@@ -1225,7 +1225,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Ivy",
+          "name": "Ivy",
           "codes": [
             "HJ-PLA-SilkRainbow-175IV1-US"
           ],
@@ -1238,7 +1238,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Lavender",
+          "name": "Lavender",
           "codes": [
             "HJ-PLA-SilkRainbow-175LD1-US"
           ],
@@ -1251,7 +1251,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Macaron",
+          "name": "Macaron",
           "codes": [
             "HJ-PLA-SilkRainbow-175RBA1-US"
           ],
@@ -1264,7 +1264,7 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Silk Rainbow Tulipa",
+          "name": "Tulipa",
           "codes": [
             "HJ-PLA-SilkRainbow-175TU1-US"
           ],
@@ -1281,8 +1281,8 @@
       "multi_color_direction": "longitudinal"
     },
     {
-      "name": "TPU 95A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -1351,7 +1351,7 @@
       ]
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1374,7 +1374,7 @@
       "country_of_origin": "CN",
       "colors": [
         {
-          "name": "Wood PLA Natural",
+          "name": "Natural",
           "codes": [
             "HJ-Wood PLA-175N1"
           ],

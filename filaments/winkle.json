@@ -2,7 +2,7 @@
   "manufacturer": "Winkle",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "name": "PETG CF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.3,
       "weights": [
@@ -128,7 +128,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -157,1532 +157,261 @@
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-amber"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Aquamarine blue",
           "hex": "1b4e9b",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-aquamarine-blue"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Ash Gray",
           "hex": "b2beb5",
           "codes": [
             "winkle-petg-filament-175-mm-ash-gray-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "1a1a1a",
           "codes": [
             "rpetg-filament-en13501-1-fr-winkle-175-mm-1-kg-black"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Deep Mauve",
           "hex": "e0b0ff",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-deep-mauve"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Devil Red",
           "hex": "cc0000",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-devil-red"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Glacier White",
           "hex": "f0f8ff",
           "codes": [
             "winkle-petg-filament-glacier-white-175-mm-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Jet Black",
           "hex": "1a1a1a",
           "codes": [
             "winkle-petg-filament-175-mm-jet-black-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Lemon Yellow",
           "hex": "fff44f",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-lemon-yellow"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Lime",
           "hex": "808080",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-lime"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PETG Pack 10 Kg Mystery",
-          "hex": "808080",
-          "codes": [
-            "petg-pack-10-kg-mystery"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PETG Prototype Winkle Filament",
-          "hex": "808080",
-          "codes": [
-            "prototype-winkle-petg-filament-175-mm-transparent-1-kg"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Pine Green",
           "hex": "01796f",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-pine-green"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Random Color",
           "hex": "808080",
           "codes": [
             "winkle-recycled-petg-filament-175-mm-0300-kg-random-color"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Royal Blue",
           "hex": "4169e1",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-royal-blue"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-silver"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Technical Polypropylene Pack. Free PETG Coil",
-          "hex": "808080",
-          "codes": [
-            "technical-polypropylene-pack-free-petg-coil"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "ffffff",
           "codes": [
             "winkle-petg-filament-175-mm-transparent-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "f5f5f5",
           "codes": [
             "rpetg-filament-en13501-1-fr-winkle-175-mm-1-kg-white"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Amber Orange",
           "hex": "F55928",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Aquamarine Blue",
           "hex": "32CABD",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Dark Mauve",
           "hex": "916676",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Lime Green",
           "hex": "91DB01",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Prototype Transparent",
           "hex": "F2ECE9"
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Amber",
           "hex": "808080",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-amber"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Aquamarine blue",
           "hex": "1b4e9b",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-aquamarine-blue"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Ash Gray",
           "hex": "b2beb5",
           "codes": [
             "winkle-petg-filament-175-mm-ash-gray-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "1a1a1a",
           "codes": [
             "rpetg-filament-en13501-1-fr-winkle-175-mm-1-kg-black"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Deep Mauve",
           "hex": "e0b0ff",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-deep-mauve"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Devil Red",
           "hex": "cc0000",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-devil-red"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Glacier White",
           "hex": "f0f8ff",
           "codes": [
             "winkle-petg-filament-glacier-white-175-mm-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Jet Black",
           "hex": "1a1a1a",
           "codes": [
             "winkle-petg-filament-175-mm-jet-black-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Lemon Yellow",
           "hex": "fff44f",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-lemon-yellow"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Lime",
           "hex": "808080",
           "codes": [
             "winkle-crystal-petg-filament-175-mm-0300-kg-lime"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PETG Pack 10 Kg Mystery",
-          "hex": "808080",
-          "codes": [
-            "petg-pack-10-kg-mystery"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PETG Prototype Winkle Filament",
-          "hex": "808080",
-          "codes": [
-            "prototype-winkle-petg-filament-175-mm-transparent-1-kg"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Pine Green",
           "hex": "01796f",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-pine-green"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Random Color",
-          "hex": "808080",
-          "codes": [
-            "winkle-recycled-petg-filament-175-mm-0300-kg-random-color"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Royal Blue",
           "hex": "4169e1",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-royal-blue"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0",
           "codes": [
             "winkle-petg-filament-175-mm-0300-kg-silver"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Technical Polypropylene Pack. Free PETG Coil",
-          "hex": "808080",
-          "codes": [
-            "technical-polypropylene-pack-free-petg-coil"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "ffffff",
           "codes": [
             "winkle-petg-filament-175-mm-transparent-0300-kg"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "f5f5f5",
           "codes": [
             "rpetg-filament-en13501-1-fr-winkle-175-mm-1-kg-white"
           ]
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Amber Orange",
           "hex": "F55928",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Aquamarine Blue",
           "hex": "32CABD",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Dark Mauve",
           "hex": "916676",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Cristal Lime Green",
           "hex": "91DB01",
           "translucent": true
-        }
-      ]
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Prototype Transparent",
           "hex": "F2ECE9"
@@ -1690,7 +419,7 @@
       ]
     },
     {
-      "name": "PLA HD {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1971,13 +700,6 @@
           ]
         },
         {
-          "name": "PLA HD Lithophane Pack 1.75mm, 300g + 1kg Transition Filament",
-          "hex": "808080",
-          "codes": [
-            "pack-litofanias-pla-hd-winkle-175mm-pack-litofanias-300g-1kg-transicion"
-          ]
-        },
-        {
           "name": "Pacific Blue",
           "hex": "1e90ff",
           "codes": [
@@ -2085,7 +807,7 @@
       ]
     },
     {
-      "name": "PLA HS {color_name}",
+      "name": "HS {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2160,7 +882,7 @@
       ]
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2168,278 +890,11 @@
           "weight": 300,
           "spool_type": "cardboard",
           "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
-          "name": "ALEMANIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-alemania"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
+          "weight": 1000,
           "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ARGENTINA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-argentina"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "AURORA BOREALIS",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-aurora-borealis"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "COLOMBIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-colombia"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "DUBAI CHOCOLATE",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-dubai-chocolate"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ESPAÑA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-espana"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "FRANCIA, PAISES BAJOS, EEUU",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-francia-paises-bajos-eeuu"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ITALIA, MEXICO",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-italia-mexico"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
+          "spool_weight": 175
         }
       ],
       "diameters": [
@@ -2461,476 +916,70 @@
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-irish-green"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "King Gold",
           "hex": "daa520",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-king-gold"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "METAMORPHOSIS",
-          "hex": "ff0080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-metamorphosis"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Mercury Silver",
           "hex": "c0c0c0",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-mercury-silver"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Old Copper",
           "hex": "b87333",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-old-copper"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "POLONIA, AUSTRIA, JAPON, MALTA, DINAMARCA, SUIZA, QATAR, TURQUIA, PERU, SUIZA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-polonia-austria-japon-malta-dinamarca-suiza-qatar-turquia-peru-suiza"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PORTUGAL, MARRUECOS",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-portugal-marruecos"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Ruby Pink",
           "hex": "ff69b4",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-ruby-pink"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Ruby Red",
           "hex": "c41e2a",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-ruby-red"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "SUECIA, UCRANIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-suecia-ucrania"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Smile Blue by Maria",
           "hex": "1b4e9b",
           "codes": [
             "silk-winkle-pla-filament-175-mm-1-kg-smile-blue-by-maria"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Snow White",
           "hex": "f5f5f5",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-snow-white"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Steel Blue",
           "hex": "1b4e9b",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-steel-blue"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "White Gold",
           "hex": "f5f5f5",
           "codes": [
             "silk-winkle-pla-filament-175-mm-0300-kg-white-gold"
           ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 300,
-          "spool_type": "cardboard",
-          "spool_weight": 110
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
+        },
         {
           "name": "Yellow-Green",
           "hex": "2e7d32",
@@ -2942,789 +991,7 @@
       "finish": "glossy"
     },
     {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ALEMANIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-alemania"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ARGENTINA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-argentina"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "AURORA BOREALIS",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-aurora-borealis"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "COLOMBIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-colombia"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "DUBAI CHOCOLATE",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-dubai-chocolate"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ESPAÑA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-espana"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "FRANCIA, PAISES BAJOS, EEUU",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-francia-paises-bajos-eeuu"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "ITALIA, MEXICO",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-italia-mexico"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Irish green",
-          "hex": "2e7d32",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-irish-green"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "King Gold",
-          "hex": "daa520",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-king-gold"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "METAMORPHOSIS",
-          "hex": "ff0080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-metamorphosis"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Mercury Silver",
-          "hex": "c0c0c0",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-mercury-silver"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Old Copper",
-          "hex": "b87333",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-old-copper"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "POLONIA, AUSTRIA, JAPON, MALTA, DINAMARCA, SUIZA, QATAR, TURQUIA, PERU, SUIZA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-polonia-austria-japon-malta-dinamarca-suiza-qatar-turquia-peru-suiza"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "PORTUGAL, MARRUECOS",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-portugal-marruecos"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Ruby Pink",
-          "hex": "ff69b4",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-ruby-pink"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Ruby Red",
-          "hex": "c41e2a",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-ruby-red"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "SUECIA, UCRANIA",
-          "hex": "808080",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-suecia-ucrania"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Smile Blue by Maria",
-          "hex": "1b4e9b",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-1-kg-smile-blue-by-maria"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Snow White",
-          "hex": "f5f5f5",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-snow-white"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Steel Blue",
-          "hex": "1b4e9b",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-steel-blue"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "White Gold",
-          "hex": "f5f5f5",
-          "codes": [
-            "silk-winkle-pla-filament-175-mm-0300-kg-white-gold"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA Silk {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 175
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "colors": [
-        {
-          "name": "Yellow-Green",
-          "hex": "2e7d32",
-          "codes": [
-            "pla-silk-tricolor-winkle-pla-filament-175-mm-1kg-175-mm-1-kg-yellow-green"
-          ]
-        }
-      ],
-      "finish": "glossy"
-    },
-    {
-      "name": "PLA UL94 {color_name}",
+      "name": "UL94 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3770,7 +1037,7 @@
       ]
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3798,13 +1065,6 @@
       ],
       "country_of_origin": "ES",
       "colors": [
-        {
-          "name": "3D pen pack with PLA for children and adults",
-          "hex": "808080",
-          "codes": [
-            "3d-pen-pack-with-pla-for-children-and-adults"
-          ]
-        },
         {
           "name": "Ash Gray",
           "hex": "b2beb5",
@@ -3904,38 +1164,10 @@
           ]
         },
         {
-          "name": "PLA Pack 10 Kg Mystery",
-          "hex": "808080",
-          "codes": [
-            "pla-pack-10-kg-mystery"
-          ]
-        },
-        {
           "name": "Pacific Blue",
           "hex": "1e90ff",
           "codes": [
             "pla-pro-winkle-filament-175-mm-0300-kg-pacific-blue"
-          ]
-        },
-        {
-          "name": "Pack Filament PLA Mate Home Decor. Free extra spool",
-          "hex": "808080",
-          "codes": [
-            "pack-filament-pla-mate-home-decor-free-extra-spool"
-          ]
-        },
-        {
-          "name": "Pine",
-          "hex": "808080",
-          "codes": [
-            "wood-winkle-pla-filament-175-mm-0300-kg-pine"
-          ]
-        },
-        {
-          "name": "Random Color",
-          "hex": "808080",
-          "codes": [
-            "winkle-recycled-pla-filament-175-mm-0300-kg-random-color"
           ]
         },
         {
@@ -3946,24 +1178,10 @@
           ]
         },
         {
-          "name": "Smoke Gray",
-          "hex": "808080",
-          "codes": [
-            "mate-winkle-pla-filament-175-mm-1-kg-smoke-gray"
-          ]
-        },
-        {
           "name": "Transparent",
           "hex": "ffffff",
           "codes": [
             "pla-850-winkle-filament-175-mm-1-kg-transparent"
-          ]
-        },
-        {
-          "name": "Wood PLA Filament Pack. Free extra spool",
-          "hex": "c4a574",
-          "codes": [
-            "wood-pla-filament-pack-free-extra-spool"
           ]
         },
         {
@@ -3977,7 +1195,7 @@
       ]
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -4024,8 +1242,8 @@
       ]
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.23,
       "weights": [
         {
@@ -4055,7 +1273,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4086,7 +1304,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4116,7 +1334,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4146,7 +1364,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4176,7 +1394,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4206,7 +1424,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4236,7 +1454,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4266,7 +1484,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4296,7 +1514,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4326,7 +1544,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4356,7 +1574,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4386,7 +1604,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4416,7 +1634,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4446,7 +1664,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4476,7 +1694,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4506,7 +1724,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4536,7 +1754,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4566,7 +1784,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4596,7 +1814,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4626,7 +1844,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4656,7 +1874,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4686,7 +1904,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4716,7 +1934,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4746,7 +1964,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4776,7 +1994,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4806,7 +2024,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4836,7 +2054,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "High Speed PLA {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4886,7 +2104,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4933,7 +2151,7 @@
       "finish": "matte"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4963,7 +2181,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4993,7 +2211,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5023,7 +2241,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PLA UL94 V0 {color_name}",
+      "name": "UL94 V0 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "Victrex",
   "filaments": [
     {
-      "name": "VICTREX AM 450 FIL {color_name}",
+      "name": "AM 450 FIL {color_name}",
       "material": "PEEK",
       "density": 1.3,
       "weights": [

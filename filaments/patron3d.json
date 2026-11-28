@@ -2,7 +2,7 @@
   "manufacturer": "Patron 3D",
   "filaments": [
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [

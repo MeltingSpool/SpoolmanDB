@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "PETG Classic {color_name}",
+      "name": "Classic {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "PLA CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -257,7 +257,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA HF {color_name}",
+      "name": "HF {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "name": "PLA Highspeed {color_name}",
+      "name": "Highspeed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "name": "PLA Lite {color_name}",
+      "name": "Lite {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -418,7 +418,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -553,7 +553,7 @@
       ]
     },
     {
-      "name": "PLA 2.85mm {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

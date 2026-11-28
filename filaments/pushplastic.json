@@ -2,7 +2,7 @@
   "manufacturer": "Push Plastic",
   "filaments": [
     {
-      "name": "Push Plastic PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -397,7 +397,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -509,7 +509,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -537,7 +537,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -593,7 +593,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -649,7 +649,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -764,7 +764,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -792,7 +792,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -848,7 +848,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -932,7 +932,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -960,7 +960,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1016,7 +1016,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1044,7 +1044,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1072,7 +1072,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1100,7 +1100,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1128,7 +1128,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1156,7 +1156,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1185,7 +1185,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "name": "Push Plastic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1243,7 +1243,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1274,7 +1274,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1305,7 +1305,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1367,7 +1367,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1398,7 +1398,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1429,7 +1429,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1460,7 +1460,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1491,7 +1491,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1522,7 +1522,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1584,7 +1584,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1646,7 +1646,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1677,7 +1677,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1708,7 +1708,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1770,7 +1770,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1801,7 +1801,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1832,7 +1832,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1863,7 +1863,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1894,7 +1894,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1925,7 +1925,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1987,7 +1987,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2018,7 +2018,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2049,7 +2049,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2080,7 +2080,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2111,7 +2111,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2142,7 +2142,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2173,7 +2173,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2204,7 +2204,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2235,7 +2235,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2266,7 +2266,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2297,7 +2297,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2328,7 +2328,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2359,7 +2359,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2390,7 +2390,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2421,7 +2421,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2452,7 +2452,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2483,7 +2483,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2545,7 +2545,7 @@
       ]
     },
     {
-      "name": "Push Plastic ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2576,7 +2576,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2607,7 +2607,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2638,7 +2638,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2669,7 +2669,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2700,7 +2700,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2731,7 +2731,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2762,7 +2762,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2793,7 +2793,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2824,7 +2824,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2855,7 +2855,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2886,7 +2886,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2917,7 +2917,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2948,7 +2948,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -2979,7 +2979,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3010,7 +3010,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3041,7 +3041,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3072,7 +3072,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3103,7 +3103,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3134,7 +3134,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3165,7 +3165,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3196,7 +3196,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3227,7 +3227,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3258,7 +3258,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3289,7 +3289,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -3320,7 +3320,7 @@
       "tds_url": "https://cdn.shopify.com/s/files/1/0260/7421/files/Push_Plastic_ABS_Technical_Data_sheet_8f0e2174-914e-4312-8018-fb4d1a5d2e9b.pdf"
     },
     {
-      "name": "CF ABS {color_name}",
+      "name": "CF {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3351,7 +3351,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Matte ABS {color_name}",
+      "name": "Matte {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3398,7 +3398,7 @@
       "finish": "matte"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -3440,7 +3440,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -3533,7 +3533,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -3595,7 +3595,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3663,8 +3663,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -3694,7 +3694,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3844,7 +3844,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PMMA {color_name}",
+      "name": "{color_name}",
       "material": "PMMA",
       "density": 1.24,
       "weights": [
@@ -3869,7 +3869,7 @@
       "bed_temp": 90
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

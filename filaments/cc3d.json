@@ -2,8 +2,8 @@
   "manufacturer": "CC3D",
   "filaments": [
     {
-      "name": "ABS+ {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS+",
       "density": 1.08,
       "weights": [
         {
@@ -104,7 +104,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte HIPS {color_name}",
+      "name": "Matte {color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -134,7 +134,7 @@
       "finish": "matte"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -192,7 +192,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -222,7 +222,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -289,8 +289,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -319,7 +319,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Dual Color Matte PLA {color_name}",
+      "name": "Dual Color Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -357,7 +357,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA Max {color_name}",
+      "name": "Max {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -410,7 +410,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -463,7 +463,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -628,7 +628,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPE {color_name}",
+      "name": "{color_name}",
       "material": "TPE",
       "density": 1.2,
       "weights": [
@@ -665,8 +665,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Silk TPU {color_name}",
-      "material": "TPU",
+      "name": "Silk {color_name}",
+      "material": "TPU-57D",
       "density": 1.21,
       "weights": [
         {
@@ -679,11 +679,36 @@
       ],
       "colors": [
         {
-          "name": "57D Purple",
+          "name": "Purple",
           "hex": "6000B0"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "CN"
+    },
+    {
+      "name": "Silk {color_name}",
+      "material": "TPU-98A",
+      "density": 1.21,
+      "weights": [
         {
-          "name": "98A Golden Yellow",
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Golden Yellow",
           "hex": "FFCB47"
         }
       ],

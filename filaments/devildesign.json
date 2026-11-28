@@ -1655,7 +1655,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1709,7 +1709,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1739,7 +1739,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1769,7 +1769,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1799,7 +1799,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1829,7 +1829,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1859,7 +1859,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1889,7 +1889,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1919,7 +1919,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1949,7 +1949,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -1979,7 +1979,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -2009,7 +2009,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "tds_url": "https://devildesign.com/download/ASA_-_product_card.pdf",
       "density": 1.07,
@@ -2040,7 +2040,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "tds_url": "https://devildesign.com/download/PA12_-_product_card.pdf",
       "density": 1.01,
@@ -2075,7 +2075,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2105,7 +2105,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2136,7 +2136,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2166,7 +2166,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2196,7 +2196,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2226,7 +2226,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2256,7 +2256,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2287,7 +2287,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2317,7 +2317,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2347,7 +2347,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2377,7 +2377,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2408,7 +2408,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2438,7 +2438,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2468,7 +2468,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2498,7 +2498,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2528,7 +2528,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2558,7 +2558,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2588,7 +2588,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2618,7 +2618,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2648,7 +2648,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2678,7 +2678,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2708,7 +2708,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2738,7 +2738,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2768,7 +2768,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2798,7 +2798,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2828,7 +2828,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2859,7 +2859,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2889,7 +2889,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2919,7 +2919,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2949,7 +2949,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -2979,7 +2979,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3009,7 +3009,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3039,7 +3039,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3069,7 +3069,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3099,7 +3099,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3129,7 +3129,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3159,7 +3159,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3190,7 +3190,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3220,7 +3220,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3250,7 +3250,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3281,7 +3281,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3311,7 +3311,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3341,7 +3341,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3371,7 +3371,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3402,7 +3402,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3432,7 +3432,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3462,7 +3462,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3492,7 +3492,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3523,7 +3523,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3554,7 +3554,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3585,7 +3585,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3616,7 +3616,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3648,7 +3648,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3679,7 +3679,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3710,7 +3710,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3741,7 +3741,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3772,7 +3772,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3804,7 +3804,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3835,7 +3835,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3866,7 +3866,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3897,7 +3897,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3929,7 +3929,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3960,7 +3960,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -3991,7 +3991,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4022,7 +4022,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4053,7 +4053,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4084,7 +4084,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4115,7 +4115,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4146,7 +4146,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4177,7 +4177,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4208,7 +4208,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4239,7 +4239,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4270,7 +4270,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4301,7 +4301,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4332,7 +4332,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4363,7 +4363,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4395,7 +4395,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4426,7 +4426,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4457,7 +4457,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4488,7 +4488,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4519,7 +4519,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4550,7 +4550,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4581,7 +4581,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4612,7 +4612,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4643,7 +4643,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4674,7 +4674,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4705,7 +4705,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4737,7 +4737,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4768,7 +4768,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4799,7 +4799,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4831,7 +4831,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4862,7 +4862,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4893,7 +4893,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4924,7 +4924,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4956,7 +4956,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -4987,7 +4987,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5018,7 +5018,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5049,7 +5049,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5079,7 +5079,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5110,7 +5110,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5140,7 +5140,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5170,7 +5170,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5200,7 +5200,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5230,7 +5230,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5261,7 +5261,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5291,7 +5291,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5321,7 +5321,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5351,7 +5351,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5382,7 +5382,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5412,7 +5412,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5442,7 +5442,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5472,7 +5472,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5502,7 +5502,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5532,7 +5532,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5562,7 +5562,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5592,7 +5592,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5622,7 +5622,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5652,7 +5652,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5682,7 +5682,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5712,7 +5712,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5742,7 +5742,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5772,7 +5772,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5802,7 +5802,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5833,7 +5833,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5863,7 +5863,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5893,7 +5893,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5923,7 +5923,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5953,7 +5953,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -5983,7 +5983,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6013,7 +6013,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6043,7 +6043,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6073,7 +6073,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6103,7 +6103,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6133,7 +6133,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6164,7 +6164,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6194,7 +6194,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6224,7 +6224,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6255,7 +6255,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6285,7 +6285,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6315,7 +6315,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6345,7 +6345,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6376,7 +6376,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6406,7 +6406,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6436,7 +6436,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "tds_url": "https://devildesign.com/download/PET-G_-_product_card.pdf",
       "density": 1.27,
@@ -6466,7 +6466,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6501,7 +6501,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6531,7 +6531,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6561,7 +6561,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6591,7 +6591,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6621,7 +6621,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6651,7 +6651,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6681,7 +6681,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6711,7 +6711,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6741,7 +6741,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6771,7 +6771,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6801,7 +6801,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6831,7 +6831,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6861,7 +6861,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6891,7 +6891,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6921,7 +6921,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6951,7 +6951,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -6981,7 +6981,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7011,7 +7011,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7041,7 +7041,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7071,7 +7071,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7101,7 +7101,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7131,7 +7131,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7161,7 +7161,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7191,7 +7191,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7221,7 +7221,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7251,7 +7251,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7281,7 +7281,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7311,7 +7311,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7341,7 +7341,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7371,7 +7371,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7401,7 +7401,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7431,7 +7431,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7461,7 +7461,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7491,7 +7491,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7521,7 +7521,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7551,7 +7551,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7581,7 +7581,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7611,7 +7611,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7641,7 +7641,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7671,7 +7671,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7701,7 +7701,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7731,7 +7731,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7761,7 +7761,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7791,7 +7791,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7821,7 +7821,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7851,7 +7851,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7881,7 +7881,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7911,7 +7911,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7941,7 +7941,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -7971,7 +7971,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8001,7 +8001,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8031,7 +8031,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8061,7 +8061,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8092,7 +8092,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8123,7 +8123,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8154,7 +8154,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8185,7 +8185,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8216,7 +8216,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8247,7 +8247,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8278,7 +8278,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8309,7 +8309,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8340,7 +8340,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8371,7 +8371,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8402,7 +8402,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8433,7 +8433,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8464,7 +8464,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8495,7 +8495,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8526,7 +8526,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8557,7 +8557,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8588,7 +8588,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8619,7 +8619,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8650,7 +8650,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8681,7 +8681,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8712,7 +8712,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8743,7 +8743,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8774,7 +8774,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8805,7 +8805,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8836,7 +8836,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8867,7 +8867,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8898,7 +8898,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8929,7 +8929,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8960,7 +8960,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -8991,7 +8991,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9022,7 +9022,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9053,7 +9053,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9084,7 +9084,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9115,7 +9115,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9146,7 +9146,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9177,7 +9177,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9208,7 +9208,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9239,7 +9239,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9270,7 +9270,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9301,7 +9301,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9332,7 +9332,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9363,7 +9363,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9394,7 +9394,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9425,7 +9425,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9456,7 +9456,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9487,7 +9487,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9518,7 +9518,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9549,7 +9549,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9580,7 +9580,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9611,7 +9611,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9642,7 +9642,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9673,7 +9673,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9704,7 +9704,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9735,7 +9735,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9766,7 +9766,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9797,7 +9797,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9828,7 +9828,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9859,7 +9859,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9889,7 +9889,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9919,7 +9919,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9949,7 +9949,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -9979,7 +9979,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10009,7 +10009,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10039,7 +10039,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10069,7 +10069,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10099,7 +10099,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10129,7 +10129,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10159,7 +10159,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10189,7 +10189,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10219,7 +10219,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10249,7 +10249,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10279,7 +10279,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10309,7 +10309,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10339,7 +10339,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10369,7 +10369,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10399,7 +10399,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10429,7 +10429,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10459,7 +10459,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10489,7 +10489,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10519,7 +10519,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10549,7 +10549,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10579,7 +10579,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10609,7 +10609,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10639,7 +10639,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10669,7 +10669,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10699,7 +10699,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10729,7 +10729,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10759,7 +10759,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10789,7 +10789,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10819,7 +10819,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10849,7 +10849,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10879,7 +10879,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10909,7 +10909,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10939,7 +10939,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10969,7 +10969,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -10999,7 +10999,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11029,7 +11029,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11059,7 +11059,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11089,7 +11089,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11119,7 +11119,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11149,7 +11149,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11179,7 +11179,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11209,7 +11209,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11239,7 +11239,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11269,7 +11269,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11299,7 +11299,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11329,7 +11329,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11359,7 +11359,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11389,7 +11389,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/PLA_-_product_card.pdf",
       "density": 1.24,
@@ -11419,7 +11419,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11450,7 +11450,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11481,7 +11481,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11512,7 +11512,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11543,7 +11543,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11574,7 +11574,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11605,7 +11605,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11636,7 +11636,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11667,7 +11667,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11698,7 +11698,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11729,7 +11729,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11760,7 +11760,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11791,7 +11791,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11822,7 +11822,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11853,7 +11853,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11884,7 +11884,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11915,7 +11915,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11946,7 +11946,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -11977,7 +11977,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12008,7 +12008,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12039,7 +12039,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12070,7 +12070,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12101,7 +12101,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12132,7 +12132,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "tds_url": "https://devildesign.com/download/SILK_-_product_card.pdf",
       "density": 1.24,
@@ -12163,7 +12163,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "tds_url": "https://devildesign.com/download/TPU_-_product_card.pdf",
       "density": 1.21,

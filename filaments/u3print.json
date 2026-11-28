@@ -2,7 +2,7 @@
   "manufacturer": "U3Print",
   "filaments": [
     {
-      "name": "PLA SILK LINE {color_name}",
+      "name": "SILK LINE {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -23,42 +23,42 @@
       ],
       "colors": [
         {
-          "name": "Green Silk",
+          "name": "Green",
           "hex": "2e7d32",
           "codes": [
             "2148-03"
           ]
         },
         {
-          "name": "Yellow Silk",
+          "name": "Yellow",
           "hex": "f2c037",
           "codes": [
             "2160-03"
           ]
         },
         {
-          "name": "Gold Silk",
+          "name": "Gold",
           "hex": "d5a82e",
           "codes": [
             "2159-03"
           ]
         },
         {
-          "name": "Red Silk",
+          "name": "Red",
           "hex": "c62828",
           "codes": [
             "2161-03"
           ]
         },
         {
-          "name": "Natural Silk",
+          "name": "Natural",
           "hex": "e6dfcf",
           "codes": [
             "2162-03"
           ]
         },
         {
-          "name": "Dark Green Silk",
+          "name": "Dark Green",
           "hex": "1f5d32",
           "codes": [
             "2158-03"

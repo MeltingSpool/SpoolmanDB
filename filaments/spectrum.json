@@ -44,7 +44,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -609,7 +609,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/08/en_msds_spectrum_pla_premium.pdf"
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -952,7 +952,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/07/en_msds_spectrum_pla_pro.pdf"
     },
     {
-      "name": "The Filament {color_name}",
+      "name": "{color_name}",
       "material": "ASA-CF",
       "density": 1.12,
       "weights": [
@@ -1002,7 +1002,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "smart ™ {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1017,43 +1017,43 @@
       ],
       "colors": [
         {
-          "name": "smart ™ Bahama Yellow",
+          "name": "Bahama Yellow",
           "hex": "E8BD00"
         },
         {
-          "name": "smart ™ Coral",
+          "name": "Coral",
           "hex": "DFDFD3"
         },
         {
-          "name": "smart ™ Dark Grey",
+          "name": "Dark Grey",
           "hex": "595959"
         },
         {
-          "name": "smart ™ Deep Black",
+          "name": "Deep Black",
           "hex": "000000"
         },
         {
-          "name": "smart ™ Dragon Red",
+          "name": "Dragon Red",
           "hex": "B7293E"
         },
         {
-          "name": "smart ™ Forest Green",
+          "name": "Forest Green",
           "hex": "3D9441"
         },
         {
-          "name": "smart ™ Lion Orange",
+          "name": "Lion Orange",
           "hex": "FF7A33"
         },
         {
-          "name": "smart ™ Pacific Blue",
+          "name": "Pacific Blue",
           "hex": "0078BF"
         },
         {
-          "name": "smart ™ Polar White",
+          "name": "Polar White",
           "hex": "E3E0D3"
         },
         {
-          "name": "smart ™ Silver Star",
+          "name": "Silver Star",
           "hex": "808080"
         }
       ],
@@ -1068,7 +1068,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ABS FR V0 {color_name}",
+      "name": "FR V0 {color_name}",
       "material": "ABS",
       "density": 1.17,
       "weights": [
@@ -1096,7 +1096,7 @@
       "bed_temp": 90
     },
     {
-      "name": "ABS GP450 {color_name}",
+      "name": "GP450 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1188,7 +1188,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_abs_gp450.pdf"
     },
     {
-      "name": "ABS Kevlar {color_name}",
+      "name": "Kevlar {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -1214,7 +1214,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_abs_kevlar.pdf"
     },
     {
-      "name": "ABS Medical {color_name}",
+      "name": "Medical {color_name}",
       "material": "ABS",
       "density": 1.06,
       "weights": [
@@ -1240,7 +1240,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_abs_medical.pdf"
     },
     {
-      "name": "smart ABS {color_name}",
+      "name": "smart {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -1302,7 +1302,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_smart_abs.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.08,
       "weights": [
@@ -1376,7 +1376,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1391,27 +1391,27 @@
       ],
       "colors": [
         {
-          "name": "The Filament Grass Green",
+          "name": "Grass Green",
           "hex": "26A648"
         },
         {
-          "name": "The Filament Midnight Black",
+          "name": "Midnight Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament Pure Red",
+          "name": "Pure Red",
           "hex": "EC0000"
         },
         {
-          "name": "The Filament Sky Blue",
+          "name": "Sky Blue",
           "hex": "0378D0"
         },
         {
-          "name": "The Filament Slate Grey",
+          "name": "Slate Grey",
           "hex": "3F4647"
         },
         {
-          "name": "The Filament Traffic White",
+          "name": "Traffic White",
           "hex": "EFEFEF"
         }
       ],
@@ -1426,7 +1426,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA 275 {color_name}",
+      "name": "275 {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1601,7 +1601,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_asa275.pdf"
     },
     {
-      "name": "ASA Kevlar {color_name}",
+      "name": "Kevlar {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1630,8 +1630,8 @@
       "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_tds_spectrum_asa_kevlar.pdf"
     },
     {
-      "name": "ASA-X CF10 {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF10",
       "density": 1.1,
       "weights": [
         {
@@ -1666,8 +1666,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ASA-X GF10 {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-GF10",
       "density": 1.11,
       "weights": [
         {
@@ -1702,8 +1702,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ASA CF {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.11,
       "weights": [
         {
@@ -1733,8 +1733,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ASA CF {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.12,
       "weights": [
         {
@@ -1748,23 +1748,23 @@
       ],
       "colors": [
         {
-          "name": "The Filament CF Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament CF Blue",
+          "name": "Blue",
           "hex": "40719A"
         },
         {
-          "name": "The Filament CF Green",
+          "name": "Green",
           "hex": "446B20"
         },
         {
-          "name": "The Filament CF Grey",
+          "name": "Grey",
           "hex": "4D6383"
         },
         {
-          "name": "The Filament CF Red",
+          "name": "Red",
           "hex": "000000"
         }
       ],
@@ -1780,8 +1780,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "X Gf10 GF ASA {color_name}",
-      "material": "ASA",
+      "name": "X {color_name}",
+      "material": "ASA-GF10",
       "density": 1.11,
       "weights": [
         {
@@ -1817,7 +1817,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "HIPS-X {color_name}",
+      "name": "X {color_name}",
       "material": "HIPS",
       "density": 1.05,
       "weights": [
@@ -1855,8 +1855,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_hipsx.pdf"
     },
     {
-      "name": "PA12 CF15 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF15",
       "density": 1.07,
       "weights": [
         {
@@ -1882,8 +1882,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 CF15 {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF15",
       "density": 1.25,
       "weights": [
         {
@@ -1908,7 +1908,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 CS20 FR V0 {color_name}",
+      "name": "CS20 FR V0 {color_name}",
       "material": "PA6",
       "density": 1.49,
       "weights": [
@@ -1934,7 +1934,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_pa6_cs20frv0.pdf"
     },
     {
-      "name": "PA6 GK10 {color_name}",
+      "name": "GK10 {color_name}",
       "material": "PA6",
       "density": 1.01,
       "weights": [
@@ -1960,7 +1960,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pa6_gk10.pdf"
     },
     {
-      "name": "PA6 Low Warp {color_name}",
+      "name": "Low Warp {color_name}",
       "material": "PA6",
       "density": 1.15,
       "weights": [
@@ -2001,8 +2001,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pa6_low_warp.pdf"
     },
     {
-      "name": "PA6 Low Warp CF15S {color_name}",
-      "material": "PA6",
+      "name": "Low Warp {color_name}",
+      "material": "PA6-CF15",
       "density": 1.28,
       "weights": [
         {
@@ -2032,8 +2032,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_pa6_lowwarp_cf15s.pdf"
     },
     {
-      "name": "PA6 Low Warp GF30 {color_name}",
-      "material": "PA6",
+      "name": "Low Warp {color_name}",
+      "material": "PA6-GF30",
       "density": 1.34,
       "weights": [
         {
@@ -2068,7 +2068,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PA6 Neat BK {color_name}",
+      "name": "Neat BK {color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -2093,7 +2093,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pa6_neat_bk.pdf"
     },
     {
-      "name": "Pa6 Neat Nt {color_name}",
+      "name": "Neat NT {color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -2119,7 +2119,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pa6_nt.pdf"
     },
     {
-      "name": "ThermaTech PA {color_name}",
+      "name": "ThermaTech {color_name}",
       "material": "PA6",
       "density": 1.3,
       "weights": [
@@ -2148,7 +2148,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_spectrum_thermatech_pa.pdf"
     },
     {
-      "name": "Fr V0 PC {color_name}",
+      "name": "FR V0 {color_name}",
       "material": "PC",
       "density": 1.22,
       "weights": [
@@ -2182,7 +2182,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PC 275 {color_name}",
+      "name": "275 {color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -2261,8 +2261,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/11/en_msds_pc275.pdf"
     },
     {
-      "name": "PCTG CF {color_name}",
-      "material": "PCTG",
+      "name": "{color_name}",
+      "material": "PCTG-CF10",
       "density": 1.28,
       "weights": [
         {
@@ -2276,7 +2276,7 @@
       ],
       "colors": [
         {
-          "name": "CF10 Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -2292,8 +2292,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PCTG GF {color_name}",
-      "material": "PCTG",
+      "name": "{color_name}",
+      "material": "PCTG-GF10",
       "density": 1.31,
       "weights": [
         {
@@ -2307,7 +2307,7 @@
       ],
       "colors": [
         {
-          "name": "GF10 Natural",
+          "name": "Natural",
           "hex": "DFDFD3"
         }
       ],
@@ -2323,8 +2323,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PCTG CF10 {color_name}",
-      "material": "PCTG",
+      "name": "{color_name}",
+      "material": "PCTG-CF10",
       "density": 1.28,
       "weights": [
         {
@@ -2354,8 +2354,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PCTG GF10 {color_name}",
-      "material": "PCTG",
+      "name": "{color_name}",
+      "material": "PCTG-GF10",
       "density": 1.31,
       "weights": [
         {
@@ -2386,7 +2386,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PCTG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -2496,8 +2496,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/05/en_msds_spectrum_pctg_premium.pdf"
     },
     {
-      "name": "PET CF15 {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-CF15",
       "density": 1.4,
       "weights": [
         {
@@ -2522,8 +2522,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.32,
       "weights": [
         {
@@ -2541,27 +2541,27 @@
           "hex": "000000"
         },
         {
-          "name": "The Filament CF Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament CF Blue",
+          "name": "Blue",
           "hex": "3292B2"
         },
         {
-          "name": "The Filament CF Green",
+          "name": "Green",
           "hex": "11784F"
         },
         {
-          "name": "The Filament CF Grey",
+          "name": "Grey",
           "hex": "A2AAAD"
         },
         {
-          "name": "The Filament CF Purple",
+          "name": "Purple",
           "hex": "835476"
         },
         {
-          "name": "The Filament CF Red",
+          "name": "Red",
           "hex": "641501"
         }
       ],
@@ -2579,7 +2579,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2617,7 +2617,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_glow_in_the_dark.pdf"
     },
     {
-      "name": "PET-G FR V0 PETG {color_name}",
+      "name": "FR V0 {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2653,7 +2653,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_petg_frv0.pdf"
     },
     {
-      "name": "PET-G Glitter PETG {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2689,7 +2689,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_petg_glitter.pdf"
     },
     {
-      "name": "PET-G HT100 PETG {color_name}",
+      "name": "HT100 {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2746,7 +2746,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_ht100.pdf"
     },
     {
-      "name": "PET G Matt Matte PETG {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.35,
       "weights": [
@@ -2815,7 +2815,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_petg_matt.pdf"
     },
     {
-      "name": "PET-G Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3107,7 +3107,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_premium.pdf"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "FX120™ {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3122,11 +3122,37 @@
       ],
       "colors": [
         {
-          "name": "PET-G FX120™ Clear",
+          "name": "Clear",
           "hex": "EFE8D8"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        220,
+        250
+      ],
+      "bed_temp_range": [
+        70,
+        90
+      ],
+      "country_of_origin": "PL"
+    },
+    {
+      "name": "{color_name}",
+      "material": "PETG/PTFE",
+      "density": 1.27,
+      "weights": [
         {
-          "name": "/PTFE Signal White",
+          "weight": 1000,
+          "spool_type": "cardboard",
+          "spool_weight": 180
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Signal White",
           "hex": "EFEFEF"
         }
       ],
@@ -3141,8 +3167,8 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG Carbon {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.32,
       "weights": [
         {
@@ -3177,7 +3203,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_carbon.pdf"
     },
     {
-      "name": "PETG FR V0 {color_name}",
+      "name": "FR V0 {color_name}",
       "material": "PETG",
       "density": 1.26,
       "weights": [
@@ -3212,7 +3238,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_petg_frv0.pdf"
     },
     {
-      "name": "PETG FX120 {color_name}",
+      "name": "FX120 {color_name}",
       "material": "PETG",
       "density": 1.13,
       "weights": [
@@ -3251,7 +3277,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_fx120.pdf"
     },
     {
-      "name": "PETG Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3281,7 +3307,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_petg_glitter.pdf"
     },
     {
-      "name": "PETG Glow in the Dark {color_name}",
+      "name": "Glow in the Dark {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3316,7 +3342,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_glow_in_the_dark.pdf"
     },
     {
-      "name": "PETG HT100 {color_name}",
+      "name": "HT100 {color_name}",
       "material": "PETG",
       "density": 1.18,
       "weights": [
@@ -3371,7 +3397,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_ht100.pdf"
     },
     {
-      "name": "PETG MATT {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.35,
       "weights": [
@@ -3433,7 +3459,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_petg_matt.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3548,7 +3574,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_petg_premium.pdf"
     },
     {
-      "name": "PETG Premium High Speed {color_name}",
+      "name": "Premium High Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3667,81 +3693,15 @@
         {
           "name": "Dark Grey",
           "hex": "5E5A57"
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 240,
-      "bed_temp": 75,
-      "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_tds_spectrum_petg_ptfe.pdf",
-      "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_petg_ptfe.pdf"
-    },
-    {
-      "name": "PTFE {color_name}",
-      "material": "PETG",
-      "density": 1.32,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 180
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Blue",
           "hex": "3B7DAF"
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 240,
-      "bed_temp": 75,
-      "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_tds_spectrum_petg_ptfe.pdf",
-      "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_petg_ptfe.pdf"
-    },
-    {
-      "name": "PTFE {color_name}",
-      "material": "PETG",
-      "density": 1.32,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 180
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Traffic Black",
           "hex": "67717B"
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 240,
-      "bed_temp": 75,
-      "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_tds_spectrum_petg_ptfe.pdf",
-      "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_petg_ptfe.pdf"
-    },
-    {
-      "name": "PTFE {color_name}",
-      "material": "PETG",
-      "density": 1.32,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 180
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Traffic Red",
           "hex": "E2766A"
@@ -3754,7 +3714,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_petg_ptfe.pdf"
     },
     {
-      "name": "R PETG {color_name}",
+      "name": "R {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3814,7 +3774,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/05/en_msds_spectrum_rpetg.pdf"
     },
     {
-      "name": "The Filament PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3900,7 +3860,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_the_filament_petg.pdf"
     },
     {
-      "name": "The Filament PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -3959,7 +3919,7 @@
       "tds_url": "https://shop.spectrumfilaments.com/data/include/cms/download/tds/EN_TDS_The_Filament_PETG_Lite.pdf?v=1756980721386"
     },
     {
-      "name": "PLA AquaPrint {color_name}",
+      "name": "AquaPrint {color_name}",
       "material": "PLA",
       "density": 0.9,
       "weights": [
@@ -3985,8 +3945,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/11/en_msds_spectrum_aquaprint.pdf"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.3,
       "weights": [
         {
@@ -4000,35 +3960,27 @@
       ],
       "colors": [
         {
-          "name": "Carbon",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament CF",
-          "hex": "11784F"
-        },
-        {
-          "name": "The Filament CF Black",
-          "hex": "000000"
-        },
-        {
-          "name": "The Filament CF Blue",
+          "name": "Blue",
           "hex": "0353BA"
         },
         {
-          "name": "The Filament CF Grey",
+          "name": "Grey",
           "hex": "AABCCF"
         },
         {
-          "name": "The Filament CF Purple",
+          "name": "Purple",
           "hex": "7142A3"
         },
         {
-          "name": "The Filament CF Red",
+          "name": "Red",
           "hex": "AD312D"
         },
         {
-          "name": "The Filament CF Violet",
+          "name": "Violet",
           "hex": "C80181"
         }
       ],
@@ -4044,7 +3996,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Crystal Silk PLA {color_name}",
+      "name": "Crystal Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4100,7 +4052,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "FlameGuard PLA {color_name}",
+      "name": "FlameGuard {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -4151,7 +4103,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_spectrum_flameguard_pla.pdf"
     },
     {
-      "name": "FlameGuard Silk PLA {color_name}",
+      "name": "FlameGuard Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4201,7 +4153,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Glitter Silk PLA {color_name}",
+      "name": "Glitter Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4259,7 +4211,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4297,7 +4249,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_glow_in_the_dark.pdf"
     },
     {
-      "name": "PLA GreenyHT {color_name}",
+      "name": "GreenyHT {color_name}",
       "material": "PLA",
       "density": 1.54,
       "weights": [
@@ -4339,7 +4291,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_greenyht.pdf"
     },
     {
-      "name": "PLA GreenyPro {color_name}",
+      "name": "GreenyPro {color_name}",
       "material": "PLA",
       "density": 1.34,
       "weights": [
@@ -4403,7 +4355,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/11/en_msds_greenypro.pdf"
     },
     {
-      "name": "High Speed PLA {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4510,51 +4462,51 @@
           "hex": "000000"
         },
         {
-          "name": "The Filament HS Energy Green",
+          "name": "HS Energy Green",
           "hex": "9AED51"
         },
         {
-          "name": "The Filament HS Fire Red",
+          "name": "HS Fire Red",
           "hex": "F00C00"
         },
         {
-          "name": "The Filament HS Grid Beige",
+          "name": "HS Grid Beige",
           "hex": "F1E6B2"
         },
         {
-          "name": "The Filament HS Midnight Black",
+          "name": "HS Midnight Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament HS Mirage Grey",
+          "name": "HS Mirage Grey",
           "hex": "D6D7D8"
         },
         {
-          "name": "The Filament HS Moss Green",
+          "name": "HS Moss Green",
           "hex": "1E5A4F"
         },
         {
-          "name": "The Filament HS Moss Grey",
+          "name": "HS Moss Grey",
           "hex": "595959"
         },
         {
-          "name": "The Filament HS Pure Orange",
+          "name": "HS Pure Orange",
           "hex": "FA8423"
         },
         {
-          "name": "The Filament HS Quantum Purple",
+          "name": "HS Quantum Purple",
           "hex": "E23288"
         },
         {
-          "name": "The Filament HS Traffic White",
+          "name": "HS Traffic White",
           "hex": "FFFFFF"
         },
         {
-          "name": "The Filament HS Tuscany Yellow",
+          "name": "HS Tuscany Yellow",
           "hex": "F2DE00"
         },
         {
-          "name": "The Filament HS Winter Blue",
+          "name": "HS Winter Blue",
           "hex": "0378D0"
         },
         {
@@ -4582,7 +4534,7 @@
       "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/05/en_tds_spectrum_high_speed.pdf"
     },
     {
-      "name": "Huracan PLA {color_name}",
+      "name": "Huracan {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -4660,7 +4612,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/10/en_msds_spectrum_huracan_pla.pdf"
     },
     {
-      "name": "Huracan Silk PLA {color_name}",
+      "name": "Huracan Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4742,7 +4694,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "LW-PLA UltraFoam {color_name}",
+      "name": "LW UltraFoam {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -4791,7 +4743,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2025/09/en_msds_spectrum_lw_pla_ultra_foam.pdf"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4838,47 +4790,47 @@
           "hex": "EFEFEF"
         },
         {
-          "name": "The Filament Army Green",
+          "name": "Army Green",
           "hex": "616247"
         },
         {
-          "name": "The Filament Camo Green",
+          "name": "Camo Green",
           "hex": "938E6D"
         },
         {
-          "name": "The Filament Desert Beige",
+          "name": "Desert Beige",
           "hex": "F1E6B2"
         },
         {
-          "name": "The Filament Jungle Green",
+          "name": "Jungle Green",
           "hex": "11784F"
         },
         {
-          "name": "The Filament Military Olive",
+          "name": "Military Olive",
           "hex": "7B6B57"
         },
         {
-          "name": "The Filament Night Blue",
+          "name": "Night Blue",
           "hex": "0E21AE"
         },
         {
-          "name": "The Filament October Red",
+          "name": "October Red",
           "hex": "AD4F54"
         },
         {
-          "name": "The Filament Snow White",
+          "name": "Snow White",
           "hex": "EFEFEF"
         },
         {
-          "name": "The Filament Stealth Black",
+          "name": "Stealth Black",
           "hex": "000000"
         },
         {
-          "name": "The Filament Trooper Grey",
+          "name": "Trooper Grey",
           "hex": "D6D7D8"
         },
         {
-          "name": "The Filament Urban Grey",
+          "name": "Urban Grey",
           "hex": "595959"
         }
       ],
@@ -4896,7 +4848,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_matt.pdf"
     },
     {
-      "name": "Metal Silk PLA {color_name}",
+      "name": "Metal Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4930,7 +4882,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Pastello PLA {color_name}",
+      "name": "Pastello {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5005,7 +4957,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/10/en_msds_spectrum_pla_pastello.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.54,
       "weights": [
@@ -5147,38 +5099,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA Carbon {color_name}",
-      "material": "PLA",
-      "density": 1.3,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "cardboard",
-          "spool_weight": 150
-        },
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 180
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "000000"
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 205,
-      "bed_temp": 30,
-      "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/05/en_tds_spectrum_pla_carbon.pdf",
-      "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_carbon.pdf"
-    },
-    {
-      "name": "PLA Crystal {color_name}",
+      "name": "Crystal {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5229,7 +5150,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/10/en_msds_spectrum_pla_cristal.pdf"
     },
     {
-      "name": "PLA Electrically Conductive {color_name}",
+      "name": "Electrically Conductive {color_name}",
       "material": "PLA",
       "density": 1.35,
       "weights": [
@@ -5255,7 +5176,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2025/09/en_msds_pla_conductive.pdf"
     },
     {
-      "name": "PLA Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5319,7 +5240,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_glitter.pdf"
     },
     {
-      "name": "PLA Glow in the Dark {color_name}",
+      "name": "Glow in the Dark {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5355,7 +5276,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_glow_in_the_dark.pdf"
     },
     {
-      "name": "PLA Magic SILK {color_name}",
+      "name": "Magic SILK {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -5442,7 +5363,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_spectrum_pla_magic_silk.pdf"
     },
     {
-      "name": "PLA MATT {color_name}",
+      "name": "MATT {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -5577,7 +5498,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_matt.pdf"
     },
     {
-      "name": "PLA Metal {color_name}",
+      "name": "Metal {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -5612,7 +5533,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Nature {color_name}",
+      "name": "Nature {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -5663,7 +5584,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/10/en_msds_spectrum_pla_nature.pdf"
     },
     {
-      "name": "PLA Premium HighSpeed {color_name}",
+      "name": "Premium HighSpeed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5792,7 +5713,7 @@
       "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/05/en_tds_spectrum_high_speed.pdf"
     },
     {
-      "name": "PLA SILK {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -5893,7 +5814,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_silk.pdf"
     },
     {
-      "name": "PLA SILK Rainbow {color_name}",
+      "name": "SILK Rainbow {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -5940,7 +5861,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/05/en_msds_spectrum_pla_silk_rainbow.pdf"
     },
     {
-      "name": "PLA Thermoactive {color_name}",
+      "name": "Thermoactive {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5971,7 +5892,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_thermoactive.pdf"
     },
     {
-      "name": "PLA Tough {color_name}",
+      "name": "Tough {color_name}",
       "material": "PLA",
       "density": 1.2,
       "weights": [
@@ -6010,7 +5931,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_tough.pdf"
     },
     {
-      "name": "R PLA {color_name}",
+      "name": "R {color_name}",
       "material": "PLA",
       "density": 1.54,
       "weights": [
@@ -6066,7 +5987,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_rpla.pdf"
     },
     {
-      "name": "SafeGuard PLA {color_name}",
+      "name": "SafeGuard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6137,7 +6058,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_spectrum_safeguard_pla.pdf"
     },
     {
-      "name": "Stone Age PLA {color_name}",
+      "name": "Stone Age {color_name}",
       "material": "PLA",
       "density": 1.54,
       "weights": [
@@ -6173,7 +6094,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pla_stone_age.pdf"
     },
     {
-      "name": "The Filament PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6257,7 +6178,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_the_filament_pla.pdf"
     },
     {
-      "name": "The Filament PLA {color_name}",
+      "name": "Lite {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6272,43 +6193,43 @@
       ],
       "colors": [
         {
-          "name": "Lite Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Lite Blue",
+          "name": "Blue",
           "hex": "0066D9"
         },
         {
-          "name": "Lite Green",
+          "name": "Green",
           "hex": "62E480"
         },
         {
-          "name": "Lite Grey",
+          "name": "Grey",
           "hex": "808080"
         },
         {
-          "name": "Lite Magenta",
+          "name": "Magenta",
           "hex": "DB3FA9"
         },
         {
-          "name": "Lite Orange",
+          "name": "Orange",
           "hex": "FA8423"
         },
         {
-          "name": "Lite Red",
+          "name": "Red",
           "hex": "EC0000"
         },
         {
-          "name": "Lite Silver",
+          "name": "Silver",
           "hex": "9C9D9D"
         },
         {
-          "name": "Lite White",
+          "name": "White",
           "hex": "FFFFFF"
         },
         {
-          "name": "Lite Yellow",
+          "name": "Yellow",
           "hex": "E8BD00"
         }
       ],
@@ -6324,39 +6245,7 @@
       "tds_url": "https://shop.spectrumfilaments.com/data/include/cms/download/tds/EN_TDS_The_Filament_PLA_Lite.pdf?v=1756980721386"
     },
     {
-      "name": "The Filament PLA {color_name}",
-      "material": "PLA",
-      "density": 1.54,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 180
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Sma Purple",
-          "hex": "C63DBA"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/eng_tds_the_filament_pla.pdf",
-      "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2024/11/en_msds_the_filament_pla.pdf"
-    },
-    {
-      "name": "PLA WOOD {color_name}",
+      "name": "WOOD {color_name}",
       "material": "PLA",
       "density": 1.15,
       "weights": [
@@ -6395,7 +6284,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_wood.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.89,
       "weights": [
@@ -6420,7 +6309,7 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_pp.pdf"
     },
     {
-      "name": "PPS AM230 {color_name}",
+      "name": "AM230 {color_name}",
       "material": "PPS",
       "density": 1.33,
       "weights": [
@@ -6445,8 +6334,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2022/10/en_msds_spectrum_pps_am230.pdf"
     },
     {
-      "name": "TPU S-Flex 85A {color_name}",
-      "material": "TPU",
+      "name": "S-Flex {color_name}",
+      "material": "TPU-85A",
       "density": 1.11,
       "weights": [
         {
@@ -6505,8 +6394,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/12/en_msds_spectrum_sflex_85a.pdf"
     },
     {
-      "name": "TPU S-Flex 90A {color_name}",
-      "material": "TPU",
+      "name": "S-Flex {color_name}",
+      "material": "TPU-90A",
       "density": 1.22,
       "weights": [
         {
@@ -6569,8 +6458,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_sflex_90a.pdf"
     },
     {
-      "name": "TPU S-Flex 98A {color_name}",
-      "material": "TPU",
+      "name": "S-Flex {color_name}",
+      "material": "TPU-98A",
       "density": 1.09,
       "weights": [
         {
@@ -6633,8 +6522,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2021/09/en_msds_spectrum_sflex_98a.pdf"
     },
     {
-      "name": "TPU S-Flex Carbon {color_name}",
-      "material": "TPU",
+      "name": "S-Flex {color_name}",
+      "material": "TPU-CF",
       "density": 1.09,
       "weights": [
         {
@@ -6664,8 +6553,8 @@
       "sds_url": "https://spectrumfilaments.com/wp-content/uploads/2023/11/en_msds_sflex_carbon.pdf"
     },
     {
-      "name": "The Filament TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-82A",
       "density": 1.21,
       "weights": [
         {
@@ -6679,63 +6568,115 @@
       ],
       "colors": [
         {
-          "name": "82A Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "82A Blue",
+          "name": "Blue",
           "hex": "0353BA"
         },
         {
-          "name": "82A Green",
+          "name": "Green",
           "hex": "62E480"
         },
         {
-          "name": "82A Red",
+          "name": "Red",
           "hex": "AC1A17"
         },
         {
-          "name": "82A White",
+          "name": "White",
           "hex": "EAECF5"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "PL"
+    },
+    {
+      "name": "{color_name}",
+      "material": "TPU-87A",
+      "density": 1.21,
+      "weights": [
         {
-          "name": "87A Black",
+          "weight": 1000,
+          "spool_type": "cardboard",
+          "spool_weight": 180
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "87A Blue",
+          "name": "Blue",
           "hex": "0353BA"
         },
         {
-          "name": "87A Green",
+          "name": "Green",
           "hex": "62E480"
         },
         {
-          "name": "87A Red",
+          "name": "Red",
           "hex": "AC1A17"
         },
         {
-          "name": "87A White",
+          "name": "White",
           "hex": "EAECF5"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "PL"
+    },
+    {
+      "name": "{color_name}",
+      "material": "TPU-95A",
+      "density": 1.21,
+      "weights": [
         {
-          "name": "95A Black",
+          "weight": 1000,
+          "spool_type": "cardboard",
+          "spool_weight": 180
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "95A Blue",
+          "name": "Blue",
           "hex": "0353BA"
         },
         {
-          "name": "95A Green",
+          "name": "Green",
           "hex": "62E480"
         },
         {
-          "name": "95A Red",
+          "name": "Red",
           "hex": "AC1A17"
         },
         {
-          "name": "95A White",
+          "name": "White",
           "hex": "EFEFEF"
         }
       ],

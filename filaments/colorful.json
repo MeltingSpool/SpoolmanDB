@@ -2,7 +2,7 @@
   "manufacturer": "Colorful",
   "filaments": [
     {
-      "name": "Galaxy PLA {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -32,7 +32,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "ICE",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.24,
       "weights": [
@@ -80,7 +80,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PET {color_name}",
+      "name": "{color_name}",
       "material": "PET",
       "density": 1.24,
       "weights": [
@@ -109,7 +109,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -186,7 +186,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.24,
       "weights": [

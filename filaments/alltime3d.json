@@ -2,7 +2,7 @@
   "manufacturer": "ALLTIME3D",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [

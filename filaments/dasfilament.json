@@ -2,7 +2,7 @@
   "manufacturer": "Das Filament",
   "filaments": [
     {
-      "name": "TPU V2 Flexibel {color_name}",
+      "name": "V2 Flexibel {color_name}",
       "material": "TPU",
       "density": 1.23,
       "weights": [
@@ -605,7 +605,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -634,7 +634,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -664,7 +664,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -694,7 +694,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -728,7 +728,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -757,7 +757,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -786,7 +786,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -815,7 +815,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -844,7 +844,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -873,7 +873,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -902,7 +902,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -931,7 +931,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "TPU V2 Flexibel {color_name}",
+      "name": "V2 {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

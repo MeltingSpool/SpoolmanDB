@@ -2,7 +2,7 @@
   "manufacturer": "ProtoFil",
   "filaments": [
     {
-      "name": "PLA Pro {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "name": "High Speed PETG {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "name": "Chameleon PLA {color_name}",
+      "name": "Chameleon {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "name": "Tri-Color and Dual-Color PLA {color_name}",
+      "name": "Dual-Color {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -596,7 +596,33 @@
             "PTF-FPLA1-DBKGN"
           ],
           "multi_color_direction": "coaxial"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Tri-Color {color_name}",
+      "material": "PLA",
+      "density": 1.24,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "extruder_temp_range": [
+        190,
+        220
+      ],
+      "bed_temp_range": [
+        45,
+        60
+      ],
+      "multi_color_direction": "coaxial",
+      "country_of_origin": "CN",
+      "colors": [
         {
           "name": "Red-Blue-Green",
           "hexes": [
@@ -648,7 +674,7 @@
       ]
     },
     {
-      "name": "Flexible PLA {color_name}",
+      "name": "Flexible {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -686,7 +712,7 @@
       ]
     },
     {
-      "name": "TPU 95A {color_name}",
+      "name": "{color_name}",
       "material": "TPU-95A",
       "density": 1.21,
       "weights": [
@@ -714,7 +740,7 @@
       ]
     },
     {
-      "name": "PA Nylon {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [

@@ -2,14 +2,13 @@
   "manufacturer": "3D Printing Canada",
   "filaments": [
     {
-      "name": "Budget PLA Refill {color_name}",
+      "name": "Budget {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 540
+          "is_refill": true
         }
       ],
       "diameters": [
@@ -88,7 +87,7 @@
       ]
     },
     {
-      "name": "Budget PLA {color_name}",
+      "name": "Budget {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -269,7 +268,7 @@
       ]
     },
     {
-      "name": "CanadianMade PLA {color_name}",
+      "name": "CanadianMade {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -372,14 +371,13 @@
       ]
     },
     {
-      "name": "Standard PLA Refill {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 540
+          "is_refill": true
         }
       ],
       "diameters": [
@@ -458,7 +456,7 @@
       ]
     },
     {
-      "name": "Standard PLA Silk {color_name}",
+      "name": "Standard Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -800,7 +798,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Standard PLA {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1053,7 +1051,7 @@
       ]
     },
     {
-      "name": "CanadianMade PLA+ {color_name}",
+      "name": "CanadianMade {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -1253,7 +1251,7 @@
       ]
     },
     {
-      "name": "Budget PETG {color_name}",
+      "name": "Budget {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1375,7 +1373,7 @@
       ]
     },
     {
-      "name": "CanadianMade PETG {color_name}",
+      "name": "CanadianMade {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1491,14 +1489,13 @@
       ]
     },
     {
-      "name": "Standard PETG Refill {color_name}",
+      "name": "Standard {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 746
+          "is_refill": true
         }
       ],
       "diameters": [
@@ -1578,7 +1575,7 @@
       ]
     },
     {
-      "name": "Standard PETG {color_name}",
+      "name": "Standard {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1652,7 +1649,7 @@
       ]
     },
     {
-      "name": "Standard ABS {color_name}",
+      "name": "Standard {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1708,7 +1705,7 @@
       ]
     },
     {
-      "name": "CanadianMade ASA {color_name}",
+      "name": "CanadianMade {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1804,7 +1801,7 @@
       ]
     },
     {
-      "name": "Standard PC+ABS {color_name}",
+      "name": "Standard {color_name}",
       "material": "PC+ABS",
       "density": 1.1,
       "weights": [

@@ -765,7 +765,7 @@
       "country_of_origin": "NZ"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -870,7 +870,7 @@
       "country_of_origin": "NZ"
     },
     {
-      "name": "PETG Rainbow \"Dark Green Ocean\" {color_name}",
+      "name": "Rainbow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -884,36 +884,11 @@
       ],
       "colors": [
         {
-          "name": "rPETG",
+          "name": "Dark Green Ocean",
           "hex": "67C993"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "NZ"
-    },
-    {
-      "name": "PETG Rainbow \"Dark Purple Galaxy\" {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
+        },
         {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "rPETG",
+          "name": "Dark Purple Galaxy",
           "hex": "B645A9"
         }
       ],
@@ -928,7 +903,7 @@
       "country_of_origin": "NZ"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1006,7 +981,7 @@
           "hex": "FF5F2E"
         },
         {
-          "name": "\"Powertool Green\" r",
+          "name": "Powertool Green r",
           "hex": "E4FF33"
         },
         {
@@ -1070,65 +1045,7 @@
       "country_of_origin": "NZ"
     },
     {
-      "name": "PLA Rainbow \"Sparkly Green Ocean\" {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "rPLA pro",
-          "hex": "2FBABC"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "NZ"
-    },
-    {
-      "name": "PLA Rainbow \"Sparkly Purple Galaxy\" {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "rPLA pro",
-          "hex": "033877"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "NZ"
-    },
-    {
-      "name": "PLA Rustic Rainbow {color_name}",
+      "name": "Rustic Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1157,7 +1074,7 @@
       "country_of_origin": "NZ"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1216,35 +1133,6 @@
         {
           "name": "White",
           "hex": "FFFFFF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "NZ"
-    },
-    {
-      "name": "PLA \"Sparkly Green Ocean\" {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "rPLA pro",
-          "hex": "2FBABC"
         }
       ],
       "extruder_temp_range": [

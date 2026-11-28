@@ -2,7 +2,7 @@
   "manufacturer": "Filabotics",
   "filaments": [
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -31,7 +31,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS Translucent {color_name}",
+      "name": "Translucent {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

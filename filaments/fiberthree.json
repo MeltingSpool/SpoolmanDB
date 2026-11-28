@@ -2,7 +2,7 @@
   "manufacturer": "FiberThree",
   "filaments": [
     {
-      "name": "F3 PA Pure Pro {color_name}",
+      "name": "Pure Pro {color_name}",
       "material": "PA",
       "density": 1.2,
       "weights": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "F3 PA-CF Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PA-CF",
       "density": 1.25,
       "weights": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "name": "F3 PA-GF Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PA-GF",
       "density": 1.27,
       "weights": [
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "F3 PA-GF30 Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PA-GF30",
       "density": 1.35,
       "weights": [
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "name": "F3 PA-ESD Safe {color_name}",
+      "name": "ESD Safe {color_name}",
       "material": "PA",
       "density": 1.2,
       "weights": [
@@ -184,8 +184,8 @@
       ]
     },
     {
-      "name": "F3 PA CF Lite {color_name}",
-      "material": "PA12",
+      "name": "Lite {color_name}",
+      "material": "PA12-CF",
       "density": 1.01,
       "weights": [
         {
@@ -214,7 +214,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "F3 PA Pure Lite {color_name}",
+      "name": "Pure Lite {color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -243,8 +243,8 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "F3 PA CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.25,
       "weights": [
         {
@@ -273,7 +273,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "F3 PA ESD {color_name}",
+      "name": "ESD {color_name}",
       "material": "PA6",
       "density": 1.2,
       "weights": [
@@ -302,8 +302,8 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "F3 PA GF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-GF",
       "density": 1.27,
       "weights": [
         {
@@ -332,8 +332,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "F3 PA-GF30 {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-GF30",
       "density": 1.27,
       "weights": [
         {
@@ -370,7 +370,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "F3 PA Ortho {color_name}",
+      "name": "Ortho {color_name}",
       "material": "PA6",
       "density": 1.2,
       "weights": [
@@ -399,7 +399,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "F3 PA Pure {color_name}",
+      "name": "Pure {color_name}",
       "material": "PA6",
       "density": 1.2,
       "weights": [
@@ -428,8 +428,8 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "F3 CF 150 {color_name}",
-      "material": "PC",
+      "name": "150 {color_name}",
+      "material": "PC-CF",
       "density": 1.2,
       "weights": [
         {
@@ -458,8 +458,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "F3 GF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-GF",
       "density": 1.24,
       "weights": [
         {
@@ -488,8 +488,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "F3 GF 25 {color_name}",
-      "material": "PP",
+      "name": "{color_name}",
+      "material": "PP-GF25",
       "density": 0.9,
       "weights": [
         {
@@ -518,8 +518,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "TPU F3 80A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-80A",
       "density": 1.21,
       "weights": [
         {
@@ -547,8 +547,8 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "TPU F3 98A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-98A",
       "density": 1.21,
       "weights": [
         {

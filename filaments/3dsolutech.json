@@ -31,7 +31,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.24,
       "weights": [
@@ -60,7 +60,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Flexible {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.24,
       "weights": [
@@ -124,7 +124,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -157,7 +157,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

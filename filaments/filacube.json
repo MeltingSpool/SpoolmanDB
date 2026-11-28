@@ -2,7 +2,7 @@
   "manufacturer": "FilaCube",
   "filaments": [
     {
-      "name": "PLA 2 {color_name}",
+      "name": "2 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "name": "PLA Greenery {color_name}",
+      "name": "Greenery {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -304,7 +304,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -137,7 +137,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -218,7 +218,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "Glow ABS {color_name}",
+      "name": "Glow {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -508,7 +508,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -571,7 +571,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -689,7 +689,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -724,7 +724,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "Matte PETG {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -754,7 +754,7 @@
       "finish": "matte"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -783,7 +783,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -812,7 +812,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -841,7 +841,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -870,7 +870,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -899,7 +899,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -928,7 +928,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -958,7 +958,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -988,7 +988,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1017,7 +1017,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1046,7 +1046,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1075,7 +1075,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1104,7 +1104,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1133,7 +1133,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1162,7 +1162,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1191,7 +1191,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1220,7 +1220,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1249,7 +1249,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1278,7 +1278,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1307,7 +1307,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1336,7 +1336,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1365,7 +1365,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1394,7 +1394,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1423,7 +1423,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1452,7 +1452,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1481,8 +1481,8 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -1527,8 +1527,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.24,
       "weights": [
         {

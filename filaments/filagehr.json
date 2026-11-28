@@ -2,7 +2,7 @@
   "manufacturer": "FIL-A-GEHR",
   "filaments": [
     {
-      "name": "FIL-A-GEHR PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "name": "FIL-A-GEHR PPS-CF {color_name}",
+      "name": "{color_name}",
       "material": "PPS-CF",
       "density": 1.51,
       "weights": [

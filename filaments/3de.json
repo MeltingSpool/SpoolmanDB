@@ -2,7 +2,7 @@
   "manufacturer": "3DE",
   "filaments": [
     {
-      "name": "Premium ABS {color_name}",
+      "name": "Premium {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -143,7 +143,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium ASA {color_name}",
+      "name": "Premium {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -201,8 +201,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium NYLON {color_name}",
-      "material": "NYLON",
+      "name": "Premium {color_name}",
+      "material": "PA",
       "density": 1.14,
       "weights": [
         {
@@ -248,7 +248,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PBT {color_name}",
+      "name": "Premium {color_name}",
       "material": "PBT",
       "density": 1.31,
       "weights": [
@@ -357,7 +357,7 @@
       "tds_url": "https://www.3deksperten.dk/products/3de-premium-pc-pbt-white-1-75mm-1kg"
     },
     {
-      "name": "Premium Tough PBT {color_name}",
+      "name": "Premium Tough {color_name}",
       "material": "PBT",
       "density": 1.31,
       "weights": [
@@ -391,8 +391,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PBT {color_name}",
-      "material": "PC",
+      "name": "Premium {color_name}",
+      "material": "PC-PBT",
       "density": 1.181,
       "weights": [
         {
@@ -413,14 +413,14 @@
       ],
       "colors": [
         {
-          "name": "PC-PBT - Black",
+          "name": "Black",
           "hex": "808080",
           "codes": [
             "207109"
           ]
         },
         {
-          "name": "PC-PBT - White",
+          "name": "White",
           "hex": "808080",
           "codes": [
             "207110"
@@ -431,7 +431,7 @@
       "tds_url": "https://www.3deksperten.dk/products/3de-premium-pc-pbt-white-1-75mm-1kg"
     },
     {
-      "name": "Premium PC {color_name}",
+      "name": "Premium {color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -483,7 +483,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PCTG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PCTG",
       "density": 1.237,
       "weights": [
@@ -530,7 +530,7 @@
       "tds_url": "https://www.3deksperten.dk/products/3de-premium-pctg-fully-white-1-75mm-1kg"
     },
     {
-      "name": "Premium PET {color_name}",
+      "name": "Premium High Speed {color_name}",
       "material": "PET",
       "density": 1.29,
       "weights": [
@@ -553,7 +553,7 @@
       ],
       "colors": [
         {
-          "name": "High Speed PET - Black Diamond",
+          "name": "Black Diamond",
           "hex": "808080",
           "codes": [
             "207048"
@@ -563,7 +563,7 @@
           ]
         },
         {
-          "name": "High Speed PET - White Agat",
+          "name": "White Agat",
           "hex": "808080",
           "codes": [
             "207049"
@@ -577,8 +577,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Carbon Fiber PETG {color_name}",
-      "material": "PETG",
+      "name": "Premium {color_name}",
+      "material": "PETG-CF",
       "density": 1.17,
       "weights": [
         {
@@ -600,14 +600,14 @@
       ],
       "colors": [
         {
-          "name": "Carbon Fiber Black",
+          "name": "Black",
           "hex": "1a1a1a",
           "codes": [
             "200723"
           ]
         },
         {
-          "name": "Carbon Fiber Indigo Blue",
+          "name": "Indigo Blue",
           "hex": "808080",
           "codes": [
             "210020"
@@ -619,7 +619,7 @@
       "tds_url": "https://www.3deksperten.dk/products/demo-3de-premium-petg-carbon-fiber-black-2-85mm-1kg"
     },
     {
-      "name": "Premium Glow PLA {color_name}",
+      "name": "Premium Glow {color_name}",
       "material": "PETG",
       "density": 1.17,
       "weights": [
@@ -655,7 +655,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Opaque PETG {color_name}",
+      "name": "Premium Opaque {color_name}",
       "material": "PETG",
       "density": 1.17,
       "weights": [
@@ -690,7 +690,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.17,
       "weights": [
@@ -769,124 +769,34 @@
           ]
         },
         {
-          "name": "Fluorescent Green - Semi-transparent",
+          "name": "Fluorescent Green",
           "hex": "808080",
           "codes": [
             "200712"
-          ]
+          ],
+          "translucent": true
         },
         {
-          "name": "Fluorescent Orange - Semi-transparent",
+          "name": "Fluorescent Orange",
           "hex": "808080",
           "codes": [
             "200710"
-          ]
+          ],
+          "translucent": true
         },
         {
-          "name": "Fluorescent Yellow - Semi-transparent",
+          "name": "Fluorescent Yellow",
           "hex": "808080",
           "codes": [
             "200711"
-          ]
+          ],
+          "translucent": true
         },
         {
-          "name": "Fluorescent Yellow - Solid Color",
+          "name": "Fluorescent Yellow",
           "hex": "808080",
           "codes": [
             "200716"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Black",
-          "hex": "808080",
-          "codes": [
-            "207111"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Blue",
-          "hex": "808080",
-          "codes": [
-            "207116"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Dark Grey",
-          "hex": "808080",
-          "codes": [
-            "207113"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Green",
-          "hex": "808080",
-          "codes": [
-            "207117"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Light Grey",
-          "hex": "808080",
-          "codes": [
-            "207114"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Orange",
-          "hex": "808080",
-          "codes": [
-            "207119"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Red",
-          "hex": "808080",
-          "codes": [
-            "207115"
-          ]
-        },
-        {
-          "name": "High Speed PETG - White",
-          "hex": "808080",
-          "codes": [
-            "207112"
-          ]
-        },
-        {
-          "name": "High Speed PETG - Yellow",
-          "hex": "808080",
-          "codes": [
-            "207118"
-          ]
-        },
-        {
-          "name": "PETG Magic - Blue, Green and Gold",
-          "hex": "808080",
-          "codes": [
-            "207108"
-          ],
-          "eans": [
-            "5745001109646"
-          ]
-        },
-        {
-          "name": "PETG Magic - Gold, Red and Purple",
-          "hex": "808080",
-          "codes": [
-            "207103"
-          ],
-          "eans": [
-            "5745001109592"
-          ]
-        },
-        {
-          "name": "PETG Magic - Red, Purple and Blue",
-          "hex": "808080",
-          "codes": [
-            "207102"
-          ],
-          "eans": [
-            "5745001109585"
           ]
         },
         {
@@ -1001,7 +911,176 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PRO PETG {color_name}",
+      "name": "Premium Magic {color_name}",
+      "material": "PETG",
+      "density": 1.17,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 200,
+          "spool_type": "plastic"
+        },
+        {
+          "weight": 2000,
+          "spool_weight": 400,
+          "spool_type": "plastic"
+        },
+        {
+          "weight": 5000,
+          "spool_weight": 500,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75,
+        2.85
+      ],
+      "extruder_temp_range": [
+        230,
+        255
+      ],
+      "bed_temp_range": [
+        60,
+        80
+      ],
+      "colors": [
+        {
+          "name": "Blue, Green and Gold",
+          "hex": "808080",
+          "codes": [
+            "207108"
+          ],
+          "eans": [
+            "5745001109646"
+          ]
+        },
+        {
+          "name": "Gold, Red and Purple",
+          "hex": "808080",
+          "codes": [
+            "207103"
+          ],
+          "eans": [
+            "5745001109592"
+          ]
+        },
+        {
+          "name": "Red, Purple and Blue",
+          "hex": "808080",
+          "codes": [
+            "207102"
+          ],
+          "eans": [
+            "5745001109585"
+          ]
+        }
+      ],
+      "country_of_origin": "DK",
+      "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
+    },
+    {
+      "name": "Premium High Speed {color_name}",
+      "material": "PETG",
+      "density": 1.17,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_weight": 200,
+          "spool_type": "plastic"
+        },
+        {
+          "weight": 2000,
+          "spool_weight": 400,
+          "spool_type": "plastic"
+        },
+        {
+          "weight": 5000,
+          "spool_weight": 500,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75,
+        2.85
+      ],
+      "extruder_temp_range": [
+        230,
+        255
+      ],
+      "bed_temp_range": [
+        60,
+        80
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "808080",
+          "codes": [
+            "207111"
+          ]
+        },
+        {
+          "name": "Blue",
+          "hex": "808080",
+          "codes": [
+            "207116"
+          ]
+        },
+        {
+          "name": "Dark Grey",
+          "hex": "808080",
+          "codes": [
+            "207113"
+          ]
+        },
+        {
+          "name": "Green",
+          "hex": "808080",
+          "codes": [
+            "207117"
+          ]
+        },
+        {
+          "name": "Light Grey",
+          "hex": "808080",
+          "codes": [
+            "207114"
+          ]
+        },
+        {
+          "name": "Orange",
+          "hex": "808080",
+          "codes": [
+            "207119"
+          ]
+        },
+        {
+          "name": "Red",
+          "hex": "808080",
+          "codes": [
+            "207115"
+          ]
+        },
+        {
+          "name": "White",
+          "hex": "808080",
+          "codes": [
+            "207112"
+          ]
+        },
+        {
+          "name": "Yellow",
+          "hex": "808080",
+          "codes": [
+            "207118"
+          ]
+        }
+      ],
+      "country_of_origin": "DK",
+      "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
+    },
+    {
+      "name": "Premium PRO {color_name}",
       "material": "PETG",
       "density": 1.17,
       "weights": [
@@ -1055,7 +1134,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "MAX PLA {color_name}",
+      "name": "MAX {color_name}",
       "material": "PLA",
       "density": 1.17,
       "weights": [
@@ -1426,8 +1505,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-pla-max"
     },
     {
-      "name": "Premium Carbon Fiber PLA {color_name}",
-      "material": "PLA",
+      "name": "Premium {color_name}",
+      "material": "PLA-CF",
       "density": 1.24,
       "weights": [
         {
@@ -1449,7 +1528,7 @@
       ],
       "colors": [
         {
-          "name": "Carbon Fiber Black",
+          "name": "Black",
           "hex": "1a1a1a",
           "codes": [
             "200470"
@@ -1461,8 +1540,8 @@
       "tds_url": "https://www.3deksperten.dk/products/carbon-fiber-black-3de-premium-pla-2-85mm-3kg-gigant-spool"
     },
     {
-      "name": "Premium Flexible PLA {color_name}",
-      "material": "PLA",
+      "name": "Premium Flexible {color_name}",
+      "material": "PLA-54D",
       "density": 1.16,
       "weights": [
         {
@@ -1484,7 +1563,7 @@
       ],
       "colors": [
         {
-          "name": "54D - All Black",
+          "name": "All Black",
           "hex": "808080",
           "codes": [
             "207045"
@@ -1494,7 +1573,7 @@
           ]
         },
         {
-          "name": "54D - All Blue",
+          "name": "All Blue",
           "hex": "808080",
           "codes": [
             "207047"
@@ -1504,7 +1583,7 @@
           ]
         },
         {
-          "name": "54D - All White",
+          "name": "All White",
           "hex": "808080",
           "codes": [
             "207046"
@@ -1518,7 +1597,7 @@
       "tds_url": "https://www.3deksperten.dk/products/3de-premium-flexible-pla-54d-all-white-1-75mm-1kg"
     },
     {
-      "name": "Premium Fluorescent PLA {color_name}",
+      "name": "Premium Fluorescent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1542,7 +1621,7 @@
       ],
       "colors": [
         {
-          "name": "Neon Yellow - Fluorescent",
+          "name": "Neon Yellow",
           "hex": "e1e000",
           "codes": [
             "200010"
@@ -1568,7 +1647,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Glow PLA {color_name}",
+      "name": "Premium Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1710,7 +1789,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium High Speed PLA {color_name}",
+      "name": "Premium High Speed {color_name}",
       "material": "PLA",
       "density": 1.17,
       "weights": [
@@ -1744,7 +1823,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Matt PLA {color_name}",
+      "name": "Premium Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1791,7 +1870,7 @@
           ]
         },
         {
-          "name": "Matte Rainbow Macaron",
+          "name": "Rainbow Macaron",
           "hexes": [
             "ff0000",
             "ff8800",
@@ -1807,7 +1886,7 @@
           ]
         },
         {
-          "name": "Matte Rainbow Ocean Wave",
+          "name": "Rainbow Ocean Wave",
           "hexes": [
             "ff0000",
             "ff8800",
@@ -1823,7 +1902,7 @@
           ]
         },
         {
-          "name": "Matte Rainbow Paddy Fields",
+          "name": "Rainbow Paddy Fields",
           "hexes": [
             "ff0000",
             "ff8800",
@@ -1839,7 +1918,7 @@
           ]
         },
         {
-          "name": "Matte Rainbow Purple Rain",
+          "name": "Rainbow Purple Rain",
           "hexes": [
             "ff0000",
             "ff8800",
@@ -1855,7 +1934,7 @@
           ]
         },
         {
-          "name": "Matte Rainbow Sunrise",
+          "name": "Rainbow Sunrise",
           "hexes": [
             "ff0000",
             "ff8800",
@@ -1908,8 +1987,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Opaque PETG {color_name}",
-      "material": "PLA",
+      "name": "Premium Opaque {color_name}",
+      "material": "PETG",
       "density": 1.17,
       "weights": [
         {
@@ -1943,7 +2022,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Opaque PLA {color_name}",
+      "name": "Premium Opaque {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1985,7 +2064,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2390,7 +2469,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Pastel PLA {color_name}",
+      "name": "Premium Pastel {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2420,28 +2499,28 @@
           ]
         },
         {
-          "name": "Lavender Purple - Pastel",
+          "name": "Lavender Purple",
           "hex": "808080",
           "codes": [
             "200016"
           ]
         },
         {
-          "name": "Steel Blue - Pastel",
+          "name": "Steel Blue",
           "hex": "808080",
           "codes": [
             "200015"
           ]
         },
         {
-          "name": "Sunrise Yellow - Pastel",
+          "name": "Sunrise Yellow",
           "hex": "808080",
           "codes": [
             "200014"
           ]
         },
         {
-          "name": "Unicorn Pink - Pastel",
+          "name": "Unicorn Pink",
           "hex": "808080",
           "codes": [
             "200017"
@@ -2452,7 +2531,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Shimmer PLA {color_name}",
+      "name": "Premium Shimmer {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2535,7 +2614,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Silky PLA {color_name}",
+      "name": "Premium Silky {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2559,7 +2638,7 @@
       ],
       "colors": [
         {
-          "name": "BiColor - Yellow&Blue",
+          "name": "Yellow & Blue",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2849,7 +2928,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Blue Violet",
+          "name": "Rainbow Blue Violet",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2860,7 +2939,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Candy",
+          "name": "Rainbow Candy",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2871,7 +2950,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Flower",
+          "name": "Rainbow Flower",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2882,7 +2961,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Forest",
+          "name": "Rainbow Forest",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2893,7 +2972,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Macaron",
+          "name": "Rainbow Macaron",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -2904,7 +2983,7 @@
           ]
         },
         {
-          "name": "Silky Rainbow Pastel",
+          "name": "Rainbow Pastel",
           "hex": "808080",
           "finish": "glossy",
           "codes": [
@@ -3101,7 +3180,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Transparent PLA {color_name}",
+      "name": "Premium Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3169,7 +3248,7 @@
           ]
         },
         {
-          "name": "PLA Transparent Rainbow - Glacier Blue",
+          "name": "Rainbow Glacier Blue",
           "hex": "808080",
           "translucent": true,
           "codes": [
@@ -3177,7 +3256,7 @@
           ]
         },
         {
-          "name": "PLA Transparent Rainbow - Lotus Pink",
+          "name": "Rainbow Lotus Pink",
           "hex": "808080",
           "translucent": true,
           "codes": [
@@ -3185,7 +3264,7 @@
           ]
         },
         {
-          "name": "PLA Transparent Rainbow - Mint Green",
+          "name": "Rainbow Mint Green",
           "hex": "808080",
           "translucent": true,
           "codes": [
@@ -3193,7 +3272,7 @@
           ]
         },
         {
-          "name": "PLA Transparent Rainbow - Phantom Blue",
+          "name": "Rainbow Phantom Blue",
           "hex": "808080",
           "translucent": true,
           "codes": [
@@ -3231,7 +3310,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Woodfill PLA {color_name}",
+      "name": "Premium Woodfill {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3284,7 +3363,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium X-Strong PLA {color_name}",
+      "name": "Premium X-Strong {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3366,7 +3445,7 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium 4D PLA {color_name}",
+      "name": "Premium 4D {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3400,7 +3479,7 @@
       "tds_url": "https://www.3deksperten.dk/products/sample-3de-premium-4d-pla-nature-1-75mm-1kg"
     },
     {
-      "name": "Premium Antibacterial PLA {color_name}",
+      "name": "Premium Antibacterial {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3434,7 +3513,7 @@
       "tds_url": "https://www.3deksperten.dk/products/antibacterial-material-3de-premium-pla-1-75mm"
     },
     {
-      "name": "Premium Antistatic PLA {color_name}",
+      "name": "Premium Antistatic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3468,8 +3547,8 @@
       "tds_url": "https://www.3deksperten.dk/products/3de-premium-petg-antistatic-black-1-75mm-1kg"
     },
     {
-      "name": "Premium High Temp PLA {color_name}",
-      "material": "PLAHIGHTEMP",
+      "name": "Premium High Temp {color_name}",
+      "material": "PLA",
       "density": 1.24,
       "weights": [
         {
@@ -3519,8 +3598,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Magic PLA {color_name}",
-      "material": "PLAMAGIC",
+      "name": "Premium Magic {color_name}",
+      "material": "PLA",
       "density": 1.24,
       "weights": [
         {
@@ -3574,8 +3653,8 @@
       "tds_url": "https://www.3deksperten.dk/collections/3de-premium-filamenter"
     },
     {
-      "name": "Premium Seaweed PLA {color_name}",
-      "material": "PLASEAWEED",
+      "name": "Premium Seaweed {color_name}",
+      "material": "PLA",
       "density": 1.24,
       "weights": [
         {
@@ -3608,7 +3687,7 @@
       "tds_url": "https://www.3deksperten.dk/products/seaweed-3de-premium-pla-1-75mm"
     },
     {
-      "name": "Premium PP {color_name}",
+      "name": "Premium {color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [

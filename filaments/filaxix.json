@@ -2,7 +2,7 @@
   "manufacturer": "Filaxix",
   "filaments": [
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -39,7 +39,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PET-CF",
       "density": 1.24,
       "weights": [
@@ -69,7 +69,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.24,
       "weights": [
@@ -237,7 +237,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

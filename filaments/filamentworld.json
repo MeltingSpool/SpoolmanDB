@@ -2,7 +2,7 @@
   "manufacturer": "Filamentworld",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -159,7 +159,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_ABS_Datenblatt.pdf"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -221,7 +221,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -343,7 +343,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PETG_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -376,7 +376,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -409,7 +409,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -445,7 +445,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -478,7 +478,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -511,7 +511,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -546,7 +546,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -580,7 +580,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -615,7 +615,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -648,7 +648,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -681,7 +681,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -714,7 +714,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -747,7 +747,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -781,7 +781,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -815,7 +815,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -849,7 +849,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -882,7 +882,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -915,7 +915,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -948,7 +948,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -978,7 +978,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1008,7 +1008,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1038,7 +1038,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1068,7 +1068,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1098,7 +1098,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1128,7 +1128,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1158,7 +1158,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1188,7 +1188,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1218,7 +1218,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1248,7 +1248,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1278,7 +1278,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1308,7 +1308,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1338,7 +1338,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1368,7 +1368,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1398,7 +1398,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1428,7 +1428,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1461,7 +1461,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1494,7 +1494,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1530,7 +1530,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1563,7 +1563,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1596,7 +1596,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1631,7 +1631,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1665,7 +1665,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1700,7 +1700,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1733,7 +1733,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1766,7 +1766,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1799,7 +1799,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1832,7 +1832,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1866,7 +1866,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1900,7 +1900,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1934,7 +1934,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1967,7 +1967,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2000,7 +2000,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2033,7 +2033,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2063,7 +2063,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2096,7 +2096,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2126,7 +2126,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2156,7 +2156,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2186,7 +2186,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2216,7 +2216,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2246,7 +2246,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2276,7 +2276,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2306,7 +2306,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2336,7 +2336,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2366,7 +2366,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2396,7 +2396,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2426,7 +2426,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2456,7 +2456,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2486,7 +2486,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2516,7 +2516,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2549,7 +2549,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2582,7 +2582,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2615,7 +2615,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2648,7 +2648,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2681,7 +2681,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2714,7 +2714,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2747,7 +2747,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "PLA Plus {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -2822,7 +2822,7 @@
       "tds_url": "https://filamentworld.de/fact-sheets/Filamentworld_PLA_Datenblatt.pdf"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

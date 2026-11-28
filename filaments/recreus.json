@@ -2,8 +2,8 @@
   "manufacturer": "Recreus",
   "filaments": [
     {
-      "name": "FilaFlex 82A {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex {color_name}",
+      "material": "TPU-82A",
       "density": 1.14,
       "weights": [
         {
@@ -69,8 +69,8 @@
       ]
     },
     {
-      "name": "FilaFlex 70A {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex {color_name}",
+      "material": "TPU-70A",
       "density": 1.12,
       "weights": [
         {
@@ -107,8 +107,8 @@
       ]
     },
     {
-      "name": "FilaFlex 95A {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex {color_name}",
+      "material": "TPU-95A",
       "density": 1.08,
       "weights": [
         {
@@ -166,38 +166,7 @@
       ]
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 240
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "PET-G CF Carbon",
-          "hex": "545252"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "PET G Hf High Speed PETG {color_name}",
+      "name": "HF {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -242,35 +211,9 @@
         {
           "name": "White",
           "hex": "F5F5F5"
-        }
-      ],
-      "extruder_temp_range": [
-        220,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "ES"
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
+        },
         {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 240
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "PET-G HF Transparent",
+          "name": "Transparent",
           "hex": "E4E7E5"
         }
       ],
@@ -285,7 +228,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -335,7 +278,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PP 3D {color_name}",
+      "name": "3D {color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -369,8 +312,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PP GF {color_name}",
-      "material": "PP",
+      "name": "{color_name}",
+      "material": "PP-GF",
       "density": 0.9,
       "weights": [
         {
@@ -404,7 +347,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Sebs Filaflex TPE {color_name}",
+      "name": "Sebs Filaflex {color_name}",
       "material": "TPE",
       "density": 1.2,
       "weights": [
@@ -438,7 +381,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Balena Filaflex TPU {color_name}",
+      "name": "Balena Filaflex {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -468,7 +411,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Conductive Filaflex TPU {color_name}",
+      "name": "Conductive Filaflex {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -498,8 +441,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU FilaFlex 60A {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex {color_name}",
+      "material": "TPU-60A",
       "density": 1.21,
       "weights": [
         {
@@ -536,8 +479,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU FilaFlex 70A Ultra Soft {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex Ultra Soft {color_name}",
+      "material": "TPU-70A",
       "density": 1.21,
       "weights": [
         {
@@ -586,8 +529,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU FilaFlex 82A {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex {color_name}",
+      "material": "TPU-82A",
       "density": 1.21,
       "weights": [
         {
@@ -688,8 +631,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU FilaFlex 95 Foamy {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex Foamy {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -754,8 +697,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU FilaFlex 95A Medium Flex {color_name}",
-      "material": "TPU",
+      "name": "FilaFlex Medium Flex {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -812,7 +755,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Filaflex TPU {color_name}",
+      "name": "Filaflex {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -882,8 +825,8 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-82A",
       "density": 1.21,
       "weights": [
         {
@@ -897,7 +840,7 @@
       ],
       "colors": [
         {
-          "name": "82A Footwearology edition Mint",
+          "name": "Footwearology edition Mint",
           "hex": "C5D5C1"
         },
         {

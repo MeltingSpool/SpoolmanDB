@@ -68,7 +68,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/petg-TDS-en.pdf"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "ABS",
       "density": 1.06,
       "weights": [
@@ -139,7 +139,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/durapro-pc-pbt-cf-TDS-en.pdf"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -239,7 +239,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/durapro-pc-pbt-cf-TDS-en.pdf"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "ASA-CF",
       "density": 1.14,
       "weights": [
@@ -273,7 +273,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "ASA-GF",
       "density": 1.1,
       "weights": [
@@ -302,7 +302,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -335,7 +335,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/durapro-pc-pbt-cf-TDS-en.pdf"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "PA12-CF",
       "density": 1.03,
       "weights": [
@@ -369,7 +369,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "PCPBT",
       "density": 1.2,
       "weights": [
@@ -406,7 +406,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/durapro-pc-pbt-cf-TDS-en.pdf"
     },
     {
-      "name": "DuraPro - {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "PCPBT-CF",
       "density": 1.2,
       "weights": [
@@ -778,7 +778,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/petg-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -809,7 +809,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -872,7 +872,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -996,7 +996,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1027,7 +1027,7 @@
       ]
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1052,7 +1052,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1078,7 +1078,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1103,7 +1103,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1128,7 +1128,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1153,7 +1153,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1178,7 +1178,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1203,7 +1203,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1228,7 +1228,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1253,7 +1253,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1279,7 +1279,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1304,7 +1304,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1329,7 +1329,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1354,7 +1354,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1379,7 +1379,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1404,7 +1404,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1429,7 +1429,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1454,7 +1454,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1480,7 +1480,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1505,7 +1505,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1530,7 +1530,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1555,7 +1555,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1580,7 +1580,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1605,7 +1605,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1630,7 +1630,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1655,7 +1655,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1681,7 +1681,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1706,7 +1706,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1731,7 +1731,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1756,7 +1756,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1781,7 +1781,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1806,7 +1806,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1831,7 +1831,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1856,7 +1856,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1882,7 +1882,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1907,7 +1907,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1932,7 +1932,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1957,7 +1957,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1982,7 +1982,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2007,7 +2007,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2032,7 +2032,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2057,7 +2057,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2083,7 +2083,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2108,7 +2108,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2133,7 +2133,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2158,7 +2158,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2183,7 +2183,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2208,7 +2208,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2233,7 +2233,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2258,7 +2258,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2284,7 +2284,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2309,7 +2309,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2334,7 +2334,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2359,7 +2359,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2384,7 +2384,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2409,7 +2409,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-basic-TDS-en.pdf"
     },
     {
-      "name": "Basic - {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3131,7 +3131,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/flex-semisoft-TDS-en.pdf"
     },
     {
-      "name": "DuraPro ABS {color_name}",
+      "name": "DuraPro {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3412,7 +3412,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/durapro-pc-pbt-TDS-en.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3476,7 +3476,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pctg-TDS-en.pdf"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3507,7 +3507,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3664,7 +3664,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/petg-TDS-en.pdf"
     },
     {
-      "name": "BioFusion PLA {color_name}",
+      "name": "BioFusion {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3711,7 +3711,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/biofusion-TDS-en.pdf"
     },
     {
-      "name": "BioFusion Silk PLA {color_name}",
+      "name": "BioFusion Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3762,7 +3762,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/biofusion-TDS-en.pdf"
     },
     {
-      "name": "Flax PLA {color_name}",
+      "name": "Flax {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3793,7 +3793,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/flax-TDS-en.pdf"
     },
     {
-      "name": "GreenTEC Matte PLA {color_name}",
+      "name": "GreenTEC Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3849,7 +3849,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/greentec-TDS-en.pdf"
     },
     {
-      "name": "GreenTEC PLA {color_name}",
+      "name": "GreenTEC {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3904,7 +3904,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/greentec-TDS-en.pdf"
     },
     {
-      "name": "PLA NX2 Matt {color_name}",
+      "name": "NX2 Matt {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3935,7 +3935,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pla-nx2-matt-TDS-en.pdf"
     },
     {
-      "name": "Pearl PLA {color_name}",
+      "name": "Pearl {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3966,7 +3966,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/pearl-TDS-en.pdf"
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4185,7 +4185,7 @@
       "tds_url": "https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-en/flex-semisoft-TDS-en.pdf"
     },
     {
-      "name": "PLA HS {color_name}",
+      "name": "HS {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

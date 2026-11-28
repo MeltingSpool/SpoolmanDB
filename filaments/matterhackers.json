@@ -601,7 +601,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -750,7 +750,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "CPE {color_name}",
+      "name": "Ryno {color_name}",
       "material": "CPE",
       "density": 1.25,
       "weights": [
@@ -764,19 +764,19 @@
       ],
       "colors": [
         {
-          "name": "Black Series Ryno",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Clear Series Ryno",
+          "name": "Clear",
           "hex": "E4E7E5"
         },
         {
-          "name": "Grey Series Ryno",
+          "name": "Grey",
           "hex": "B8BAB8"
         },
         {
-          "name": "White Series Ryno",
+          "name": "White",
           "hex": "FFFFFF"
         }
       ],
@@ -791,8 +791,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-GF",
       "density": 1.01,
       "weights": [
         {
@@ -805,65 +805,35 @@
       ],
       "colors": [
         {
-          "name": "NylonX Carbon Fiber",
-          "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        240,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "US",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "PA12 GF {color_name}",
-      "material": "PA12",
-      "density": 1.01,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Black NylonG Glass Fiber",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Blue NylonG Glass Fiber",
+          "name": "Blue",
           "hex": "0E21AE"
         },
         {
-          "name": "Desert Tan NylonG Glass Fiber",
+          "name": "Desert Tan",
           "hex": "E2C077"
         },
         {
-          "name": "Olive Green NylonG Glass Fiber",
+          "name": "Olive Green",
           "hex": "748C45"
         },
         {
-          "name": "Red NylonG Glass Fiber",
+          "name": "Red",
           "hex": "E03F26"
         },
         {
-          "name": "Safety Orange NylonG Glass Fiber",
+          "name": "Safety Orange",
           "hex": "F67405"
         },
         {
-          "name": "Silver NylonG Glass Fiber",
+          "name": "Silver",
           "hex": "CACACA"
         },
         {
-          "name": "White NylonG Glass Fiber",
+          "name": "White",
           "hex": "EBE9E4"
         }
       ],
@@ -879,7 +849,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PA6 {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -893,31 +863,31 @@
       ],
       "colors": [
         {
-          "name": "Black Series Nylon",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Blue Series Nylon",
+          "name": "Blue",
           "hex": "2E56F1"
         },
         {
-          "name": "Gray Series Nylon",
+          "name": "Gray",
           "hex": "C5C5BF"
         },
         {
-          "name": "Green Series Nylon",
+          "name": "Green",
           "hex": "7CEF83"
         },
         {
-          "name": "Orange Series Nylon",
+          "name": "Orange",
           "hex": "FF8133"
         },
         {
-          "name": "Red Series Nylon",
+          "name": "Red",
           "hex": "D32E1A"
         },
         {
-          "name": "White Series Nylon",
+          "name": "White",
           "hex": "FFFFFF"
         }
       ],
@@ -932,7 +902,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1047,7 +1017,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1087,7 +1057,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1357,7 +1327,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1495,7 +1465,7 @@
       ]
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1524,7 +1494,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1553,7 +1523,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1582,7 +1552,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1611,7 +1581,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1640,7 +1610,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1669,7 +1639,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

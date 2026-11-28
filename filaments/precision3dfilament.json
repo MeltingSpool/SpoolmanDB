@@ -2,7 +2,7 @@
   "manufacturer": "Precision 3D Filament",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "OVV3D",
   "filaments": [
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -358,7 +358,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Tri {color_name}",
+      "name": "Tri {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -396,7 +396,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Rainbow {color_name}",
+      "name": "Rainbow {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -437,7 +437,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Translucent PLA {color_name}",
+      "name": "Translucent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -474,7 +474,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -591,7 +591,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -645,7 +645,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

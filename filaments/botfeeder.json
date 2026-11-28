@@ -2,7 +2,7 @@
   "manufacturer": "Botfeeder",
   "filaments": [
     {
-      "name": "neo-PLA {color_name}",
+      "name": "Neo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -30,7 +30,7 @@
       "country_of_origin": "CA"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -79,7 +79,7 @@
       "country_of_origin": "CA"
     },
     {
-      "name": "TPE Flexible {color_name}",
+      "name": "{color_name}",
       "material": "TPE",
       "density": 1.24,
       "weights": [

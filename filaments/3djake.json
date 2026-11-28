@@ -21,291 +21,51 @@
         {
           "name": "White",
           "hex": "EEEEED"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "F9BA09"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "EE713A"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "BE3B37"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "8072A1"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Light Blue",
           "hex": "0083B4"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "2F4D86"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "699E4B"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Dark Green",
           "hex": "187359"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Light Grey",
           "hex": "C8CBC8"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "A5A5A4"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Dark Grey",
           "hex": "5D6366"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.1,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 240,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 250,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "414040"
@@ -333,417 +93,74 @@
         {
           "name": "White",
           "hex": "FFFFFF"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "colors": [
+        },
         {
           "name": "Dark Gray",
           "hex": "484848"
-        }
-      ],
-      "country_of_origin": "AT",
-      "bed_temp_range": [
-        60,
-        80
-      ]
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "cecece"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Bronze",
           "hex": "a69059"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "002351"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Sky Blue",
           "hex": "017cff"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "65c525"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Neon Orange",
           "hex": "ff6600"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "d80000"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Neon Yellow",
           "hex": "c4ff03"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Pastell pink",
           "hex": "d89d9d"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Pastel blue",
           "hex": "7ab4f3"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "ffffff"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Red Transparent",
           "hex": "c50000",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Green Transparent",
           "hex": "00b01d",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Blue Transparent",
           "hex": "0039bf",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PETG",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 240,
-      "bed_temp": 90,
-      "colors": [
+        },
         {
           "name": "Yellow Transparent",
           "hex": "deae00",
@@ -772,295 +189,55 @@
         {
           "name": "White",
           "hex": "FFFFFF"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "cecece"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "002351"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Light Blue",
           "hex": "017cff"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "65c525"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Dark Green",
           "hex": "036606"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "d80000"
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "ffffff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Transparent Red",
           "hex": "c50000",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Transparent Green",
           "hex": "00b01d",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Transparent Blue",
           "hex": "0039bf",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "AT"
-    },
-    {
-      "name": "{color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000.0,
-          "spool_weight": 231,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 100,
-      "colors": [
+        },
         {
           "name": "Transparent Yellow",
           "hex": "deae00",
@@ -1260,7 +437,7 @@
       "country_of_origin": "AT"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1369,7 +546,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -1385,32 +562,7 @@
         {
           "name": "Purple",
           "hex": "C63DBA"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        70,
-        90
-      ],
-      "country_of_origin": "CZ"
-    },
-    {
-      "name": "PCTG {color_name}",
-      "material": "PCTG",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "F8CC00"
@@ -1427,7 +579,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Easy Matte PETG {color_name}",
+      "name": "Easy Matte {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1541,7 +693,7 @@
       "finish": "matte"
     },
     {
-      "name": "easy PETG {color_name}",
+      "name": "Easy {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1678,7 +830,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1708,7 +860,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "eco Glow PLA {color_name}",
+      "name": "eco Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1738,7 +890,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "eco Matte PLA {color_name}",
+      "name": "eco Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1768,7 +920,7 @@
       "finish": "matte"
     },
     {
-      "name": "eco PLA {color_name}",
+      "name": "eco {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1944,7 +1096,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "eco Silk PLA {color_name}",
+      "name": "eco Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2013,7 +1165,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "magic PLA {color_name}",
+      "name": "magic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2070,7 +1222,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2184,7 +1336,7 @@
       "finish": "matte"
     },
     {
-      "name": "mystery PLA {color_name}",
+      "name": "mystery {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2233,8 +1385,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "TPU A95 {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {

@@ -2,7 +2,7 @@
   "manufacturer": "Raise3D",
   "filaments": [
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -109,7 +109,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium ABS {color_name}",
+      "name": "Premium {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -163,7 +163,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium ASA {color_name}",
+      "name": "Premium {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -200,7 +200,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -266,7 +266,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium PC {color_name}",
+      "name": "Premium {color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -323,7 +323,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium TPU-95A {color_name}",
+      "name": "Premium {color_name}",
       "material": "TPU-95A",
       "density": 1.2,
       "weights": [
@@ -380,7 +380,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Premium PVA+ {color_name}",
+      "name": "Premium {color_name}",
       "material": "PVA+",
       "density": 1.19,
       "weights": [
@@ -413,7 +413,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Speed PLA {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -472,7 +472,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Speed ABS {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -515,7 +515,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Speed PLA Pro {color_name}",
+      "name": "Hyper Speed Pro {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -582,7 +582,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Core ABS CF15 {color_name}",
+      "name": "Hyper Core {color_name}",
       "material": "ABS-CF15",
       "density": 1.08,
       "weights": [
@@ -656,7 +656,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Core PPA GF25 {color_name}",
+      "name": "Hyper Core {color_name}",
       "material": "PPA-GF25",
       "density": 1.3,
       "weights": [
@@ -694,7 +694,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Speed PET CF {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "PET-CF",
       "density": 1.29,
       "weights": [
@@ -726,7 +726,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Hyper Speed PETG CF {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "PETG-CF",
       "density": 1.35,
       "weights": [
@@ -758,7 +758,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PA12 CF Support {color_name}",
+      "name": "Industrial Support {color_name}",
       "material": "PA12-CF",
       "density": 1.1,
       "weights": [
@@ -790,8 +790,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PA12 CF+ {color_name}",
-      "material": "PA12-CF",
+      "name": "Industrial {color_name}",
+      "material": "PA12-CF+",
       "density": 1.15,
       "weights": [
         {
@@ -828,7 +828,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PPA CF {color_name}",
+      "name": "Industrial {color_name}",
       "material": "PPA-CF",
       "density": 1.25,
       "weights": [
@@ -866,7 +866,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PPA GF {color_name}",
+      "name": "Industrial {color_name}",
       "material": "PPA-GF",
       "density": 1.3,
       "weights": [
@@ -914,7 +914,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PPA Support {color_name}",
+      "name": "Industrial Support {color_name}",
       "material": "PPA",
       "density": 1.2,
       "weights": [
@@ -951,7 +951,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PET CF {color_name}",
+      "name": "Industrial {color_name}",
       "material": "PET-CF",
       "density": 1.29,
       "weights": [
@@ -987,7 +987,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PET GF {color_name}",
+      "name": "Industrial {color_name}",
       "material": "PET-GF",
       "density": 1.35,
       "weights": [
@@ -1010,7 +1010,7 @@
       ],
       "colors": [
         {
-          "name": "PET GF Black",
+          "name": "Black",
           "hex": "808080",
           "codes": [
             "[S]5.11.19142A01",
@@ -1022,7 +1022,7 @@
           ]
         },
         {
-          "name": "PET GF Grey",
+          "name": "Grey",
           "hex": "808080",
           "codes": [
             "[S]5.11.19140A01",
@@ -1034,7 +1034,7 @@
           ]
         },
         {
-          "name": "PET GF Orange",
+          "name": "Orange",
           "hex": "808080",
           "codes": [
             "[S]5.11.19141A01",
@@ -1046,7 +1046,7 @@
           ]
         },
         {
-          "name": "PET GF Red",
+          "name": "Red",
           "hex": "808080",
           "codes": [
             "[S]5.11.19139A01",
@@ -1063,7 +1063,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PET Support {color_name}",
+      "name": "Industrial Support {color_name}",
       "material": "PET",
       "density": 1.27,
       "weights": [
@@ -1100,7 +1100,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PETG ESD {color_name}",
+      "name": "Industrial ESD {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1137,7 +1137,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Industrial PPS CF {color_name}",
+      "name": "Industrial {color_name}",
       "material": "PPS-CF",
       "density": 1.35,
       "weights": [

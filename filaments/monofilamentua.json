@@ -2,7 +2,7 @@
   "manufacturer": "Monofilament (UA)",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -35,8 +35,8 @@
       "country_of_origin": "UA"
     },
     {
-      "name": "ABS+PLUS Pro {color_name}",
-      "material": "ABS+PLUS",
+      "name": "ABS+ Pro {color_name}",
+      "material": "ABS+",
       "density": 1.24,
       "weights": [
         {
@@ -140,7 +140,7 @@
       "country_of_origin": "UA"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -181,7 +181,7 @@
       "country_of_origin": "UA"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -214,7 +214,7 @@
       "country_of_origin": "UA"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

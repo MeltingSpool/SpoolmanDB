@@ -2,7 +2,7 @@
   "manufacturer": "Atomic Filament",
   "filaments": [
     {
-      "name": "Atomic PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Atomic PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -195,8 +195,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS CF {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS-CF",
       "density": 1.04,
       "weights": [
         {
@@ -225,7 +225,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -287,8 +287,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ASA CF {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.07,
       "weights": [
         {
@@ -317,8 +317,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "Extreme {color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -331,23 +331,23 @@
       ],
       "colors": [
         {
-          "name": "Dark Blue CARBON FIBER Extreme",
+          "name": "Dark Blue",
           "hex": "3B3F6B"
         },
         {
-          "name": "Dark Cherry CARBON FIBER Extreme",
+          "name": "Dark Cherry",
           "hex": "520B0F"
         },
         {
-          "name": "Extreme Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Smoke Blue CARBON FIBER Extreme",
+          "name": "Smoke Blue",
           "hex": "4D6383"
         },
         {
-          "name": "Stone Gray CARBON FIBER Extreme",
+          "name": "Stone Gray",
           "hex": "9FA4A8"
         }
       ],
@@ -363,7 +363,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -663,8 +663,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.24,
       "weights": [
         {
@@ -693,7 +693,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1057,7 +1057,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

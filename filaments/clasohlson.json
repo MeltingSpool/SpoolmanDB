@@ -2,7 +2,7 @@
   "manufacturer": "Clas Ohlson",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.08,
       "weights": [
@@ -35,7 +35,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -143,7 +143,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "Multicolor Multicolor {color_name}",
+      "name": "Multicolor {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -176,7 +176,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -205,7 +205,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -266,7 +266,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -300,7 +300,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -333,7 +333,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -378,7 +378,7 @@
       "country_of_origin": "SE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "BVOH {color_name}",
+      "name": "{color_name}",
       "material": "BVOH",
       "density": 1.14,
       "weights": [
@@ -133,8 +133,8 @@
       ]
     },
     {
-      "name": "PA6/66 {color_name}",
-      "material": "PA",
+      "name": "{color_name}",
+      "material": "PA6",
       "density": 1.12,
       "weights": [
         {
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.08,
       "weights": [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.08,
       "weights": [
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "name": "PA12 CF {color_name}",
+      "name": "{color_name}",
       "material": "PA12-CF",
       "density": 1.07,
       "fill": "carbon fiber",
@@ -249,12 +249,15 @@
       ]
     },
     {
-      "name": "TPU 98A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-98A",
       "density": 1.18,
       "weights": [
         {
           "weight": 4500
+        },
+        {
+          "weight": 8000
         }
       ],
       "diameters": [
@@ -281,8 +284,8 @@
       ]
     },
     {
-      "name": "TPU 98A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-98A",
       "density": 1.18,
       "weights": [
         {
@@ -301,15 +304,6 @@
         60
       ],
       "colors": [
-        {
-          "name": "Black",
-          "hex": "1B1B1B"
-        },
-        {
-          "name": "Clear",
-          "hex": "FFFFFF",
-          "translucent": true
-        },
         {
           "name": "Red",
           "hex": "B82E33"

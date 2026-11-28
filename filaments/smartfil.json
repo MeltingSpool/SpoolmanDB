@@ -2,7 +2,7 @@
   "manufacturer": "Smartfil",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -31,7 +31,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.24,
       "weights": [
@@ -60,7 +60,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Flexible {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.24,
       "weights": [
@@ -200,7 +200,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -233,7 +233,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

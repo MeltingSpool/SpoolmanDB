@@ -209,7 +209,7 @@
       ]
     },
     {
-      "name": "Precise PLA {color_name}",
+      "name": "Precise {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "name": "Nylon {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "name": "Nylon White FS {color_name}",
+      "name": "FS {color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [

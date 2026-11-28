@@ -2,7 +2,7 @@
   "manufacturer": "COEX",
   "filaments": [
     {
-      "name": "COEX PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "COEX PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "COEX ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "name": "COEX ASA Prime {color_name}",
+      "name": "Prime {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "COEX ASA Prime {color_name}",
+      "name": "Prime {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "name": "CoexNylex Unfilled Nylon {color_name}",
+      "name": "Nylex Unfilled {color_name}",
       "material": "PA",
       "density": 1.09,
       "weights": [
@@ -312,7 +312,8 @@
         }
       ],
       "diameters": [
-        1.75
+        1.75,
+        2.85
       ],
       "extruder_temp_range": [
         245,
@@ -334,37 +335,6 @@
         {
           "name": "White",
           "hex": "f5f5f5"
-        }
-      ]
-    },
-    {
-      "name": "CoexNylex Unfilled Nylon {color_name}",
-      "material": "PA",
-      "density": 1.09,
-      "weights": [
-        {
-          "weight": 1000
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        245,
-        295
-      ],
-      "bed_temp_range": [
-        80,
-        110
-      ],
-      "colors": [
-        {
-          "name": "Natural",
-          "hex": "e8e0d0"
-        },
-        {
-          "name": "Black",
-          "hex": "1a1a1a"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "manufacturer": "yxpolyer",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -31,8 +31,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS+PLUS {color_name}",
-      "material": "ABS+PLUS",
+      "name": "{color_name}",
+      "material": "ABS+",
       "density": 1.24,
       "weights": [
         {
@@ -64,7 +64,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PA-CF",
       "density": 1.14,
       "weights": [
@@ -94,7 +94,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PC-CF",
       "density": 1.16,
       "weights": [
@@ -227,7 +227,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PA {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.24,
       "weights": [
@@ -256,7 +256,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PA6 {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.13,
       "weights": [
@@ -293,7 +293,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -334,7 +334,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [

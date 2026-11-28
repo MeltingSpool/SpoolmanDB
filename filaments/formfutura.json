@@ -502,7 +502,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256629?download=true"
     },
     {
-      "name": "ABSpro {color_name}",
+      "name": "Pro {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -549,7 +549,7 @@
       "sds_url": "https://www.formfutura.com/web/content/254658?download=true"
     },
     {
-      "name": "EasyFil ABS {color_name}",
+      "name": "EasyFil {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -640,7 +640,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256507?download=true"
     },
     {
-      "name": "ABSpro Flame Retardant {color_name}",
+      "name": "Pro Flame Retardant {color_name}",
       "material": "ABS",
       "density": 1.17,
       "weights": [
@@ -689,77 +689,6 @@
       "country_of_origin": "NL",
       "tds_url": "https://www.formfutura.com/web/content/254655?download=true",
       "sds_url": "https://www.formfutura.com/web/content/254656?download=true"
-    },
-    {
-      "name": "EasyFil ABS - Glow in the Dark {color_name}",
-      "material": "ABS",
-      "density": 1.05,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_type": "cardboard",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "EasyFil ABS - Glow in the Dark",
-          "hex": "A8C9A6",
-          "glow": true,
-          "codes": [
-            "EABG-175GREN-00750"
-          ],
-          "eans": [
-            "8718924471326"
-          ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        255
-      ],
-      "bed_temp_range": [
-        100,
-        110
-      ],
-      "country_of_origin": "NL",
-      "tds_url": "https://www.formfutura.com/web/content/256509?download=true",
-      "sds_url": "https://www.formfutura.com/web/content/256510?download=true"
-    },
-    {
-      "name": "Premium ABS Medical {color_name}",
-      "material": "ABS",
-      "density": 1.06,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 185
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Premium ABS Medical",
-          "hex": "E5DCA4"
-        }
-      ],
-      "extruder_temp_range": [
-        235,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "NL",
-      "tds_url": "https://www.formfutura.com/web/content/306558?download=true",
-      "sds_url": "https://www.formfutura.com/web/content/306588?download=true"
     },
     {
       "name": "ReForm - rTitan {color_name}",
@@ -1258,7 +1187,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "BVOH {color_name}",
+      "name": "{color_name}",
       "material": "BVOH",
       "density": 1.14,
       "weights": [
@@ -1369,8 +1298,8 @@
       "sds_url": "https://www.formfutura.com/web/content/256511?download=true"
     },
     {
-      "name": "PA6 CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.14,
       "weights": [
         {
@@ -2649,7 +2578,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256629?download=true"
     },
     {
-      "name": "Bulk PETG {color_name}",
+      "name": "Bulk {color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -2776,7 +2705,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG CarbonFil {color_name}",
+      "name": "CarbonFil {color_name}",
       "material": "PETG",
       "density": 1.32,
       "weights": [
@@ -2962,7 +2891,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256516?download=true"
     },
     {
-      "name": "PETG Hdglass {color_name}",
+      "name": "Hdglass {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3167,7 +3096,7 @@
       "sds_url": "https://www.formfutura.com/web/content/263073?download=true"
     },
     {
-      "name": "ReFill PETG {color_name}",
+      "name": "ReFill {color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -3249,7 +3178,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256623?download=true"
     },
     {
-      "name": "Bulk PLA {color_name}",
+      "name": "Bulk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3506,7 +3435,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256522?download=true"
     },
     {
-      "name": "Galaxy PLA {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3850,7 +3779,7 @@
       "tds_url": "https://www.formfutura.com/web/content/256572?download=true"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3939,7 +3868,7 @@
       "finish": "matte"
     },
     {
-      "name": "MetalFil PLA {color_name}",
+      "name": "MetalFil {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3989,7 +3918,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4055,7 +3984,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4196,7 +4125,7 @@
       "sds_url": "https://www.formfutura.com/web/content/256631?download=true"
     },
     {
-      "name": "StoneFil PLA {color_name}",
+      "name": "StoneFil {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4381,7 +4310,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PPSU {color_name}",
+      "name": "{color_name}",
       "material": "PPSU",
       "density": 1.24,
       "weights": [
@@ -4412,7 +4341,7 @@
       "tds_url": "https://www.formfutura.com/web/content/256605?download=true"
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.23,
       "weights": [

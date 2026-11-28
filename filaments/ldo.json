@@ -124,7 +124,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.06,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "TEQStone",
   "filaments": [
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -387,7 +387,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -422,7 +422,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA-CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -454,7 +454,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -524,7 +524,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Metallic PETG {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -567,7 +567,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -605,7 +605,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -651,7 +651,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU 95A {color_name}",
+      "name": "{color_name}",
       "material": "TPU-95A",
       "density": 1.21,
       "weights": [
@@ -700,7 +700,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -731,7 +731,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -761,7 +761,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -831,8 +831,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.3,
       "weights": [
         {
@@ -862,7 +862,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -879,153 +879,11 @@
         {
           "name": "Bronze",
           "hex": "CD7F32"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp_range": [
-        0,
-        60
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 190
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Dual Gold Silver",
-          "hex": "FFD700"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp_range": [
-        0,
-        60
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 190
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Rainbow",
-          "hex": "FF0000"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp_range": [
-        0,
-        60
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 190
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Royal Blue",
           "hex": "002AFF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp_range": [
-        0,
-        60
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 190
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Tri Red Blue Green",
-          "hex": "CC0000"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp_range": [
-        0,
-        60
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 190
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "F5F7F9"
@@ -1042,8 +900,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU 95A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {

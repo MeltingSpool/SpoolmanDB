@@ -2,7 +2,7 @@
   "manufacturer": "STEM Miền Trung",
   "filaments": [
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "PETG Transparent {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "PETG Recycled {color_name}",
+      "name": "Recycled {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -89,13 +89,13 @@
       "tds_url": "https://shopee.vn/S%C6%A1%CC%A3i-nh%C6%B0%CC%A3a-in-3D-%28PETG%29-L%C3%B5i-Nh%E1%BB%B1a-T%C3%A1i-Ch%E1%BA%BF-STEM-Mi%E1%BB%81n-Trung-CH%C3%8DNH-H%C3%83NG--i.1849691337.57911742380",
       "colors": [
         {
-          "name": "Recycled Grey",
+          "name": "Grey",
           "hex": "808080"
         }
       ]
     },
     {
-      "name": "PA6-GF25 {color_name}",
+      "name": "{color_name}",
       "material": "PA6-GF25",
       "density": 1.27,
       "weights": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

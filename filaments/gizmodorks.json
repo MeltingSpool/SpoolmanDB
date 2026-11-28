@@ -2,7 +2,7 @@
   "manufacturer": "Gizmo Dorks",
   "filaments": [
     {
-      "name": "Gizmo Dorks PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -25,30 +25,7 @@
           "name": "Blue (Translucent)",
           "hex": "3399ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Blue to White (Heat Activated)",
           "hexes": [
@@ -56,30 +33,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Green to Yellow (Heat Activated)",
           "hexes": [
@@ -87,30 +41,7 @@
             "ffd700"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Grey to White (Heat Activated)",
           "hexes": [
@@ -118,30 +49,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Purple to Pink (Heat Activated)",
           "hexes": [
@@ -149,30 +57,7 @@
             "ffc0cb"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Gradient Rainbow",
           "hexes": [
@@ -184,57 +69,11 @@
             "8b00ff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Dark Purple",
           "hex": "4b0082"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Light Yellow (Translucent)",
           "hex": "ffffaa",
@@ -244,7 +83,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Gizmo Dorks PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -266,193 +105,32 @@
         {
           "name": "Beige",
           "hex": "f5f5dc"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0066cc"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Blue (Translucent)",
           "hex": "3399ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "00008b"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Brown",
           "hex": "8b4513"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Dark Brown",
           "hex": "654321"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Blue to White (Heat Activated)",
           "hexes": [
@@ -460,30 +138,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Green to Yellow (Heat Activated)",
           "hexes": [
@@ -491,30 +146,7 @@
             "ffd700"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Grey to White (Heat Activated)",
           "hexes": [
@@ -522,30 +154,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Color Change Purple to Pink (Heat Activated)",
           "hexes": [
@@ -553,220 +162,36 @@
             "ffc0cb"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Fluorescent Blue (Black Light Reactive)",
           "hex": "00bfff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Fluorescent Green (Black Light Reactive)",
           "hex": "39ff14"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Fluorescent Orange (Black Light Reactive)",
           "hex": "ff6600"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Fluorescent Red (Black Light Reactive)",
           "hex": "ff0040"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Fluorescent Yellow (Black Light Reactive)",
           "hex": "ccff00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Glow in the Dark",
           "hex": "c8e6c9",
           "glow": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "d4af37"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Gradient Rainbow",
           "hexes": [
@@ -778,604 +203,98 @@
             "8b00ff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Grass Green",
           "hex": "7cba3c"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "228b22"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Green (Translucent)",
           "hex": "66cc66",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Grey",
           "hex": "808080"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "ff8c00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Orange (Translucent)",
           "hex": "ffaa55",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "ff69b4"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Pink (Translucent)",
           "hex": "ff99cc",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Pink Rose",
           "hex": "e75480"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "800080"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Purple (Translucent)",
           "hex": "bb66bb",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Dark Purple",
           "hex": "4b0082"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "cc0000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Red (Translucent)",
           "hex": "ff4444",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Red Lava",
           "hex": "b22222"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "f0f8ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Violet",
           "hex": "8f00ff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "ffffff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Light Yellow",
           "hex": "fffacd"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Light Yellow (Translucent)",
           "hex": "ffffaa",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "bed_temp": 60,
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "ffd700"
@@ -1384,7 +303,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Gizmo Dorks PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1406,142 +325,27 @@
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp": 80,
-      "colors": [
+        },
         {
           "name": "Translucent Blue",
           "hex": "3399ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp": 80,
-      "colors": [
+        },
         {
           "name": "Translucent Green",
           "hex": "66cc66",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp": 80,
-      "colors": [
+        },
         {
           "name": "Translucent Red",
           "hex": "ff4444",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp": 80,
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "f0f8ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp": 80,
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "ffffff"
@@ -1550,7 +354,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Gizmo Dorks ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1576,30 +380,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Green to Yellow (Heat Activated)",
           "hexes": [
@@ -1607,30 +388,7 @@
             "ffd700"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Grey to White (Heat Activated)",
           "hexes": [
@@ -1638,30 +396,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Purple to Pink (Heat Activated)",
           "hexes": [
@@ -1669,84 +404,15 @@
             "ffc0cb"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Blue (Black Light Reactive)",
           "hex": "00bfff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Hot Pink (Black Light Reactive)",
           "hex": "ff69b4"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Light Yellow",
           "hex": "fffacd"
@@ -1755,7 +421,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Gizmo Dorks ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1777,111 +443,19 @@
         {
           "name": "Beige",
           "hex": "f5f5dc"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0066cc"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Brown",
           "hex": "8b4513"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Blue to White (Heat Activated)",
           "hexes": [
@@ -1889,30 +463,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Green to Yellow (Heat Activated)",
           "hexes": [
@@ -1920,30 +471,7 @@
             "ffd700"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Grey to White (Heat Activated)",
           "hexes": [
@@ -1951,30 +479,7 @@
             "ffffff"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Color Change Purple to Pink (Heat Activated)",
           "hexes": [
@@ -1982,680 +487,105 @@
             "ffc0cb"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Conductive Black",
           "hex": "1a1a1a"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "00008b"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Dark Purple",
           "hex": "4b0082"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Blue (Black Light Reactive)",
           "hex": "00bfff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Green (Black Light Reactive)",
           "hex": "39ff14"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Hot Pink (Black Light Reactive)",
           "hex": "ff69b4"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Orange (Black Light Reactive)",
           "hex": "ff6600"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Fluorescent Yellow (Black Light Reactive)",
           "hex": "ccff00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Glow in the Dark",
           "hex": "c8e6c9",
           "glow": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "d4af37"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "228b22"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Grey",
           "hex": "808080"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Grass Green",
           "hex": "7cba3c"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "ff8c00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "ff69b4"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Pink Rose",
           "hex": "e75480"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "800080"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "cc0000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Red Lava",
           "hex": "b22222"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "f0f8ff",
           "translucent": true
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Violet",
           "hex": "8f00ff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "ffffff"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "ffd700"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "Gizmo Dorks ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        2.85
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Light Yellow",
           "hex": "fffacd"
@@ -2664,7 +594,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2681,571 +611,88 @@
         {
           "name": "Beige",
           "hex": "E2C077"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "2E56F1"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Brown",
           "hex": "A45B27"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Conductive Black",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "003287"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Dark Purple",
           "hex": "663D7E"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "E3B145"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Grass Green",
           "hex": "26A648"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "83E665"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Grey",
           "hex": "55555E"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "FD9106"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "E23288"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink Rose",
           "hex": "C90D6E"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "963877"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "E03F26"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red Lava",
           "hex": "DF3303"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "949A9E"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "E4E7E5",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Violet",
           "hex": "D6ABFF"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "EFE8D8"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 110
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFD342"
@@ -3259,38 +706,7 @@
       "bed_temp": 110
     },
     {
-      "name": "ABS CF {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Filament",
-          "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "US",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "Color Change ABS {color_name}",
+      "name": "Color Change {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3332,7 +748,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Fluorescent ABS {color_name}",
+      "name": "Fluorescent {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3374,7 +790,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glow ABS {color_name}",
+      "name": "Glow {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3410,7 +826,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Low Odor ABS {color_name}",
+      "name": "Low Odor {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3472,7 +888,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Thermochromic ABS {color_name}",
+      "name": "Thermochromic {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -3514,7 +930,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glow HIPS {color_name}",
+      "name": "Glow {color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -3545,7 +961,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -3615,7 +1031,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -3655,7 +1071,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3672,142 +1088,27 @@
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 80
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Translucent Blue",
           "hex": "2E56F1",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 80
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Translucent Green",
           "hex": "58C91B",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 80
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Translucent Red",
           "hex": "E20010",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 80
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "E4E7E5",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 80
-    },
-    {
-      "name": "PETG {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF"
@@ -3821,7 +1122,7 @@
       "bed_temp": 80
     },
     {
-      "name": "Color Change PLA {color_name}",
+      "name": "Color Change {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3863,7 +1164,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Fluorescent PLA {color_name}",
+      "name": "Fluorescent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3909,7 +1210,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glitter Sparkle PLA {color_name}",
+      "name": "Glitter Sparkle {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3959,7 +1260,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3990,7 +1291,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4007,921 +1308,142 @@
         {
           "name": "Beige",
           "hex": "E2C077"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "2E56F1"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue (Transparent)",
           "hex": "2E56F1",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Brown",
           "hex": "A6662E"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Dark Blue",
           "hex": "2C3294"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Dark Brown",
           "hex": "503529"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Default",
           "hex": "FFFFFF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "E3B145"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Grass Green",
           "hex": "26A648"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "58C91B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green (Translucent)",
           "hex": "58C91B",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Grey",
           "hex": "6A6C6E"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Yellow",
           "hex": "E4FF33"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Metal Filled Bronze",
           "hex": "A98C4B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "FD9106"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange (Translucent)",
           "hex": "F67405"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "FFC8C9"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink Rose",
           "hex": "C90D6E"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pink (Translucent)",
           "hex": "FF72B6",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Plus Engineering Grade",
           "hex": "F1E6B2"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Plus Filament Engineering Grade",
           "hex": "EFE8D8"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "963877"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Purple (Translucent)",
           "hex": "C80181",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "E20010"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red Lava",
           "hex": "DF3303"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red (Translucent)",
           "hex": "C01616",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "818184"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Transparent",
           "hex": "E4E7E5",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Violet",
           "hex": "D6ABFF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "EFE8D8"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        225
-      ],
-      "country_of_origin": "US",
-      "bed_temp": 60
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Wood Filament",
           "hex": "CAAC78"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Wood Filled",
-          "hex": "CAAC78"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+          "hex": "CAAC78",
+          "fill": "wood"
+        },
         {
           "name": "Yellow",
           "hex": "FBE200"
@@ -4935,7 +1457,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4981,7 +1503,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Thermochromic PLA {color_name}",
+      "name": "Thermochromic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5023,7 +1545,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Acetal POM {color_name}",
+      "name": "{color_name}",
       "material": "POM",
       "density": 1.24,
       "weights": [
@@ -5051,7 +1573,7 @@
       "bed_temp": 110
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.23,
       "weights": [
@@ -5081,7 +1603,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

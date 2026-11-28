@@ -2,7 +2,7 @@
   "manufacturer": "3DFOX",
   "filaments": [
     {
-      "name": "PLA REFILL {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -338,7 +338,7 @@
       "tds_url": "https://www.3dfoxshop.cz/user/related_files/technicky_list_pla_3dfox-8.pdf"
     },
     {
-      "name": "PLA REFILL {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -384,7 +384,7 @@
       "tds_url": "https://www.3dfoxshop.cz/user/related_files/technicky_list_pla_3dfox-8.pdf"
     },
     {
-      "name": "PETG REFILL {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -610,7 +610,7 @@
       "tds_url": "https://www.3dfoxshop.cz/user/related_files/technicky_list_petg_3dfox-5.pdf"
     },
     {
-      "name": "PETG REFILL {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -656,7 +656,7 @@
       "tds_url": "https://www.3dfoxshop.cz/user/related_files/technicky_list_petg_3dfox-5.pdf"
     },
     {
-      "name": "ABS REFILL {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -692,7 +692,7 @@
       "tds_url": "https://www.3dfoxshop.cz/user/related_files/technick___list_abs_fox_refill.pdf"
     },
     {
-      "name": "ASA REFILL {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [

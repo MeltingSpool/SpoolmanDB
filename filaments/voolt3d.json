@@ -42,7 +42,7 @@
       "country_of_origin": "BR"
     },
     {
-      "name": "PLA {color_name} High Speed Premium",
+      "name": "High Speed Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": "PLA {color_name} V-Silk High Speed Premium",
+      "name": "V-Silk High Speed Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "name": "PLA {color_name} Velvet High Speed Premium",
+      "name": "Velvet High Speed Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "name": "PETG HF {color_name} High Fluidity Premium",
+      "name": "HF Premium {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [

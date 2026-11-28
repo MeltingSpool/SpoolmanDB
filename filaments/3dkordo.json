@@ -2,7 +2,7 @@
   "manufacturer": "3DKordo",
   "filaments": [
     {
-      "name": "Cf {color_name}",
+      "Name": "{color_name}",
       "material": "PA12-CF",
       "density": 1.08,
       "weights": [
@@ -24,7 +24,7 @@
       ],
       "colors": [
         {
-          "name": "black",
+          "Name": "Black",
           "hex": "000000"
         }
       ],
@@ -32,7 +32,7 @@
       "country_of_origin": "UA"
     },
     {
-      "name": "Everfil {color_name}",
+      "Name": "Everfil {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -54,142 +54,142 @@
       ],
       "colors": [
         {
-          "name": "Aluminium",
+          "Name": "Aluminium",
           "hex": "a5a5a5"
         },
         {
-          "name": "azure blue silver",
+          "Name": "Azure Blue Silver",
           "hex": "4b9cd3"
         },
         {
-          "name": "Black",
+          "Name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Blue Pantone 3005c",
+          "Name": "Blue Pantone 3005C",
           "hex": "002e7a"
         },
         {
-          "name": "brown beige",
+          "Name": "Brown Beige",
           "hex": "af804f"
         },
         {
-          "name": "brown Pantone 478c",
+          "Name": "Brown Pantone 478C",
           "hex": "583400"
         },
         {
-          "name": "Carmine Red",
+          "Name": "Carmine Red",
           "hex": "831100"
         },
         {
-          "name": "copper metallic",
+          "Name": "Copper Metallic",
           "hex": "b87333"
         },
         {
-          "name": "dark green",
+          "Name": "Dark Green",
           "hex": "004d00"
         },
         {
-          "name": "dark green brocade",
+          "Name": "Dark Green Brocade",
           "hex": "2c4f32"
         },
         {
-          "name": "Dark grey",
+          "Name": "Dark Grey",
           "hex": "444444"
         },
         {
-          "name": "glitter black",
+          "Name": "Glitter Black",
           "hex": "000000"
         },
         {
-          "name": "golden yellow",
+          "Name": "Golden Yellow",
           "hex": "ffd700"
         },
         {
-          "name": "gray ral 7005",
+          "Name": "Gray Ral 7005",
           "hex": "606060"
         },
         {
-          "name": "green",
+          "Name": "Green",
           "hex": "00a859"
         },
         {
-          "name": "iron grey",
+          "Name": "Iron Grey",
           "hex": "464a4d"
         },
         {
-          "name": "light blue",
+          "Name": "Light Blue",
           "hex": "0061ff"
         },
         {
-          "name": "lime green (roybi)",
+          "Name": "Lime Green (Roybi)",
           "hex": "e4ef65"
         },
         {
-          "name": "Mint Green Ral 6029",
+          "Name": "Mint Green Ral 6029",
           "hex": "20603d"
         },
         {
-          "name": "olive",
+          "Name": "Olive",
           "hex": "263e0f"
         },
         {
-          "name": "orange",
+          "Name": "Orange",
           "hex": "f05a28"
         },
         {
-          "name": "Orange Ral 2009",
+          "Name": "Orange Ral 2009",
           "hex": "f54021"
         },
         {
-          "name": "perl blue",
+          "Name": "Perl Blue",
           "hex": "7293b5"
         },
         {
-          "name": "Perl Light Green",
+          "Name": "Perl Light Green",
           "hex": "669c35"
         },
         {
-          "name": "pink",
+          "Name": "Pink",
           "hex": "ff3eb5"
         },
         {
-          "name": "reafific red ral3020",
+          "Name": "Reafific Red Ral3020",
           "hex": "b51a00"
         },
         {
-          "name": "Signal Yellow",
+          "Name": "Signal Yellow",
           "hex": "f4a900"
         },
         {
-          "name": "Silk venetain rose",
+          "Name": "Silk Venetain Rose",
           "hex": "7b219f"
         },
         {
-          "name": "trafik red",
+          "Name": "Trafik Red",
           "hex": "e32400"
         },
         {
-          "name": "Transparent Glitter Red",
+          "Name": "Transparent Glitter Red",
           "hex": "e32400"
         },
         {
-          "name": "violet",
+          "Name": "Violet",
           "hex": "6638b6"
         },
         {
-          "name": "White",
+          "Name": "White",
           "hex": "ffffff"
         },
         {
-          "name": "Yellow Ral 1003",
+          "Name": "Yellow Ral 1003",
           "hex": "e5be01"
         }
       ],
       "country_of_origin": "UA"
     },
     {
-      "name": "Everfil {color_name}",
+      "Name": "Everfil {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -211,22 +211,22 @@
       ],
       "colors": [
         {
-          "name": "Black",
+          "Name": "Black",
           "hex": "27292b"
         },
         {
-          "name": "Green",
+          "Name": "Green",
           "hex": "368e55"
         },
         {
-          "name": "silver",
+          "Name": "Silver",
           "hex": "878892"
         }
       ],
       "country_of_origin": "UA"
     },
     {
-      "name": "Everfil {color_name}",
+      "Name": "Everfil {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -248,18 +248,18 @@
       ],
       "colors": [
         {
-          "name": "Black",
+          "Name": "Black",
           "hex": "000000"
         },
         {
-          "name": "white",
+          "Name": "White",
           "hex": "ffffff"
         }
       ],
       "country_of_origin": "UA"
     },
     {
-      "name": "Everfil {color_name}",
+      "Name": "Everfil {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -281,50 +281,50 @@
       ],
       "colors": [
         {
-          "name": "black Matt",
+          "Name": "Black Matte",
           "hex": "0a0a0a"
         },
         {
-          "name": "burgundy",
+          "Name": "Burgundy",
           "hex": "a52a2a"
         },
         {
-          "name": "Natural",
+          "Name": "Natural",
           "hex": "ffffff"
         },
         {
-          "name": "Silver",
+          "Name": "Silver",
           "hex": "a5a5a5"
         },
         {
-          "name": "Traffic Red",
+          "Name": "Traffic Red",
           "hex": "b51a00"
         },
         {
-          "name": "Transparent Blue",
+          "Name": "Transparent Blue",
           "hex": "002e7a"
         },
         {
-          "name": "Transparent Red",
+          "Name": "Transparent Red",
           "hex": "b3002d"
         },
         {
-          "name": "violet transparant",
+          "Name": "Violet Transparant",
           "hex": "61177c"
         },
         {
-          "name": "water blue Matt",
+          "Name": "Water Blue Matt",
           "hex": "007577"
         },
         {
-          "name": "White",
+          "Name": "White",
           "hex": "ffffff"
         }
       ],
       "country_of_origin": "UA"
     },
     {
-      "name": "Everfil {color_name}",
+      "Name": "Everfil {color_name}",
       "material": "PCTG",
       "density": 1.26,
       "weights": [
@@ -346,7 +346,7 @@
       ],
       "colors": [
         {
-          "name": "white",
+          "Name": "White",
           "hex": "ffffff"
         }
       ],

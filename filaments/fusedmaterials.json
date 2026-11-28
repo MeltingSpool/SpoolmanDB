@@ -2,7 +2,7 @@
   "manufacturer": "Fused Materials",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -39,7 +39,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -84,7 +84,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Fireproof ABS {color_name}",
+      "name": "Fireproof {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -113,7 +113,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.23,
       "weights": [
@@ -144,7 +144,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.02,
       "weights": [

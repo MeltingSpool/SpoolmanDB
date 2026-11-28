@@ -2,7 +2,7 @@
   "manufacturer": "Matter3D",
   "filaments": [
     {
-      "name": "ASA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "ASA",
       "density": 1.24,
       "weights": [
@@ -83,8 +83,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Hf {color_name}",
-      "material": "PETG+PLUS",
+      "name": "HF {color_name}",
+      "material": "PETG+",
       "density": 1.24,
       "weights": [
         {
@@ -221,7 +221,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -251,7 +251,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -304,7 +304,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -333,7 +333,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -375,7 +375,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

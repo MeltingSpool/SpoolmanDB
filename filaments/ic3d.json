@@ -2,7 +2,7 @@
   "manufacturer": "IC3D",
   "filaments": [
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -32,7 +32,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -62,7 +62,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -92,7 +92,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -122,7 +122,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -152,7 +152,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -182,7 +182,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -212,7 +212,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -242,7 +242,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -272,7 +272,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -302,7 +302,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -332,7 +332,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -362,7 +362,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -392,7 +392,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -422,7 +422,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -452,7 +452,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -482,7 +482,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -512,7 +512,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -542,7 +542,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -572,7 +572,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -602,7 +602,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -632,7 +632,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -662,7 +662,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -692,7 +692,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -722,7 +722,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -752,7 +752,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -782,7 +782,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -812,7 +812,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -842,7 +842,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -872,7 +872,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -902,7 +902,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -932,7 +932,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -962,7 +962,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -992,7 +992,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1022,7 +1022,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1052,7 +1052,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1082,7 +1082,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1112,7 +1112,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1142,7 +1142,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1172,7 +1172,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1202,7 +1202,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1232,7 +1232,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1262,7 +1262,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1292,7 +1292,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1322,7 +1322,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1352,7 +1352,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1382,7 +1382,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1412,7 +1412,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1442,7 +1442,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1472,7 +1472,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1502,7 +1502,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1532,7 +1532,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1562,7 +1562,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1592,7 +1592,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1622,7 +1622,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1652,7 +1652,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1682,7 +1682,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1712,7 +1712,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1742,7 +1742,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1772,7 +1772,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1802,7 +1802,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1832,7 +1832,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1862,7 +1862,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1892,7 +1892,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1922,7 +1922,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1952,7 +1952,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1982,7 +1982,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2012,7 +2012,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2042,7 +2042,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2072,7 +2072,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2102,7 +2102,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2132,7 +2132,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2162,7 +2162,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2192,7 +2192,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2222,7 +2222,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2252,7 +2252,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2282,7 +2282,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2312,7 +2312,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2342,7 +2342,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2372,7 +2372,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2402,7 +2402,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2432,7 +2432,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2462,7 +2462,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2492,7 +2492,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2522,7 +2522,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2552,7 +2552,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2582,7 +2582,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2612,7 +2612,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2642,7 +2642,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2672,7 +2672,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2702,7 +2702,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2732,7 +2732,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2762,7 +2762,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2792,7 +2792,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "IC3D ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2822,7 +2822,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2848,7 +2848,7 @@
       "bed_temp": 110
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2874,7 +2874,7 @@
       "bed_temp": 110
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2900,7 +2900,7 @@
       "bed_temp": 110
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2929,7 +2929,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2955,7 +2955,7 @@
       "bed_temp": 110
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2984,8 +2984,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -3014,7 +3014,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3040,7 +3040,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3066,7 +3066,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3095,7 +3095,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3121,7 +3121,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3150,7 +3150,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3179,7 +3179,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3208,7 +3208,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3238,7 +3238,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3267,7 +3267,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3297,7 +3297,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3327,7 +3327,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3357,7 +3357,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3387,7 +3387,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3417,7 +3417,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3446,7 +3446,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3472,7 +3472,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3501,7 +3501,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3530,7 +3530,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3559,7 +3559,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3588,7 +3588,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3614,7 +3614,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -3689,7 +3689,7 @@
       "finish": "matte"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3719,7 +3719,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3745,7 +3745,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3771,7 +3771,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3797,7 +3797,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3826,7 +3826,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3855,7 +3855,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3884,7 +3884,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3913,7 +3913,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3942,7 +3942,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3971,7 +3971,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4000,7 +4000,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4029,7 +4029,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4055,7 +4055,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4081,7 +4081,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

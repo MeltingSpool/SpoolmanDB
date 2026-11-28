@@ -2,7 +2,7 @@
   "manufacturer": "XZN",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Silk Rainbow PLA {color_name}",
+      "name": "Silk Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "name": "Gradient PLA {color_name}",
+      "name": "Gradient {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -389,7 +389,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -422,8 +422,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.3,
       "weights": [
         {
@@ -464,7 +464,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Transparent PLA {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -499,8 +499,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU 95A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {

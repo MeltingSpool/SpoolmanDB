@@ -700,7 +700,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -743,7 +743,7 @@
       "bed_temp": 100
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -766,7 +766,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -789,7 +789,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -812,7 +812,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -835,7 +835,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -858,7 +858,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -881,7 +881,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -904,7 +904,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -927,7 +927,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -950,7 +950,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -973,7 +973,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -996,7 +996,7 @@
       "bed_temp": 80
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -1019,7 +1019,7 @@
       "bed_temp": 80
     },
     {
-      "name": "Translucent PETG {color_name}",
+      "name": "Translucent {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -1083,7 +1083,7 @@
       "bed_temp": 80
     },
     {
-      "name": "High-Speed PLA {color_name}",
+      "name": "High-Speed {color_name}",
       "material": "PLA",
       "density": 1.19,
       "weights": [
@@ -1142,7 +1142,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1165,7 +1165,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1188,7 +1188,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1211,7 +1211,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1234,7 +1234,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Galaxy {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -1269,7 +1269,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.37,
       "weights": [
@@ -1296,7 +1296,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -1332,7 +1332,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Metal {color_name}",
+      "name": "Metal {color_name}",
       "material": "PLA",
       "density": 1.2,
       "weights": [
@@ -1355,7 +1355,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Plus {color_name}",
+      "name": "Plus {color_name}",
       "material": "PLA",
       "density": 1.21,
       "weights": [
@@ -1446,7 +1446,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -1514,7 +1514,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Silk Dual-Tricolor {color_name}",
+      "name": "Silk Dual-Tricolor {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -1569,7 +1569,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Special {color_name}",
+      "name": "Special {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1604,7 +1604,7 @@
       "bed_temp": 30
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -1782,8 +1782,8 @@
       ]
     },
     {
-      "name": "PLA Plus {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA+",
       "density": 1.21,
       "weights": [
         {

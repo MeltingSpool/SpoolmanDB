@@ -2,8 +2,8 @@
   "manufacturer": "3D Maliang",
   "filaments": [
     {
-      "name": "95A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.25,
       "weights": [
         {
@@ -53,7 +53,7 @@
       ],
       "colors": [
         {
-          "name": "green to yellow",
+          "name": "Green to Yellow",
           "hex": "358500"
         }
       ],
@@ -82,7 +82,7 @@
       ],
       "colors": [
         {
-          "name": "Glow Glitter transparent",
+          "name": "Glitter Transparent",
           "hex": "ffffff"
         },
         {
@@ -93,7 +93,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -115,7 +115,7 @@
       ],
       "colors": [
         {
-          "name": "black",
+          "name": "Black",
           "hex": "808080"
         },
         {
@@ -135,7 +135,7 @@
           "hex": "b87333"
         },
         {
-          "name": "DarkBlue",
+          "name": "Dark Blue",
           "hex": "808080"
         },
         {
@@ -155,7 +155,7 @@
           "hex": "808080"
         },
         {
-          "name": "Silk gold",
+          "name": "Silk Gold",
           "hex": "ffd700"
         },
         {
@@ -341,7 +341,7 @@
           "hex": "5f493c"
         },
         {
-          "name": "light wood",
+          "name": "Light Wood",
           "hex": "b89782"
         }
       ],

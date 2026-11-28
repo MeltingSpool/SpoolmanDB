@@ -2,7 +2,7 @@
   "manufacturer": "American Filament",
   "filaments": [
     {
-      "name": "American Filament PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "American Filament Tough Pro PLA+ {color_name}",
+      "name": "Tough Pro {color_name}",
       "material": "PLA+",
       "density": 1.22,
       "weights": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "name": "American Filament Regenerative PLA+ {color_name}",
+      "name": "Regenerative {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -517,7 +517,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -587,7 +587,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -659,7 +659,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -731,7 +731,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -767,7 +767,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -802,7 +802,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -838,7 +838,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -874,7 +874,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -909,7 +909,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -979,7 +979,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1015,7 +1015,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1050,7 +1050,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1086,7 +1086,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1121,7 +1121,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1156,7 +1156,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1192,7 +1192,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1228,7 +1228,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1264,7 +1264,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1300,7 +1300,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "name": "American Filament PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1371,7 +1371,7 @@
       ]
     },
     {
-      "name": "American Filament Lithophane PLA {color_name}",
+      "name": "Lithophane {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "name": "American Filament CMYK PLA+ {color_name}",
+      "name": "CMYK {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -1479,7 +1479,7 @@
       ]
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1511,7 +1511,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1543,7 +1543,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1575,7 +1575,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.27,
       "weights": [
@@ -1607,7 +1607,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1637,7 +1637,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1794,7 +1794,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1826,7 +1826,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1858,7 +1858,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1890,7 +1890,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1922,7 +1922,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1954,7 +1954,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1986,7 +1986,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2018,7 +2018,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2050,7 +2050,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2082,7 +2082,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2114,7 +2114,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2146,7 +2146,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2178,7 +2178,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

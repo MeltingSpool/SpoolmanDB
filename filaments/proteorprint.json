@@ -2,7 +2,7 @@
   "manufacturer": "Proteor Print",
   "filaments": [
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "Element3D",
   "filaments": [
     {
-      "name": "ABS X {color_name}",
+      "name": "X {color_name}",
       "material": "ABS",
       "density": 1.07,
       "weights": [

@@ -204,8 +204,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS-GF25 {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS-GF25",
       "density": 1.3,
       "weights": [
         {
@@ -252,7 +252,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ABS Metal Rapido {color_name}",
+      "name": "Metal Rapido {color_name}",
       "material": "ABS",
       "density": 1.06,
       "weights": [
@@ -290,7 +290,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Odorless ABS Rapido {color_name}",
+      "name": "Odorless Rapido {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -352,7 +352,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS Rapido {color_name}",
+      "name": "Rapido {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -406,7 +406,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ASA-Aero {color_name}",
+      "name": "Aero {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -440,8 +440,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PA12-CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.09,
       "weights": [
         {
@@ -471,7 +471,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA12 S-White Support {color_name}",
+      "name": "Support {color_name}",
       "material": "PA12",
       "density": 1.1,
       "weights": [
@@ -501,8 +501,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PC/ABS-FR {color_name}",
-      "material": "PC",
+      "name": "PFR {color_name}",
+      "material": "PC+ABS",
       "density": 1.08,
       "weights": [
         {
@@ -531,8 +531,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PEBA 95A {color_name}",
-      "material": "PEBA",
+      "name": "{color_name}",
+      "material": "PEBA-95A",
       "density": 1.01,
       "weights": [
         {
@@ -561,8 +561,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PET-CF {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-CF",
       "density": 1.3,
       "weights": [
         {
@@ -592,8 +592,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PET-GF {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-GF",
       "density": 1.38,
       "weights": [
         {
@@ -631,7 +631,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PETG Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PETG",
       "density": 1.26,
       "weights": [
@@ -697,8 +697,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG-CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.31,
       "weights": [
         {
@@ -728,8 +728,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG-GF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-GF",
       "density": 1.26,
       "weights": [
         {
@@ -771,7 +771,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PETG Rapido {color_name}",
+      "name": "Rapido {color_name}",
       "material": "PETG",
       "density": 1.31,
       "weights": [
@@ -834,7 +834,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG Translucent {color_name}",
+      "name": "Translucent {color_name}",
       "material": "PETG",
       "density": 1.26,
       "weights": [
@@ -890,7 +890,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.17,
       "weights": [
@@ -956,8 +956,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA-CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.28,
       "weights": [
         {
@@ -1003,7 +1003,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA Matte Basic {color_name}",
+      "name": "Matte Basic {color_name}",
       "material": "PLA",
       "density": 1.32,
       "weights": [
@@ -1062,7 +1062,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA Matte Rapido {color_name}",
+      "name": "Matte Rapido {color_name}",
       "material": "PLA",
       "density": 1.32,
       "weights": [
@@ -1125,7 +1125,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA Metal Rapido {color_name}",
+      "name": "Metal Rapido {color_name}",
       "material": "PLA",
       "density": 1.2,
       "weights": [
@@ -1167,7 +1167,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Rapido {color_name}",
+      "name": "Rapido {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -1233,7 +1233,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk Rapido {color_name}",
+      "name": "Silk Rapido {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1275,7 +1275,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -1309,8 +1309,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PAHT-CF {color_name}",
-      "material": "PPA",
+      "name": "{color_name}",
+      "material": "PA-CF",
       "density": 1.2,
       "weights": [
         {
@@ -1340,8 +1340,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "UltraPA-CF25 {color_name}",
-      "material": "PPA",
+      "name": "Ultra {color_name}",
+      "material": "PA-CF25",
       "density": 1.23,
       "weights": [
         {
@@ -1371,8 +1371,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PAHT-GF {color_name}",
-      "material": "PPA",
+      "name": "{color_name}",
+      "material": "PAHT-GF",
       "density": 1.27,
       "weights": [
         {
@@ -1406,8 +1406,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "UltraPA {color_name}",
-      "material": "PPA",
+      "name": "Ultra {color_name}",
+      "material": "PA",
       "density": 1.21,
       "weights": [
         {
@@ -1436,8 +1436,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PPS-CF {color_name}",
-      "material": "PPS",
+      "name": "{color_name}",
+      "material": "PPS-CF",
       "density": 1.3,
       "weights": [
         {
@@ -1466,8 +1466,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PPS-GF20 {color_name}",
-      "material": "PPS",
+      "name": "{color_name}",
+      "material": "PPS-GF20",
       "density": 1.36,
       "weights": [
         {
@@ -1496,8 +1496,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "TPU 95A HF {color_name}",
-      "material": "TPU",
+      "name": "HF {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -1530,7 +1530,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU-Aero {color_name}",
+      "name": "Aero {color_name}",
       "material": "TPU",
       "density": 0.74,
       "weights": [

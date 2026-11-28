@@ -2,7 +2,7 @@
   "manufacturer": "Duramic 3D",
   "filaments": [
     {
-      "name": "Duramic 3D PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.22,
       "weights": [
@@ -59,7 +59,7 @@
       "tds_url": "https://cdn.shopifycdn.net/s/files/1/0279/4933/4599/files/Duramic_PLA_Plus_TDS_EN_V1.1.pdf?v=1629881206"
     },
     {
-      "name": "Duramic 3D PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.25,
       "weights": [
@@ -112,7 +112,7 @@
       "tds_url": "https://cdn.shopifycdn.net/s/files/1/0279/4933/4599/files/Duramic_PETG_TDS_V4-G105.pdf?v=1629881207"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
