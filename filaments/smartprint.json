@@ -2,7 +2,7 @@
   "manufacturer": "SmartPrint",
   "filaments": [
     {
-      "name": "PLA Plus {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -69,7 +69,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -136,7 +136,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ABS Plus {color_name}",
+      "name": "Plus {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -190,7 +190,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -220,7 +220,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -250,7 +250,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -280,7 +280,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -310,7 +310,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -340,7 +340,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -370,7 +370,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -400,7 +400,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -430,7 +430,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -461,7 +461,7 @@
       "bed_temp": 100
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.24,
       "weights": [
@@ -518,8 +518,8 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PA12-CF15 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF15",
       "density": 1.22,
       "weights": [
         {
@@ -542,7 +542,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG Transparent {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PETG",
       "density": 1.26,
       "weights": [
@@ -636,7 +636,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -878,7 +878,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA Galaxy {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -905,7 +905,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Glow {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.29,
       "weights": [
@@ -936,7 +936,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -967,7 +967,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1007,7 +1007,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Meta {color_name}",
+      "name": "Meta {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1054,7 +1054,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1121,7 +1121,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Silk Dual {color_name}",
+      "name": "Silk Dual {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1176,7 +1176,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Silk Tri {color_name}",
+      "name": "Silk Tri {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1235,7 +1235,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.21,
       "weights": [

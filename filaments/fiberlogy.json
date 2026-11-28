@@ -27,29 +27,7 @@
           "eans": [
             "5902560991857"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF",
@@ -59,29 +37,7 @@
           "eans": [
             "5902560991864"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "BBBCBC",
@@ -91,29 +47,7 @@
           "eans": [
             "5902560991871"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Graphite",
           "hex": "474A51",
@@ -123,29 +57,7 @@
           "eans": [
             "5902560991826"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFD700",
@@ -155,29 +67,7 @@
           "eans": [
             "5902560991895"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "FFB200",
@@ -187,29 +77,7 @@
           "eans": [
             "5902560991840"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "C41E3A",
@@ -219,29 +87,7 @@
           "eans": [
             "5902560991758"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0072BB",
@@ -251,29 +97,7 @@
           "eans": [
             "5902560991833"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "90EE90",
@@ -283,29 +107,7 @@
           "eans": [
             "5902560991888"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Olive Green",
           "hex": "808000",
@@ -315,29 +117,7 @@
           "eans": [
             "5902560991741"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Inox",
           "hex": "C0C0C0",
@@ -347,29 +127,7 @@
           "eans": [
             "5902560991765"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Vertigo",
           "hex": "708090",
@@ -379,29 +137,7 @@
           "eans": [
             "5902560991772"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Onyx",
           "hex": "353839",
@@ -411,29 +147,7 @@
           "eans": [
             "5902560991789"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
-    },
-    {
-      "name": "{color_name}",
-      "material": "ASA",
-      "density": 1.07,
-      "weights": [
-        {
-          "weight": 750,
-          "spool_weight": 260,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 260,
-      "bed_temp": 110,
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000",
@@ -450,7 +164,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -473,35 +187,7 @@
           "eans": [
             "5902560993820"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000",
@@ -511,35 +197,7 @@
           "eans": [
             "5902560993837"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0092BC",
@@ -549,35 +207,7 @@
           "eans": [
             "5902560993844"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Burgundy",
           "hex": "AD0028",
@@ -587,265 +217,41 @@
           "eans": [
             "5902560993899"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy Blue Transparent",
           "hex": "0378D0",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy Navy Blue Transparent",
           "hex": "09048E",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
+        },
         {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Easy - Pure Transparent",
+          "name": "Easy Pure Transparent",
           "hex": "E4E7E5",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
+        },
         {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Easy - Transparent Burgundy",
+          "name": "Easy Transparent Burgundy",
           "hex": "861D2B",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
+        },
         {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Easy - Transparent Light Green",
+          "name": "Easy Transparent Light Green",
           "hex": "91C500",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
+        },
         {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Easy - Transparent Orange",
+          "name": "Easy Transparent Orange",
           "hex": "E03F26",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "ESD",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Graphite",
           "hex": "53565A",
@@ -855,35 +261,7 @@
           "eans": [
             "5902560993882"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "BBBCBC",
@@ -893,35 +271,7 @@
           "eans": [
             "5902560993813"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "58C91B",
@@ -931,35 +281,7 @@
           "eans": [
             "5902560993912"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Inox",
           "hex": "969AA3",
@@ -969,67 +291,11 @@
           "eans": [
             "5902560993974"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Inox Steel",
           "hex": "BCBFC2"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "A7D500",
@@ -1039,35 +305,7 @@
           "eans": [
             "5902560993929"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Navy Blue",
           "hex": "0E21AE",
@@ -1077,35 +315,7 @@
           "eans": [
             "5902560993905"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Onyx",
           "hex": "262626",
@@ -1115,35 +325,7 @@
           "eans": [
             "5902560993981"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "F67405",
@@ -1153,67 +335,11 @@
           "eans": [
             "5902560993936"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "R Anthracite",
           "hex": "26272B"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "FF0000",
@@ -1223,35 +349,7 @@
           "eans": [
             "5902560993868"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Vertigo",
           "hex": "282828",
@@ -1261,35 +359,7 @@
           "eans": [
             "5902560995206"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF",
@@ -1299,35 +369,7 @@
           "eans": [
             "5902560993806"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFD700",
@@ -1337,35 +379,7 @@
           "eans": [
             "5902560993851"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Beige",
           "hex": "EADAC2",
@@ -1375,35 +389,7 @@
           "eans": [
             "5902560993820"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000",
@@ -1413,35 +399,7 @@
           "eans": [
             "5902560993837"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0092BC",
@@ -1451,35 +409,7 @@
           "eans": [
             "5902560993844"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Burgundy",
           "hex": "AD0028",
@@ -1489,265 +419,41 @@
           "eans": [
             "5902560993899"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy Blue Transparent",
           "hex": "0378D0",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy Navy Blue Transparent",
           "hex": "09048E",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy - Pure Transparent",
           "hex": "E4E7E5",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy - Transparent Burgundy",
           "hex": "861D2B",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy - Transparent Light Green",
           "hex": "91C500",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Easy - Transparent Orange",
           "hex": "E03F26",
           "translucent": true
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "ESD",
           "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Graphite",
           "hex": "53565A",
@@ -1757,35 +463,7 @@
           "eans": [
             "5902560993882"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "BBBCBC",
@@ -1795,35 +473,7 @@
           "eans": [
             "5902560993813"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "58C91B",
@@ -1833,35 +483,7 @@
           "eans": [
             "5902560993912"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Inox",
           "hex": "969AA3",
@@ -1871,67 +493,11 @@
           "eans": [
             "5902560993974"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Inox Steel",
           "hex": "BCBFC2"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "A7D500",
@@ -1941,35 +507,7 @@
           "eans": [
             "5902560993929"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Navy Blue",
           "hex": "0E21AE",
@@ -1979,35 +517,7 @@
           "eans": [
             "5902560993905"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Onyx",
           "hex": "262626",
@@ -2017,35 +527,7 @@
           "eans": [
             "5902560993981"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "F67405",
@@ -2055,99 +537,15 @@
           "eans": [
             "5902560993936"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "PLUS Grey",
           "hex": "C5C5BF"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "R Anthracite",
           "hex": "26272B"
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "FF0000",
@@ -2157,35 +555,7 @@
           "eans": [
             "5902560993868"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Vertigo",
           "hex": "282828",
@@ -2195,35 +565,7 @@
           "eans": [
             "5902560995206"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF",
@@ -2233,35 +575,7 @@
           "eans": [
             "5902560993806"
           ]
-        }
-      ],
-      "extruder_temp_range": [
-        230,
-        260
-      ],
-      "bed_temp_range": [
-        90,
-        110
-      ],
-      "country_of_origin": "PL",
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.04,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFD700",
@@ -2286,7 +600,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABS_SDS_EN.pdf"
     },
     {
-      "name": "ABS ESD {color_name}",
+      "name": "ESD {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -2318,8 +632,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABSESD_SDS_EN.pdf"
     },
     {
-      "name": "ABS PLUS {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS+",
       "density": 1.03,
       "weights": [
         {
@@ -2410,7 +724,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ABSPLUS_SDS_EN.pdf"
     },
     {
-      "name": "EASY ABS {color_name}",
+      "name": "Easy {color_name}",
       "material": "ABS",
       "density": 1.09,
       "weights": [
@@ -2485,7 +799,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYABS_SDS_EN.pdf"
     },
     {
-      "name": "R ABS {color_name}",
+      "name": "R {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2514,7 +828,7 @@
       "bed_temp": 100
     },
     {
-      "name": "Refill ABS {color_name}",
+      "name": "Refill {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -2605,7 +919,7 @@
       "bed_temp": 100
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2643,7 +957,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2681,7 +995,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2719,7 +1033,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2757,7 +1071,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2795,7 +1109,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2833,7 +1147,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2871,7 +1185,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2909,7 +1223,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2947,7 +1261,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -2985,7 +1299,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -3023,7 +1337,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -3061,7 +1375,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -3099,7 +1413,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_ASA_SDS_EN.pdf"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -3186,7 +1500,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_MATTEASA_SDS_EN.pdf"
     },
     {
-      "name": "BVOH {color_name}",
+      "name": "{color_name}",
       "material": "BVOH",
       "density": 1.14,
       "weights": [
@@ -3224,7 +1538,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_BVOH_SDS_EN.pdf"
     },
     {
-      "name": "CPE {color_name}",
+      "name": "{color_name}",
       "material": "CPE",
       "density": 1.25,
       "weights": [
@@ -3289,7 +1603,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_CPEHT_SDS_EN.pdf"
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -3394,8 +1708,8 @@
       "finish": "matte"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF15",
       "density": 1.01,
       "weights": [
         {
@@ -3409,7 +1723,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon + CF15 black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -3425,8 +1739,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Nylon Gf15 GF PA12 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-GF15",
       "density": 1.01,
       "weights": [
         {
@@ -3470,7 +1784,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Nylon PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -3581,8 +1895,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_NYLONPA12_SDS_EN.pdf"
     },
     {
-      "name": "Nylon PA12+CF15 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF15",
       "density": 1.07,
       "weights": [
         {
@@ -3614,8 +1928,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Nylon PA12+CF5 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF5",
       "density": 1.05,
       "weights": [
         {
@@ -3639,8 +1953,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Nylon PA12+GF15 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-GF15",
       "density": 1.13,
       "weights": [
         {
@@ -3676,7 +1990,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -3691,39 +2005,39 @@
       ],
       "colors": [
         {
-          "name": "Nylon Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Nylon blue",
+          "name": "blue",
           "hex": "0099E6"
         },
         {
-          "name": "Nylon Inox",
+          "name": "Inox",
           "hex": "ACB1BA"
         },
         {
-          "name": "Nylon Light Green",
+          "name": "Light Green",
           "hex": "B3DF3A"
         },
         {
-          "name": "Nylon Natural",
+          "name": "Natural",
           "hex": "F2EFE9"
         },
         {
-          "name": "Nylon Orange",
+          "name": "Orange",
           "hex": "F67405"
         },
         {
-          "name": "Nylon Red",
+          "name": "Red",
           "hex": "E20010"
         },
         {
-          "name": "Nylon White",
+          "name": "White",
           "hex": "FFFFFF"
         },
         {
-          "name": "Nylon Yellow",
+          "name": "Yellow",
           "hex": "FBE200"
         },
         {
@@ -3742,7 +2056,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PA6 R NYLON {color_name}",
+      "name": "R {color_name}",
       "material": "PA6",
       "density": 1.01,
       "weights": [
@@ -3765,7 +2079,7 @@
       "bed_temp": 100
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -3799,8 +2113,8 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Gf10 GF PCTG {color_name}",
-      "material": "PCTG",
+      "name": "{color_name}",
+      "material": "PCTG-GF10",
       "density": 1.23,
       "weights": [
         {
@@ -3836,7 +2150,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3873,7 +2187,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3910,7 +2224,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3947,7 +2261,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -3984,7 +2298,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4021,7 +2335,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4058,7 +2372,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4095,7 +2409,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4132,7 +2446,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4169,7 +2483,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4206,7 +2520,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4243,7 +2557,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4280,7 +2594,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4317,7 +2631,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4354,7 +2668,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4391,7 +2705,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4429,7 +2743,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4467,7 +2781,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4505,7 +2819,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4543,7 +2857,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4581,7 +2895,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4619,7 +2933,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4657,7 +2971,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4695,7 +3009,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4733,7 +3047,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4771,7 +3085,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4809,7 +3123,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4847,7 +3161,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4885,7 +3199,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -4923,7 +3237,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PCTG_SDS_EN.pdf"
     },
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.23,
       "weights": [
@@ -5091,8 +3405,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PEI9085_SDS_EN.pdf"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -5310,7 +3624,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPETG_SDS_EN.pdf"
     },
     {
-      "name": "Easy PETG {color_name}",
+      "name": "Easy {color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -5638,7 +3952,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PETGV0_SDS_EN.pdf"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5798,7 +4112,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPETG_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5830,7 +4144,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5862,7 +4176,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5894,7 +4208,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5926,7 +4240,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5958,7 +4272,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5990,7 +4304,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6022,7 +4336,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6054,7 +4368,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6086,7 +4400,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6118,7 +4432,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6150,7 +4464,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6182,7 +4496,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6214,7 +4528,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6240,7 +4554,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6272,7 +4586,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6304,7 +4618,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6336,7 +4650,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6368,7 +4682,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6400,7 +4714,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6432,7 +4746,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6464,7 +4778,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6490,7 +4804,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6522,7 +4836,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6554,7 +4868,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6586,7 +4900,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6618,7 +4932,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6650,7 +4964,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6682,7 +4996,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6714,7 +5028,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6746,7 +5060,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6778,7 +5092,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6804,7 +5118,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6836,7 +5150,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6868,7 +5182,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6900,7 +5214,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6932,7 +5246,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6964,7 +5278,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6996,7 +5310,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7028,7 +5342,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7060,7 +5374,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7092,7 +5406,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7124,7 +5438,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7156,7 +5470,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7188,7 +5502,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7220,7 +5534,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7252,7 +5566,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7284,7 +5598,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7316,7 +5630,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7348,7 +5662,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7380,7 +5694,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7412,7 +5726,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7444,7 +5758,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7476,7 +5790,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7508,7 +5822,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7540,7 +5854,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7572,7 +5886,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7604,7 +5918,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7636,7 +5950,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7662,7 +5976,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7694,7 +6008,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7726,7 +6040,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7758,7 +6072,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7790,7 +6104,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7822,7 +6136,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7854,7 +6168,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7886,7 +6200,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7912,7 +6226,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7944,7 +6258,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7976,7 +6290,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8008,7 +6322,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8040,7 +6354,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8072,7 +6386,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8104,7 +6418,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8136,7 +6450,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8168,7 +6482,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8200,7 +6514,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8226,7 +6540,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8258,7 +6572,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8290,7 +6604,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8322,7 +6636,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8354,7 +6668,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8386,7 +6700,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8418,7 +6732,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8450,7 +6764,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8482,7 +6796,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8514,7 +6828,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8546,7 +6860,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8578,7 +6892,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8610,7 +6924,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "Easy PLA {color_name}",
+      "name": "Easy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8642,7 +6956,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
     },
     {
-      "name": "PLA FiberSatin {color_name}",
+      "name": "FiberSatin {color_name}",
       "material": "PLA",
       "density": 1.2,
       "weights": [
@@ -8728,7 +7042,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_FIBERSATIN_SDS_EN.pdf"
     },
     {
-      "name": "PLA FiberSilk {color_name}",
+      "name": "FiberSilk {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -8961,7 +7275,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA FiberWood {color_name}",
+      "name": "FiberWood {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -9043,7 +7357,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_FIBERWOOD_SDS_EN.pdf"
     },
     {
-      "name": "HD PLA {color_name}",
+      "name": "HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -9208,7 +7522,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_HSPLACLEAR_SDS_EN.pdf"
     },
     {
-      "name": "Impact PLA {color_name}",
+      "name": "Impact {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [
@@ -9216,450 +7530,7 @@
           "weight": 850,
           "spool_type": "plastic",
           "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Army Green",
-          "hex": "404720",
-          "codes": [
-            "PLA-IM-ARMYGREEN-175-085"
-          ],
-          "eans": [
-            "5902560997095"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "000000",
-          "codes": [
-            "PLA-IM-BLACK-175-085"
-          ],
-          "eans": [
-            "5902560995138"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Blue",
-          "hex": "0092BC",
-          "codes": [
-            "PLA-IM-BLUE-175-085"
-          ],
-          "eans": [
-            "5902560995183"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Graphite",
-          "hex": "53565A",
-          "codes": [
-            "PLA-IM-GRAPHITE-175-085"
-          ],
-          "eans": [
-            "5902560995121"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Gray",
-          "hex": "BBBCBC",
-          "codes": [
-            "PLA-IM-GRAY-175-085"
-          ],
-          "eans": [
-            "5902560995114"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Khaki",
-          "hex": "6F673A",
-          "codes": [
-            "PLA-IM-KHAKI-175-085"
-          ],
-          "eans": [
-            "5902560997071"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Light Green",
-          "hex": "A7D500",
-          "codes": [
-            "PLA-IM-LGREEN-175-085"
-          ],
-          "eans": [
-            "5902560995145"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Olive Green",
-          "hex": "606935",
-          "codes": [
-            "PLA-IM-OLIVEGREEN-175-085"
-          ],
-          "eans": [
-            "5902560997088"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Onyx",
-          "hex": "262626",
-          "codes": [
-            "PLA-IM-ONYX-175-085"
-          ],
-          "eans": [
-            "5902560995084"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Orange",
-          "hex": "FF6900",
-          "codes": [
-            "PLA-IM-ORANGE-175-085"
-          ],
-          "eans": [
-            "5902560995176"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Red",
-          "hex": "FF0000",
-          "codes": [
-            "PLA-IM-RED-175-085"
-          ],
-          "eans": [
-            "5902560995152"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Vertigo",
-          "hex": "282828",
-          "codes": [
-            "PLA-IM-VERTIGO-175-085"
-          ],
-          "eans": [
-            "5902560995091"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "White",
-          "hex": "FFFFFF",
-          "codes": [
-            "PLA-IM-WHITE-175-085"
-          ],
-          "eans": [
-            "5902560995107"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Yellow",
-          "hex": "FFD700",
-          "codes": [
-            "PLA-IM-YELLOW-175-085"
-          ],
-          "eans": [
-            "5902560995169"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
+        },
         {
           "weight": 1000,
           "spool_type": "plastic",
@@ -9679,29 +7550,7 @@
           "eans": [
             "5902560997095"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Black",
           "hex": "000000",
@@ -9711,29 +7560,7 @@
           "eans": [
             "5902560995138"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0092BC",
@@ -9743,29 +7570,7 @@
           "eans": [
             "5902560995183"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Graphite",
           "hex": "53565A",
@@ -9775,29 +7580,7 @@
           "eans": [
             "5902560995121"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "BBBCBC",
@@ -9807,29 +7590,7 @@
           "eans": [
             "5902560995114"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Khaki",
           "hex": "6F673A",
@@ -9839,29 +7600,7 @@
           "eans": [
             "5902560997071"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Green",
           "hex": "A7D500",
@@ -9871,29 +7610,7 @@
           "eans": [
             "5902560995145"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Olive Green",
           "hex": "606935",
@@ -9903,29 +7620,7 @@
           "eans": [
             "5902560997088"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Onyx",
           "hex": "262626",
@@ -9935,29 +7630,7 @@
           "eans": [
             "5902560995084"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "FF6900",
@@ -9967,29 +7640,7 @@
           "eans": [
             "5902560995176"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Red",
           "hex": "FF0000",
@@ -9999,29 +7650,7 @@
           "eans": [
             "5902560995152"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Vertigo",
           "hex": "282828",
@@ -10031,29 +7660,7 @@
           "eans": [
             "5902560995091"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF",
@@ -10063,29 +7670,7 @@
           "eans": [
             "5902560995107"
           ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 225,
-      "bed_temp": 65,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Impact PLA {color_name}",
-      "material": "PLA",
-      "density": 1.22,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFD700",
@@ -10104,7 +7689,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_IMPACTPLA_SDS_EN.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -10138,7 +7723,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "PLA Mineral {color_name}",
+      "name": "Mineral {color_name}",
       "material": "PLA",
       "density": 1.38,
       "weights": [
@@ -10201,7 +7786,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PLAMINERAL_SDS_EN.pdf"
     },
     {
-      "name": "R PLA {color_name}",
+      "name": "R {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -10231,149 +7816,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Refill Easy PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "000000",
-          "codes": [
-            "REF-EASY-BLACK"
-          ],
-          "eans": [
-            "5902560992205"
-          ]
-        },
-        {
-          "name": "Blue",
-          "hex": "0092BC",
-          "codes": [
-            "REF-EASY-BLUE"
-          ],
-          "eans": [
-            "5902560992243"
-          ]
-        },
-        {
-          "name": "Graphite",
-          "hex": "53565A",
-          "codes": [
-            "REF-EASY-GRAPHITE"
-          ],
-          "eans": [
-            "5902560992212"
-          ]
-        },
-        {
-          "name": "Gray",
-          "hex": "BBBCBC",
-          "codes": [
-            "REF-EASY-GRAY"
-          ],
-          "eans": [
-            "5902560992229"
-          ]
-        },
-        {
-          "name": "Inox",
-          "hex": "969AA3",
-          "codes": [
-            "REF-EASY-INOX"
-          ],
-          "eans": [
-            "5902560992274"
-          ]
-        },
-        {
-          "name": "Light Green",
-          "hex": "A7D500",
-          "codes": [
-            "REF-EASY-LGREEN"
-          ],
-          "eans": [
-            "5902560992250"
-          ]
-        },
-        {
-          "name": "Orange",
-          "hex": "FF6900",
-          "codes": [
-            "REF-EASY-ORANGE"
-          ],
-          "eans": [
-            "5902560992267"
-          ]
-        },
-        {
-          "name": "Vertigo",
-          "hex": "282828",
-          "codes": [
-            "REF-EASY-VERTIGO"
-          ],
-          "eans": [
-            "5902560992281"
-          ]
-        },
-        {
-          "name": "White",
-          "hex": "FFFFFF",
-          "codes": [
-            "REF-EASY-WHITE"
-          ],
-          "eans": [
-            "5902560992236"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 215,
-      "bed_temp": 60,
-      "tds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_TDS.pdf",
-      "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_EASYPLA_SDS_EN.pdf"
-    },
-    {
-      "name": "Refill R PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 850,
-          "spool_type": "plastic",
-          "spool_weight": 245
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Anthracite",
-          "hex": "0E100D",
-          "codes": [
-            "REF-RPLA-ANTHRACITE"
-          ],
-          "eans": [
-            "5902560998214"
-          ]
-        }
-      ],
-      "country_of_origin": "PL",
-      "extruder_temp": 215,
-      "bed_temp": 60
-    },
-    {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10410,7 +7853,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10447,7 +7890,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10484,7 +7927,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10521,7 +7964,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10558,7 +8001,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10595,7 +8038,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10632,7 +8075,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10663,7 +8106,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10700,7 +8143,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10737,7 +8180,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10774,7 +8217,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10812,7 +8255,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10850,7 +8293,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10888,7 +8331,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10926,7 +8369,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -10964,7 +8407,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11002,7 +8445,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11040,7 +8483,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11072,7 +8515,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11110,7 +8553,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11148,7 +8591,7 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_PP_SDS_EN.pdf"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 1.05,
       "weights": [
@@ -11233,8 +8676,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_FIBERSMOOTH_SDS_EN.pdf"
     },
     {
-      "name": "TPU CF {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-CF",
       "density": 1.21,
       "weights": [
         {
@@ -11248,7 +8691,7 @@
       ],
       "colors": [
         {
-          "name": "FiberFlex CF Black",
+          "name": "FiberFlex Black",
           "hex": "000000"
         }
       ],
@@ -11266,8 +8709,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "TPU FiberFlex 30D {color_name}",
-      "material": "TPU",
+      "name": "FiberFlex {color_name}",
+      "material": "TPU-30D",
       "density": 1.07,
       "weights": [
         {
@@ -11409,8 +8852,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_FIBERFLEX30D_SDS_EN.pdf"
     },
     {
-      "name": "TPU FiberFlex 40D {color_name}",
-      "material": "TPU",
+      "name": "FiberFlex {color_name}",
+      "material": "TPU-40D",
       "density": 1.16,
       "weights": [
         {
@@ -11612,8 +9055,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_FIBERFLEX40D_SDS_EN.pdf"
     },
     {
-      "name": "TPU MattFlex 40D {color_name}",
-      "material": "TPU",
+      "name": "MattFlex {color_name}",
+      "material": "TPU-40D",
       "density": 1.16,
       "weights": [
         {
@@ -11644,8 +9087,8 @@
       "sds_url": "https://fiberlogy.com/upload/techfiles/FIBERLOGY_MATTFLEX40D_SDS_EN.pdf"
     },
     {
-      "name": "Mattflex 40D Matte TPU {color_name}",
-      "material": "TPU",
+      "name": "Mattflex Matte {color_name}",
+      "material": "TPU-40D",
       "density": 1.21,
       "weights": [
         {

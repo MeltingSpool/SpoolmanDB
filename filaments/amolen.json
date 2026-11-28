@@ -2,7 +2,7 @@
   "manufacturer": "Amolen",
   "filaments": [
     {
-      "name": "Amolen Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.27,
       "weights": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Amolen Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.23,
       "weights": [
@@ -72,8 +72,8 @@
       "fill": "wood"
     },
     {
-      "name": "90A Flexible PEBA {color_name}",
-      "material": "PEBA",
+      "name": "{color_name}",
+      "material": "PEBA-90A",
       "density": 1.01,
       "weights": [
         {
@@ -106,7 +106,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "Basic Matte PLA {color_name}",
+      "name": "Basic Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -281,7 +281,7 @@
       "finish": "matte"
     },
     {
-      "name": "Basic Silk PLA {color_name}",
+      "name": "Basic Silk {color_name}",
       "material": "PLA",
       "density": 1.27,
       "weights": [
@@ -377,8 +377,8 @@
       ]
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.24,
       "weights": [
         {
@@ -434,7 +434,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Crystal Transparent PLA {color_name}",
+      "name": "Crystal Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -523,7 +523,7 @@
       ]
     },
     {
-      "name": "Dual Color Matte PLA {color_name}",
+      "name": "Dual Color Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -576,7 +576,7 @@
       "finish": "matte"
     },
     {
-      "name": "Dual Color Silk PLA {color_name}",
+      "name": "Dual Color Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "name": "High Speed PLA {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -800,90 +800,6 @@
         {
           "name": "Apple Red",
           "hex": "FF305F"
-        },
-        {
-          "name": "Basic- Apple Red",
-          "hex": "FF0039"
-        },
-        {
-          "name": "Basic- Army Dark Green",
-          "hex": "4E7642"
-        },
-        {
-          "name": "Basic- Butter Yellow",
-          "hex": "F2DE00"
-        },
-        {
-          "name": "Basic- Carrot Orange",
-          "hex": "FF7A33"
-        },
-        {
-          "name": "Basic- Charcoal Black",
-          "hex": "545252"
-        },
-        {
-          "name": "Basic- Cheese Yellow",
-          "hex": "FFE15B"
-        },
-        {
-          "name": "Basic- Chestnut Brown",
-          "hex": "AD4E38"
-        },
-        {
-          "name": "Basic- Cream Yellow",
-          "hex": "F5F3D1"
-        },
-        {
-          "name": "Basic- Eggnt Purple",
-          "hex": "CD00D7"
-        },
-        {
-          "name": "Basic- Forest Green",
-          "hex": "02776F"
-        },
-        {
-          "name": "Basic- Ice Blue",
-          "hex": "C6F3FD"
-        },
-        {
-          "name": "Basic- Koala Grey",
-          "hex": "737282"
-        },
-        {
-          "name": "Basic- Lavender Purple",
-          "hex": "A000CA"
-        },
-        {
-          "name": "Basic- Lime Green",
-          "hex": "9AED51"
-        },
-        {
-          "name": "Basic- Matcha Green",
-          "hex": "9EDA7F"
-        },
-        {
-          "name": "Basic- Ocean Blue",
-          "hex": "0378D0"
-        },
-        {
-          "name": "Basic- Paper White",
-          "hex": "ECEFED"
-        },
-        {
-          "name": "Basic- Peach Fuzz",
-          "hex": "FEC8A4"
-        },
-        {
-          "name": "Basic- Real Gold",
-          "hex": "F1BB51"
-        },
-        {
-          "name": "Basic- Sakura Pink",
-          "hex": "FFBADE"
-        },
-        {
-          "name": "Basic- Sand Beige",
-          "hex": "D2D9B9"
         },
         {
           "name": "Chameleon Green",
@@ -924,7 +840,115 @@
       ]
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Basic {color_name}",
+      "material": "PLA",
+      "density": 1.25,
+      "weights": [
+        {
+          "weight": 1000,
+          "legacy_id_spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Apple Red",
+          "hex": "FF0039"
+        },
+        {
+          "name": "Army Dark Green",
+          "hex": "4E7642"
+        },
+        {
+          "name": "Butter Yellow",
+          "hex": "F2DE00"
+        },
+        {
+          "name": "Carrot Orange",
+          "hex": "FF7A33"
+        },
+        {
+          "name": "Charcoal Black",
+          "hex": "545252"
+        },
+        {
+          "name": "Cheese Yellow",
+          "hex": "FFE15B"
+        },
+        {
+          "name": "Chestnut Brown",
+          "hex": "AD4E38"
+        },
+        {
+          "name": "Cream Yellow",
+          "hex": "F5F3D1"
+        },
+        {
+          "name": "Eggnt Purple",
+          "hex": "CD00D7"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "02776F"
+        },
+        {
+          "name": "Ice Blue",
+          "hex": "C6F3FD"
+        },
+        {
+          "name": "Koala Grey",
+          "hex": "737282"
+        },
+        {
+          "name": "Lavender Purple",
+          "hex": "A000CA"
+        },
+        {
+          "name": "Lime Green",
+          "hex": "9AED51"
+        },
+        {
+          "name": "Matcha Green",
+          "hex": "9EDA7F"
+        },
+        {
+          "name": "Ocean Blue",
+          "hex": "0378D0"
+        },
+        {
+          "name": "Paper White",
+          "hex": "ECEFED"
+        },
+        {
+          "name": "Peach Fuzz",
+          "hex": "FEC8A4"
+        },
+        {
+          "name": "Real Gold",
+          "hex": "F1BB51"
+        },
+        {
+          "name": "Sakura Pink",
+          "hex": "FFBADE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "D2D9B9"
+        },
+      ],
+      "extruder_temp_range": [
+        190,
+        230
+      ],
+      "bed_temp_range": [
+        50,
+        70
+      ]
+    },
+    {
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -984,7 +1008,7 @@
       ]
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1097,7 +1121,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1145,7 +1169,7 @@
       ]
     },
     {
-      "name": "Galaxy Sparkle Shiny Galaxy Silk PLA {color_name}",
+      "name": "Galaxy Sparkle {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1198,7 +1222,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Rainbow Silk PLA {color_name}",
+      "name": "Rainbow Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1251,7 +1275,7 @@
       ]
     },
     {
-      "name": "S-Series Silk PLA {color_name}",
+      "name": "S-Series Silk {color_name}",
       "material": "PLA",
       "density": 1.29,
       "weights": [
@@ -1339,7 +1363,7 @@
       ]
     },
     {
-      "name": "Shiny Glitter Silk PLA {color_name}",
+      "name": "Shiny Glitter Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1392,7 +1416,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Shiny Gradient Silk PLA {color_name}",
+      "name": "Shiny Gradient Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1465,8 +1489,8 @@
       "finish": "glossy"
     },
     {
-      "name": "Silk GF PLA {color_name}",
-      "material": "PLA",
+      "name": "Silk {color_name}",
+      "material": "PLA-GF",
       "density": 1.28,
       "weights": [
         {
@@ -1494,7 +1518,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1526,7 +1550,7 @@
       ]
     },
     {
-      "name": "Temperature Color Change PLA {color_name}",
+      "name": "Temperature Color Change {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1566,7 +1590,7 @@
       ]
     },
     {
-      "name": "Transparent PLA {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1610,7 +1634,7 @@
       ]
     },
     {
-      "name": "Triple Color Matte PLA {color_name}",
+      "name": "Triple Color Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1643,7 +1667,7 @@
       "finish": "matte"
     },
     {
-      "name": "Triple Color Silk PLA {color_name}",
+      "name": "Triple Color Silk {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -1719,7 +1743,7 @@
       ]
     },
     {
-      "name": "UV Color Change PLA {color_name}",
+      "name": "UV Color Change {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1759,7 +1783,7 @@
       ]
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1819,7 +1843,7 @@
       ]
     },
     {
-      "name": "Glow TPU {color_name}",
+      "name": "Glow {color_name}",
       "material": "TPU",
       "density": 1.2,
       "weights": [
@@ -1868,7 +1892,7 @@
       ]
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.19,
       "weights": [

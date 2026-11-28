@@ -2,7 +2,7 @@
   "manufacturer": "GolGeo",
   "filaments": [
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -117,42 +117,6 @@
             "CD7F32"
           ],
           "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "PLA Silk Bundle {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 200,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        220
-      ],
-      "bed_temp_range": [
-        30,
-        60
-      ],
-      "colors": [
-        {
-          "name": "4 Pack Dual Color Red Gold Silver Blue Blue Green Red Silver",
-          "hexes": [
-            "FF0000",
-            "FFD700",
-            "C0C0C0",
-            "0000FF",
-            "008000"
-          ],
-          "multi_color_direction": "coaxial"
         }
       ],
       "country_of_origin": "CN"

@@ -2,7 +2,7 @@
   "manufacturer": "Filatech",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -10,6 +10,11 @@
           "weight": 500,
           "spool_type": "plastic",
           "spool_weight": 160
+        },
+        {
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 220
         }
       ],
       "diameters": [
@@ -31,33 +36,7 @@
           "codes": [
             "AB120200"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Orange (Luminous)",
           "hex": "ff4500",
@@ -66,99 +45,21 @@
             "AB110702",
             "AB120702"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural White",
           "hex": "f5f5dc",
           "codes": [
             "AB120000"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Raven Black",
           "hex": "808080",
           "codes": [
             "AB120201"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Red (Luminous)",
           "hex": "ff1744",
@@ -166,33 +67,7 @@
           "codes": [
             "AB120301"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "ffffff",
@@ -200,33 +75,7 @@
             "AB110100",
             "AB120100"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Blue (Luminous)",
           "hex": "0066D9",
@@ -234,33 +83,7 @@
             "AB110502",
             "AB120502"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Green (Luminous)",
           "hex": "06B100",
@@ -268,246 +91,38 @@
             "AB110602",
             "AB120602"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Yellow (Luminous)",
           "hex": "FADB24",
           "codes": [
             "AB120402"
           ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Black",
           "hex": "000000"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Dark Orange (Luminous)",
           "hex": "FF8E24"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Dark Yellow (Luminous)",
           "hex": "FADB24"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Natural White",
           "hex": "EFEFEF"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Raven Black",
           "hex": "000000"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Red (Luminous)",
           "hex": "E03F26"
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 500,
-          "spool_type": "plastic",
-          "spool_weight": 160
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper White",
           "hex": "FFFFFF"
@@ -515,310 +130,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "000000",
-          "codes": [
-            "AB120200"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Dark Orange (Luminous)",
-          "hex": "ff4500",
-          "glow": true,
-          "codes": [
-            "AB110702",
-            "AB120702"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Natural White",
-          "hex": "f5f5dc",
-          "codes": [
-            "AB120000"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Raven Black",
-          "hex": "808080",
-          "codes": [
-            "AB120201"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Red (Luminous)",
-          "hex": "ff1744",
-          "glow": true,
-          "codes": [
-            "AB120301"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "White",
-          "hex": "ffffff",
-          "codes": [
-            "AB110100",
-            "AB120100"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Dark Blue (Luminous)",
-          "hex": "0066D9",
-          "codes": [
-            "AB110502",
-            "AB120502"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Dark Green (Luminous)",
-          "hex": "06B100",
-          "codes": [
-            "AB110602",
-            "AB120602"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        260
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
-        {
-          "name": "Dark Yellow (Luminous)",
-          "hex": "FADB24",
-          "codes": [
-            "AB120402"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "FilaCarbon {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.14,
       "weights": [
@@ -858,7 +170,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "FilaPLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.3,
       "weights": [
@@ -980,7 +292,7 @@
       ]
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.07,
       "weights": [
@@ -1067,7 +379,7 @@
       ]
     },
     {
-      "name": "Hyper ABS {color_name}",
+      "name": "Hyper {color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -1096,33 +408,7 @@
           "codes": [
             "HB120200"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Orange (Luminous)",
           "hex": "ff4500",
@@ -1130,33 +416,7 @@
           "codes": [
             "HB120702"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Yellow Luminous",
           "hex": "ffff33",
@@ -1164,99 +424,21 @@
           "codes": [
             "HB120402"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural White",
           "hex": "f5f5dc",
           "codes": [
             "HB120000"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Raven Black",
           "hex": "808080",
           "codes": [
             "HB120201"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Red (Luminous)",
           "hex": "ff1744",
@@ -1264,33 +446,7 @@
           "codes": [
             "HB120301"
           ]
-        }
-      ]
-    },
-    {
-      "name": "Hyper ABS {color_name}",
-      "material": "ABS",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        265,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "ffffff",
@@ -1301,7 +457,7 @@
       ]
     },
     {
-      "name": "Hyper PETG {color_name}",
+      "name": "Hyper {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1349,7 +505,7 @@
       ]
     },
     {
-      "name": "Hyper PLA {color_name}",
+      "name": "Hyper {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1378,136 +534,28 @@
           "codes": [
             "HL120200"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Bronze Gold",
           "hex": "cd7f32",
           "codes": [
             "HL121104"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Yellow",
           "hex": "cccc00",
           "codes": [
             "HL120403"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "808080",
           "codes": [
             "HL120800"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural Transparent",
           "hex": "ffffff80",
@@ -1515,136 +563,28 @@
           "codes": [
             "HL120001"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural White",
           "hex": "f5f5dc",
           "codes": [
             "HL120000"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Snow White",
           "hex": "fffafa",
           "codes": [
             "HL120103"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "ffd700",
           "codes": [
             "HL120400"
           ]
-        }
-      ],
-      "extruder_temp": 220
-    },
-    {
-      "name": "Hyper PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        220,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow (Luminous)",
           "hex": "ffff33",
@@ -1657,8 +597,8 @@
       "extruder_temp": 220
     },
     {
-      "name": "PA {color_name}",
-      "material": "NYLON",
+      "name": "{color_name}",
+      "material": "PA",
       "density": 1.14,
       "weights": [
         {
@@ -1728,7 +668,7 @@
       ]
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -1798,7 +738,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1918,7 +858,7 @@
       ]
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1948,170 +888,35 @@
             "PL120200",
             "PL140200"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0066cc",
           "codes": [
             "PL120500"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Choco Brown",
           "hex": "5c4033",
           "codes": [
             "PL121402"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Green",
           "hex": "006400",
           "codes": [
             "PL120603"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Metallic Grey",
           "hex": "4a4a4a",
           "codes": [
             "PL120805"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Orange (Luminous)",
           "hex": "ff4500",
@@ -2119,136 +924,28 @@
           "codes": [
             "PL120702"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Sky Blue",
           "hex": "4169e1",
           "codes": [
             "PL120514"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Yellow",
           "hex": "cccc00",
           "codes": [
             "PL120403"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "D6D7D8",
           "codes": [
             "PL120800"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Green (Luminous)",
           "hex": "39ff14",
@@ -2256,170 +953,35 @@
           "codes": [
             "PL120601"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hot Pink",
           "hex": "ff69b4",
           "codes": [
             "PL121501"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural White",
           "hex": "f5f5dc",
           "codes": [
             "PL120000"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Olive Gold",
           "hex": "bdb76b",
           "codes": [
             "PL121308"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "ffc0cb",
           "codes": [
             "PL121500"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Red (Luminous)",
           "hex": "ff1744",
@@ -2428,170 +990,35 @@
             "PL120301",
             "PL140301"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0",
           "codes": [
             "PL120901"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Snow White",
           "hex": "fffafa",
           "codes": [
             "PL120103"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Terracotta Brown",
           "hex": "e2725b",
           "codes": [
             "PL121401"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "ffd700",
           "codes": [
             "PL120400"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow (Fluorescent)",
           "hex": "ccff00",
@@ -2599,34 +1026,7 @@
           "codes": [
             "PL120410"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow (Luminous)",
           "hex": "ffff33",
@@ -2634,65 +1034,11 @@
           "codes": [
             "PL120401"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Orange (Luminous)",
           "hex": "FD9106"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "F0F1EA"
@@ -2701,7 +1047,7 @@
       "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2730,165 +1076,35 @@
             "PL120200",
             "PL140200"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0066cc",
           "codes": [
             "PL120500"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Choco Brown",
           "hex": "5c4033",
           "codes": [
             "PL121402"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Green",
           "hex": "006400",
           "codes": [
             "PL120603"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Metallic Grey",
           "hex": "4a4a4a",
           "codes": [
             "PL120805"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Orange (Luminous)",
           "hex": "ff4500",
@@ -2896,132 +1112,28 @@
           "codes": [
             "PL120702"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Sky Blue",
           "hex": "4169e1",
           "codes": [
             "PL120514"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Dark Yellow",
           "hex": "cccc00",
           "codes": [
             "PL120403"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "D6D7D8",
           "codes": [
             "PL120800"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Green (Luminous)",
           "hex": "39ff14",
@@ -3029,165 +1141,35 @@
           "codes": [
             "PL120601"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hot Pink",
           "hex": "ff69b4",
           "codes": [
             "PL121501"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Natural White",
           "hex": "f5f5dc",
           "codes": [
             "PL120000"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Olive Gold",
           "hex": "bdb76b",
           "codes": [
             "PL121308"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "ffc0cb",
           "codes": [
             "PL121500"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Red (Luminous)",
           "hex": "ff1744",
@@ -3196,165 +1178,35 @@
             "PL120301",
             "PL140301"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "c0c0c0",
           "codes": [
             "PL120901"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Snow White",
           "hex": "fffafa",
           "codes": [
             "PL120103"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Terracotta Brown",
           "hex": "e2725b",
           "codes": [
             "PL121401"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "ffd700",
           "codes": [
             "PL120400"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow (Fluorescent)",
           "hex": "ccff00",
@@ -3362,33 +1214,7 @@
           "codes": [
             "PL120410"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Yellow (Luminous)",
           "hex": "ffff33",
@@ -3396,333 +1222,47 @@
           "codes": [
             "PL120401"
           ]
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Black",
           "hex": "000000"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Bronze Gold",
           "hex": "6D6E4A"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Dark Yellow",
           "hex": "FADB24"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Grey",
           "hex": "D6D7D8"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Natural Transparent",
           "hex": "DFDFD3"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Natural White",
           "hex": "F2EFE9"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Snow White",
           "hex": "EFEFEF"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Yellow",
           "hex": "FFE15B"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Hyper Yellow (Luminous)",
           "hex": "FBF942"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "Orange (Luminous)",
           "hex": "FD9106"
-        }
-      ],
-      "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
-    },
-    {
-      "name": "PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 6000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        190,
-        220
-      ],
-      "bed_temp_range": [
-        40,
-        60
-      ],
-      "country_of_origin": "AE",
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "F0F1EA"
@@ -3731,7 +1271,7 @@
       "tds_url": "https://fila-tech.store/wp-content/uploads/2021/11/PLA-Datasheet.pdf"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -3810,7 +1350,7 @@
       "tds_url": "https://fila-tech.store/wp-content/uploads/2021/10/PLA-plus-Datasheet.pdf"
     },
     {
-      "name": "TPE {color_name}",
+      "name": "{color_name}",
       "material": "TPE",
       "density": 1.06,
       "weights": [
@@ -3871,7 +1411,7 @@
       ]
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.2,
       "weights": [
@@ -3932,7 +1472,7 @@
       ]
     },
     {
-      "name": "TPU 2 {color_name}",
+      "name": "2 {color_name}",
       "material": "TPU",
       "density": 1.2,
       "weights": [
@@ -3985,8 +1525,8 @@
       ]
     },
     {
-      "name": "Wood PLA {color_name}",
-      "material": "PLA+WOOD",
+      "name": "Wood {color_name}",
+      "material": "PLA",
       "density": 1.05,
       "weights": [
         {

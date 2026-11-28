@@ -2,7 +2,7 @@
   "manufacturer": "BING3D",
   "filaments": [
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -131,7 +131,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -164,7 +164,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [

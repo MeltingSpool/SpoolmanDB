@@ -61,7 +61,7 @@
     },
     {
       "name": "Sparkle {color_name}",
-      "material": "ABS+PLUS",
+      "material": "ABS+",
       "density": 1.24,
       "weights": [
         {

@@ -2,7 +2,7 @@
   "manufacturer": "Maertz",
   "filaments": [
     {
-      "name": "PLA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -45,7 +45,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA Matt {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -76,7 +76,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA Silk Tri Color {color_name}",
+      "name": "Silk Tri Color {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -119,7 +119,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA Glow+ {color_name}",
+      "name": "Glow+ {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -156,7 +156,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA Carbon {color_name}",
+      "name": "Carbon {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -187,7 +187,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

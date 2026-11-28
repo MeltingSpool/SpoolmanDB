@@ -2,7 +2,7 @@
   "manufacturer": "FilRight",
   "filaments": [
     {
-      "name": "Maker PLA {color_name}",
+      "name": "Maker {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -63,7 +63,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Pro PLA+ {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -128,7 +128,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Pro PETG {color_name}",
+      "name": "Pro {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [

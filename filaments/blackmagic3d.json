@@ -2,7 +2,7 @@
   "manufacturer": "Black Magic 3D",
   "filaments": [
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -47,7 +47,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Conductive Graphene PLA Black",
+      "name": "Conductive Graphene {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -80,7 +80,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Ferro-Magnetic PLA Black",
+      "name": "Ferro-Magnetic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -109,8 +109,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "G6-Impact HIPS Carbon Fiber Graphene Black",
-      "material": "HIPS",
+      "name": "G6-Impact Graphene {color_name}",
+      "material": "HIPS-CF",
       "density": 1.03,
       "weights": [
         {
@@ -140,7 +140,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Conductive Flexible TPU Black",
+      "name": "Conductive {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

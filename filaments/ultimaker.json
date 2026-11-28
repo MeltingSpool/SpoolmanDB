@@ -2,7 +2,7 @@
   "manufacturer": "Ultimaker",
   "filaments": [
     {
-      "name": "S Series PLA {color_name}",
+      "name": "S Series {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -69,7 +69,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series Tough PLA {color_name}",
+      "name": "S Series Tough {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -123,7 +123,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series ABS {color_name}",
+      "name": "S Series {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -189,7 +189,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series PETG {color_name}",
+      "name": "S Series {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -264,7 +264,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series CPE {color_name}",
+      "name": "S Series {color_name}",
       "material": "CPE",
       "density": 1.27,
       "weights": [
@@ -319,7 +319,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series CPE+ {color_name}",
+      "name": "S Series {color_name}",
       "material": "CPE+",
       "density": 1.27,
       "weights": [
@@ -358,7 +358,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series Nylon {color_name}",
+      "name": "S Series {color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [
@@ -393,7 +393,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series PC {color_name}",
+      "name": "S Series {color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -432,7 +432,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series TPU 95A {color_name}",
+      "name": "S Series {color_name}",
       "material": "TPU-95A",
       "density": 1.2,
       "weights": [
@@ -474,7 +474,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series PET CF {color_name}",
+      "name": "S Series {color_name}",
       "material": "PET-CF",
       "density": 1.29,
       "weights": [
@@ -513,7 +513,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series PVA {color_name}",
+      "name": "S Series {color_name}",
       "material": "PVA",
       "density": 1.19,
       "weights": [
@@ -543,7 +543,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method PLA {color_name}",
+      "name": "Method {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -589,7 +589,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method ABS-R {color_name}",
+      "name": "Method R {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -626,7 +626,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method ASA {color_name}",
+      "name": "Method {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -663,7 +663,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method PC-ABS FR {color_name}",
+      "name": "Method FR {color_name}",
       "material": "PC+ABS",
       "density": 1.19,
       "weights": [
@@ -692,7 +692,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method ABS CF {color_name}",
+      "name": "Method {color_name}",
       "material": "ABS-CF",
       "density": 1.08,
       "weights": [
@@ -722,7 +722,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Method Nylon 12 CF {color_name}",
+      "name": "Method {color_name}",
       "material": "PA12-CF",
       "density": 1.15,
       "weights": [
@@ -752,7 +752,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series Nylon CF Slide {color_name}",
+      "name": "S Series Slide {color_name}",
       "material": "PA-CF",
       "density": 1.2,
       "weights": [
@@ -783,7 +783,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "S Series PPS CF {color_name}",
+      "name": "S Series {color_name}",
       "material": "PPS-CF",
       "density": 1.35,
       "weights": [

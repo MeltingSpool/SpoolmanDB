@@ -2,7 +2,7 @@
   "manufacturer": "Kexcelled",
   "filaments": [
     {
-      "name": "Kexcelled PLA K5 {color_name}",
+      "name": "K5 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -42,7 +42,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Kexcelled PETG K5 {color_name}",
+      "name": "K5 {color_name}",
       "material": "PETG",
       "density": 1.25,
       "weights": [
@@ -74,7 +74,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Kexcelled ABS K5 {color_name}",
+      "name": "K5 {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -102,7 +102,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Kexcelled PLA K5 Matte {color_name}",
+      "name": "K5 Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

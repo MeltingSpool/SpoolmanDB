@@ -4723,7 +4723,7 @@
       "country_of_origin": "SI"
     },
     {
-      "name": "ABS Prime {color_name}",
+      "name": "Prime {color_name}",
       "material": "ABS",
       "density": 1.13,
       "weights": [
@@ -4769,8 +4769,8 @@
       "country_of_origin": "SI"
     },
     {
-      "name": "PA6 Carbonfiber nylon {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.08,
       "weights": [
         {
@@ -4794,8 +4794,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Carbonfiber PET {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-CF",
       "density": 1.27,
       "weights": [
         {
@@ -4819,7 +4819,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4843,7 +4843,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4867,7 +4867,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4891,7 +4891,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4915,7 +4915,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4939,7 +4939,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4963,7 +4963,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -4987,7 +4987,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5011,7 +5011,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5035,7 +5035,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5059,7 +5059,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5083,7 +5083,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5107,7 +5107,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5131,7 +5131,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5155,7 +5155,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5179,7 +5179,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5203,7 +5203,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5226,7 +5226,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5249,7 +5249,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5272,7 +5272,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5295,7 +5295,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5318,7 +5318,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5341,7 +5341,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5364,7 +5364,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5387,7 +5387,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5410,7 +5410,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5433,7 +5433,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5456,7 +5456,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5479,7 +5479,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5502,7 +5502,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5525,7 +5525,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5548,7 +5548,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5571,7 +5571,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5594,7 +5594,7 @@
       "bed_temp": 75
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5618,7 +5618,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5642,7 +5642,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5666,7 +5666,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5690,7 +5690,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5714,7 +5714,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5738,7 +5738,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5762,7 +5762,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5786,7 +5786,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5810,7 +5810,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5834,7 +5834,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5858,7 +5858,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5882,7 +5882,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5906,7 +5906,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5930,7 +5930,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5954,7 +5954,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5977,7 +5977,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6000,7 +6000,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6023,7 +6023,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6046,7 +6046,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6069,7 +6069,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6092,7 +6092,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6115,7 +6115,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6138,7 +6138,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6161,7 +6161,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6184,7 +6184,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6207,7 +6207,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6230,7 +6230,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6253,7 +6253,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6276,7 +6276,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6299,7 +6299,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6322,7 +6322,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6345,7 +6345,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6368,7 +6368,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6391,7 +6391,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6414,7 +6414,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6437,7 +6437,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6460,7 +6460,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6483,7 +6483,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6506,7 +6506,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6529,7 +6529,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6552,7 +6552,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6575,7 +6575,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6598,7 +6598,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6621,7 +6621,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6644,7 +6644,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6667,7 +6667,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6690,7 +6690,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6713,7 +6713,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6736,7 +6736,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6759,7 +6759,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6782,7 +6782,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6805,7 +6805,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6828,7 +6828,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6851,7 +6851,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6874,7 +6874,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6897,7 +6897,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6920,7 +6920,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6943,7 +6943,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6966,7 +6966,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6989,7 +6989,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7012,7 +7012,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7035,7 +7035,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7058,7 +7058,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7081,7 +7081,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7104,7 +7104,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7127,7 +7127,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7150,7 +7150,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7173,7 +7173,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7196,7 +7196,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7219,7 +7219,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7242,7 +7242,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7265,7 +7265,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7288,7 +7288,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7311,7 +7311,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7334,7 +7334,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7357,7 +7357,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7380,7 +7380,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7403,7 +7403,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7426,7 +7426,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7449,7 +7449,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7472,7 +7472,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7495,7 +7495,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7518,7 +7518,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7541,7 +7541,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7564,7 +7564,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7587,7 +7587,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7610,7 +7610,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7633,7 +7633,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7656,7 +7656,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7679,7 +7679,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7702,7 +7702,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7725,7 +7725,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7748,7 +7748,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7771,7 +7771,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7794,7 +7794,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7817,7 +7817,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7840,7 +7840,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7863,7 +7863,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7886,7 +7886,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7909,7 +7909,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7932,7 +7932,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7955,7 +7955,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7978,7 +7978,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8001,7 +8001,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8024,7 +8024,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8047,7 +8047,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8070,7 +8070,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8093,7 +8093,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8116,7 +8116,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8139,7 +8139,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8162,7 +8162,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8185,7 +8185,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8208,7 +8208,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8231,7 +8231,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8254,7 +8254,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8277,7 +8277,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8300,7 +8300,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8323,7 +8323,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8346,7 +8346,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8369,7 +8369,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8392,7 +8392,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8415,7 +8415,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8438,7 +8438,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8461,7 +8461,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8484,7 +8484,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8507,7 +8507,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Matte HS PLA {color_name}",
+      "name": "Matte HS {color_name}",
       "material": "PLA",
       "density": 1.35,
       "weights": [
@@ -8524,78 +8524,15 @@
         {
           "name": "Army Green",
           "hex": "656545"
-        }
-      ],
-      "country_of_origin": "SI",
-      "finish": "matte",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Matte HS PLA {color_name}",
-      "material": "PLA",
-      "density": 1.35,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Coral",
           "hex": "C02A29"
-        }
-      ],
-      "country_of_origin": "SI",
-      "finish": "matte",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Matte HS PLA {color_name}",
-      "material": "PLA",
-      "density": 1.35,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Creamstone",
           "hex": "D2CAAE"
-        }
-      ],
-      "country_of_origin": "SI",
-      "finish": "matte",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Matte HS PLA {color_name}",
-      "material": "PLA",
-      "density": 1.35,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Mist Grey",
           "hex": "8C9798"
@@ -8607,7 +8544,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8624,75 +8561,15 @@
         {
           "name": "Akvamarin",
           "hex": "C5EECE"
-        }
-      ],
-      "country_of_origin": "SI",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "FBE422"
-        }
-      ],
-      "country_of_origin": "SI",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Ocean blue",
           "hex": "5B95E6"
-        }
-      ],
-      "country_of_origin": "SI",
-      "extruder_temp": 210,
-      "bed_temp": 60
-    },
-    {
-      "name": "Silk PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 164
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Turquoise blue",
           "hex": "D3FDF2"
@@ -8703,7 +8580,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8738,8 +8615,8 @@
       "bed_temp": 60
     },
     {
-      "name": "TPU 85A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-85A",
       "density": 1.12,
       "weights": [
         {
@@ -8796,8 +8673,8 @@
       "country_of_origin": "SI"
     },
     {
-      "name": "TPU/TPE {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-85A",
       "density": 1.2,
       "weights": [
         {
@@ -8810,43 +8687,62 @@
       ],
       "colors": [
         {
-          "name": "Black 85A",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Black 98A",
+          "name": "Transparent",
+          "hex": "FCFDE7"
+        },
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ],
+      "country_of_origin": "SI",
+      "extruder_temp": 220,
+      "bed_temp": 45
+    },
+    {
+      "name": "{color_name}",
+      "material": "TPU-98A",
+      "density": 1.2,
+      "weights": [
+        {
+          "weight": 300,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Blue 98A",
+          "name": "Blue",
           "hex": "0E62D4"
         },
         {
-          "name": "Neon orange 98A",
+          "name": "Neon orange",
           "hex": "FF9800"
         },
         {
-          "name": "Neon yellow 98A",
+          "name": "Neon yellow",
           "hex": "CDDC39"
         },
         {
-          "name": "Red 98A",
+          "name": "Red",
           "hex": "D50000"
         },
         {
-          "name": "Transparent 85A",
+          "name": "Transparent",
           "hex": "FCFDE7"
         },
         {
-          "name": "Transparent 98A",
-          "hex": "FCFDE7"
-        },
-        {
-          "name": "White 85A",
-          "hex": "FFFFFF"
-        },
-        {
-          "name": "White 98A",
+          "name": "White",
           "hex": "FFFFFF"
         }
       ],

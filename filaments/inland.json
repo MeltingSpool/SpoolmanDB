@@ -2,7 +2,7 @@
   "manufacturer": "Inland",
   "filaments": [
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -21,387 +21,67 @@
         {
           "name": "Black",
           "hex": "000000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "White",
           "hex": "FFFFFF"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Gray",
           "hex": "585B69"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "True Red",
           "hex": "FF0000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Blue",
           "hex": "0000FF"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Green",
           "hex": "008000"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "True Green",
           "hex": "00FF00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Yellow",
           "hex": "FFFF00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Orange",
           "hex": "FFA500"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Purple",
           "hex": "800080"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Brown",
           "hex": "A52A2A"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Gold",
           "hex": "FFD700"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Silver",
           "hex": "C0C0C0"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Pink",
           "hex": "FFC0CB"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Neon Green",
           "hex": "39FF14"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Neon Orange",
           "hex": "FF5F1F"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Basic {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_weight": 200,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
+        },
         {
           "name": "Neon Yellow",
           "hex": "FFFF33"
@@ -410,7 +90,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -474,46 +154,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA+ Spooless {color_name}",
-      "material": "PLA+",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp": 220,
-      "bed_temp": 50,
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "000000"
-        },
-        {
-          "name": "White",
-          "hex": "FFFFFF"
-        },
-        {
-          "name": "True Red",
-          "hex": "FF0000"
-        },
-        {
-          "name": "Brown",
-          "hex": "A52A2A"
-        },
-        {
-          "name": "Yellow",
-          "hex": "FFFF00"
-        }
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -559,7 +200,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Tough {color_name}",
+      "name": "Tough {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -611,7 +252,7 @@
       ]
     },
     {
-      "name": "PLA Glow in Dark {color_name}",
+      "name": "Glow in Dark {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -636,7 +277,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -665,7 +306,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Dual Color Silk {color_name}",
+      "name": "Dual Color Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -694,7 +335,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Dual Color Matte {color_name}",
+      "name": "Dual Color Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -747,7 +388,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG+ {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -810,7 +451,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -875,7 +516,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG High Speed {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -903,7 +544,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG-CF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.27,
       "weights": [
@@ -940,7 +581,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PolyLite ASA {color_name}",
+      "name": "PolyLite {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -964,7 +605,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1001,7 +642,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Nylon Carbon Fiber {color_name}",
+      "name": "{color_name}",
       "material": "PA-CF",
       "density": 1.14,
       "weights": [
@@ -1037,7 +678,7 @@
       ]
     },
     {
-      "name": "PLA Twinkling {color_name}",
+      "name": "Twinkling {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1063,7 +704,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Tough Metallic {color_name}",
+      "name": "Tough Metallic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1087,7 +728,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1311,7 +952,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1388,7 +1029,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glow ABS {color_name}",
+      "name": "Glow {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1418,8 +1059,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "High Speed PLA+ {color_name}",
-      "material": "PLA",
+      "name": "High Speed {color_name}",
+      "material": "PLA+",
       "density": 1.24,
       "weights": [
         {
@@ -1533,7 +1174,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Chameleon {color_name}",
+      "name": "Chameleon {color_name}",
       "material": "PLA",
       "density": 1.19,
       "weights": [
@@ -1556,7 +1197,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Pla Glitter Rainbow {color_name}",
+      "name": "Glitter Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1589,7 +1230,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Mystic Silk {color_name}",
+      "name": "Mystic Silk {color_name}",
       "material": "PLA",
       "density": 1.19,
       "weights": [
@@ -1612,7 +1253,7 @@
       "bed_temp": 60
     },
     {
-      "name": "Pla Silk Rainbow {color_name}",
+      "name": "Silk Rainbow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1645,7 +1286,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

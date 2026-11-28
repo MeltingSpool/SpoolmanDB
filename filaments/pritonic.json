@@ -2,7 +2,7 @@
   "manufacturer": "Pritonic",
   "filaments": [
     {
-      "name": "PLA+ Pritonic {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -34,7 +34,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Hyper Pritonic {color_name}",
+      "name": "Hyper {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -73,7 +73,7 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA Matt Pritonic {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -98,8 +98,8 @@
       "bed_temp": 60
     },
     {
-      "name": "PLA+ Pritonic plastic spool {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA+",
       "density": 1.24,
       "weights": [
         {

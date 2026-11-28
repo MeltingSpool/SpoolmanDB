@@ -2,7 +2,7 @@
   "manufacturer": "Stronghero3D",
   "filaments": [
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -108,7 +108,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -160,7 +160,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.28,
       "fill": "wood",
@@ -194,7 +194,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Stone PLA {color_name}",
+      "name": "Stone {color_name}",
       "material": "PLA",
       "density": 1.25,
       "weights": [
@@ -253,7 +253,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -612,7 +612,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -788,7 +788,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

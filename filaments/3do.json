@@ -2,7 +2,7 @@
   "manufacturer": "3DO",
   "filaments": [
     {
-      "name": "PLA 2.0 Tough {color_name}",
+      "name": "2.0 Tough {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -129,7 +129,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -202,7 +202,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PETG 2.0 Matt {color_name}",
+      "name": "2.0 Matte {color_name}",
       "material": "PETG",
       "density": 1.41,
       "weights": [
@@ -291,7 +291,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.29,
       "weights": [
@@ -337,7 +337,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -466,7 +466,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "ASA-CF {color_name}",
+      "name": "{color_name}",
       "material": "ASA-CF",
       "density": 1.14,
       "weights": [
@@ -520,7 +520,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "ASA-GF {color_name}",
+      "name": "{color_name}",
       "material": "ASA-GF",
       "density": 1.1,
       "weights": [
@@ -566,7 +566,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PC-PBT {color_name}",
+      "name": "{color_name}",
       "material": "PC+PBT",
       "density": 1.2,
       "weights": [
@@ -596,7 +596,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PC-PBT-CF {color_name}",
+      "name": "{color_name}",
       "material": "PC+PBT-CF",
       "density": 1.2,
       "weights": [
@@ -627,7 +627,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "TPU-CF {color_name}",
+      "name": "{color_name}",
       "material": "TPU-CF",
       "density": 1.22,
       "weights": [
@@ -658,7 +658,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -688,7 +688,7 @@
       "country_of_origin": "DK"
     },
     {
-      "name": "PA12-CF {color_name}",
+      "name": "{color_name}",
       "material": "PA12-CF",
       "density": 1.03,
       "weights": [

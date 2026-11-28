@@ -2,7 +2,7 @@
   "manufacturer": "Filament PM",
   "filaments": [
     {
-      "name": "PM PLA {color_name}",
+      "name": "PM {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -61,7 +61,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PM PETG {color_name}",
+      "name": "PM {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -116,7 +116,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -139,56 +139,56 @@
           "hex": "0378D0"
         },
         {
-          "name": "Extrafill \"Cobalt Blue\"",
+          "name": "Extrafill Cobalt Blue",
           "hex": "1F2761"
         },
         {
-          "name": "Extrafill \"Concrete Grey\"",
+          "name": "Extrafill Concrete Grey",
           "hex": "C5C5BF"
         },
         {
-          "name": "Extrafill \"Luminous Orange\"",
+          "name": "Extrafill Luminous Orange",
           "hex": "F47D59"
         },
         {
-          "name": "Extrafill \"Metallic Grey\"",
+          "name": "Extrafill Metallic Grey",
           "hex": "ACB1BA"
         },
         {
-          "name": "Extrafill \"Natural\"",
+          "name": "Extrafill Natural",
           "hex": "EADAC2"
         },
         {
-          "name": "Extrafill \"Signal Brown\"",
+          "name": "Extrafill Signal Brown",
           "hex": "A6662E"
         },
         {
-          "name": "Extrafill \"Sky Blue\"",
+          "name": "Extrafill Sky Blue",
           "hex": "40B6E4"
         },
         {
-          "name": "Extrafill \"Traffic Black\"",
+          "name": "Extrafill Traffic Black",
           "hex": "000000"
         },
         {
-          "name": "Extrafill \"Traffic Red\"",
+          "name": "Extrafill Traffic Red",
           "hex": "DF3303"
         },
         {
-          "name": "Extrafill \"Traffic White\"",
+          "name": "Extrafill Traffic White",
           "hex": "FFFFFF"
         },
         {
-          "name": "Extrafill \"Traffic Yellow\"",
+          "name": "Extrafill Traffic Yellow",
           "hex": "FBE200"
         },
         {
-          "name": "Extrafill \"Transparent\"",
+          "name": "Extrafill Transparent",
           "hex": "F2EFE9",
           "translucent": true
         },
         {
-          "name": "Extrafill \"Turquoise Green\"",
+          "name": "Extrafill Turquoise Green",
           "hex": "267F67"
         },
         {
@@ -263,7 +263,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -290,63 +290,63 @@
           "hex": "8E5850"
         },
         {
-          "name": "Extrafill \"Anthracite Grey\"",
+          "name": "Extrafill Anthracite Grey",
           "hex": "3F4647"
         },
         {
-          "name": "Extrafill \"Dijon Mustard\"",
+          "name": "Extrafill Dijon Mustard",
           "hex": "C3B626"
         },
         {
-          "name": "Extrafill \"Green Grass\"",
+          "name": "Extrafill Green Grass",
           "hex": "91CB67"
         },
         {
-          "name": "Extrafill \"Grey Blue\"",
+          "name": "Extrafill Grey Blue",
           "hex": "4D6383"
         },
         {
-          "name": "Extrafill \"Metallic Grey\"",
+          "name": "Extrafill Metallic Grey",
           "hex": "C5C7C4"
         },
         {
-          "name": "Extrafill \"Natural\"",
+          "name": "Extrafill Natural",
           "hex": "F2EFE9"
         },
         {
-          "name": "Extrafill \"Sky Blue\"",
+          "name": "Extrafill Sky Blue",
           "hex": "40B6E4"
         },
         {
-          "name": "Extrafill \"Snow White\"",
+          "name": "Extrafill Snow White",
           "hex": "F5F5F4"
         },
         {
-          "name": "Extrafill \"Traffic Black\"",
+          "name": "Extrafill Traffic Black",
           "hex": "000000"
         },
         {
-          "name": "Extrafill \"Traffic Red\"",
+          "name": "Extrafill Traffic Red",
           "hex": "E20010"
         },
         {
-          "name": "Extrafill \"Traffic White\"",
+          "name": "Extrafill Traffic White",
           "hex": "FFFFFF"
         },
         {
-          "name": "Extrafill \"Traffic Yellow\"",
+          "name": "Extrafill Traffic Yellow",
           "hex": "FBE200"
         },
         {
-          "name": "Extrafill \"Vertigo Grey\"",
+          "name": "Extrafill Vertigo Grey",
           "hex": "727376"
         },
         {
-          "name": "Extrafill \"Vivid Pink\"",
+          "name": "Extrafill Vivid Pink",
           "hex": "DA445A"
         },
         {
-          "name": "Extrafill \"White Aluminium\"",
+          "name": "Extrafill White Aluminium",
           "hex": "BFC3C2"
         },
         {
@@ -446,107 +446,107 @@
       ],
       "colors": [
         {
-          "name": "\"Army Green\"",
+          "name": "Army Green",
           "hex": "144F3B"
         },
         {
-          "name": "\"Black Soul\"",
+          "name": "Black Soul",
           "hex": "000000"
         },
         {
-          "name": "\"Caramel Brown Metallic\"",
+          "name": "Caramel Brown Metallic",
           "hex": "BE6730"
         },
         {
-          "name": "\"Deep Sea Transparent\"",
+          "name": "Deep Sea Transparent",
           "hex": "0099E6",
           "translucent": true
         },
         {
-          "name": "\"Flash Yellow Metallic\"",
+          "name": "Flash Yellow Metallic",
           "hex": "FFFB00"
         },
         {
-          "name": "\"Flirty Plum\"",
+          "name": "Flirty Plum",
           "hex": "C75072"
         },
         {
-          "name": "\"Ghost White\"",
+          "name": "Ghost White",
           "hex": "F5F5F4"
         },
         {
-          "name": "\"Grey Mouse Transparent\"",
+          "name": "Grey Mouse Transparent",
           "hex": "949597",
           "translucent": true
         },
         {
-          "name": "\"Iced Green Transparent\"",
+          "name": "Iced Green Transparent",
           "hex": "39B9DB",
           "translucent": true
         },
         {
-          "name": "\"Jungle Green Metallic\"",
+          "name": "Jungle Green Metallic",
           "hex": "15817B"
         },
         {
-          "name": "\"Lagoon Transparent\"",
+          "name": "Lagoon Transparent",
           "hex": "00B4BC",
           "translucent": true
         },
         {
-          "name": "\"Lemonade Translucent\"",
+          "name": "Lemonade Translucent",
           "hex": "FBE200",
           "translucent": true
         },
         {
-          "name": "\"Mistake Blue Metallic\"",
+          "name": "Mistake Blue Metallic",
           "hex": "40B6E4"
         },
         {
-          "name": "\"Morning Sun Transparent\"",
+          "name": "Morning Sun Transparent",
           "hex": "E3B145",
           "translucent": true
         },
         {
-          "name": "\"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9",
           "translucent": true
         },
         {
-          "name": "\"Neon Orange Transparent\"",
+          "name": "Neon Orange Transparent",
           "hex": "F67405",
           "translucent": true
         },
         {
-          "name": "\"Neon Pink Transparent\"",
+          "name": "Neon Pink Transparent",
           "hex": "F54053",
           "translucent": true
         },
         {
-          "name": "\"Neon Yellow Transparent\"",
+          "name": "Neon Yellow Transparent",
           "hex": "FFFB00",
           "translucent": true
         },
         {
-          "name": "\"Pink Blush Transparent\"",
+          "name": "Pink Blush Transparent",
           "hex": "FD64B3",
           "translucent": true
         },
         {
-          "name": "\"Pistachio Green\"",
+          "name": "Pistachio Green",
           "hex": "BBDB4B"
         },
         {
-          "name": "\"Red Hood Transparent\"",
+          "name": "Red Hood Transparent",
           "hex": "D21B3C",
           "translucent": true
         },
         {
-          "name": "\"UFO Blue Metallic\"",
+          "name": "UFO Blue Metallic",
           "hex": "4F7BBB"
         },
         {
-          "name": "\"Vertigo Grey\"",
+          "name": "Vertigo Grey",
           "hex": "6A6C6E"
         }
       ],
@@ -576,19 +576,19 @@
       ],
       "colors": [
         {
-          "name": "\"Metallic Grey\"",
+          "name": "Metallic Grey",
           "hex": "C5C5BF"
         },
         {
-          "name": "\"Signal Red\"",
+          "name": "Signal Red",
           "hex": "F00C00"
         },
         {
-          "name": "\"Sky Blue\"",
+          "name": "Sky Blue",
           "hex": "0099E6"
         },
         {
-          "name": "\"Traffic Black\"",
+          "name": "Traffic Black",
           "hex": "000000"
         }
       ],
@@ -618,7 +618,7 @@
       ],
       "colors": [
         {
-          "name": "Extrafill \"Natural\"",
+          "name": "Extrafill Natural",
           "hex": "F2EFE9"
         }
       ],
@@ -634,8 +634,8 @@
       "finish": "matte"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.01,
       "weights": [
         {
@@ -649,11 +649,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon CF15 Carbon",
-          "hex": "565459"
-        },
-        {
-          "name": "PA-CFJet - Black",
+          "name": "Jet Black",
           "hex": "000000"
         }
       ],
@@ -669,7 +665,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -684,7 +680,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon AF80 Aramid",
+          "name": "Aramid",
           "hex": "F1E6B2"
         }
       ],
@@ -699,7 +695,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PA6 CF {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -714,38 +710,7 @@
       ],
       "colors": [
         {
-          "name": "0rCA® | Nylon + CF10",
-          "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        250,
-        290
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "CZ",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "PA6 {color_name}",
-      "material": "PA6",
-      "density": 1.14,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Porthcurno | Nylon",
+          "name": "Porthcurno",
           "hex": "00B4BC",
           "translucent": true
         }
@@ -761,7 +726,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -795,8 +760,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Flexfill 90A Peba {color_name}",
-      "material": "PEBA",
+      "name": "Flexfill {color_name}",
+      "material": "PEBA-90A",
       "density": 1.24,
       "weights": [
         {
@@ -810,27 +775,27 @@
       ],
       "colors": [
         {
-          "name": "\"Black Transparent\"",
+          "name": "Black Transparent",
           "hex": "000000",
           "translucent": true
         },
         {
-          "name": "\"Blue Transparent\"",
+          "name": "Blue Transparent",
           "hex": "2C3294",
           "translucent": true
         },
         {
-          "name": "\"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9",
           "translucent": true
         },
         {
-          "name": "\"Red Transparent\"",
+          "name": "Red Transparent",
           "hex": "E20010",
           "translucent": true
         },
         {
-          "name": "\"Yellow Transparent\"",
+          "name": "Yellow Transparent",
           "hex": "FBE200",
           "translucent": true
         }
@@ -840,7 +805,7 @@
       "bed_temp": 70
     },
     {
-      "name": "PEI {color_name}",
+      "name": "{color_name}",
       "material": "PEI",
       "density": 1.27,
       "weights": [
@@ -871,8 +836,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -902,7 +867,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -917,7 +882,7 @@
       ],
       "colors": [
         {
-          "name": "\"Aloe Green\"",
+          "name": "Aloe Green",
           "hex": "00CC00"
         },
         {
@@ -925,7 +890,7 @@
           "hex": "000000"
         },
         {
-          "name": "\"Black Soul\"",
+          "name": "Black Soul",
           "hex": "000000"
         },
         {
@@ -933,16 +898,16 @@
           "hex": "0078BF"
         },
         {
-          "name": "\"Bunny Blue Transparent\"",
+          "name": "Bunny Blue Transparent",
           "hex": "0078BF",
           "translucent": true
         },
         {
-          "name": "\"Calendula Orange\"",
+          "name": "Calendula Orange",
           "hex": "FF8400"
         },
         {
-          "name": "\"Copper With Me\"",
+          "name": "Copper With Me",
           "hex": "96511A"
         },
         {
@@ -950,16 +915,16 @@
           "hex": "9F6979"
         },
         {
-          "name": "\"Deep Sea Transparent\"",
+          "name": "Deep Sea Transparent",
           "hex": "003287",
           "translucent": true
         },
         {
-          "name": "\"Forget-me-not Blue\"",
+          "name": "Forget-me-not Blue",
           "hex": "39B9DB"
         },
         {
-          "name": "\"Fresh Poison Transparent\"",
+          "name": "Fresh Poison Transparent",
           "hex": "7FE200",
           "translucent": true
         },
@@ -972,15 +937,15 @@
           "hex": "FFFFFF"
         },
         {
-          "name": "\"Ghost White\"",
+          "name": "Ghost White",
           "hex": "FFFFFF"
         },
         {
-          "name": "\"Gold Cloud\"",
+          "name": "Gold Cloud",
           "hex": "D0BD93"
         },
         {
-          "name": "\"Greedy Dragon\"",
+          "name": "Greedy Dragon",
           "hex": "AA0101"
         },
         {
@@ -992,21 +957,21 @@
           "hex": "C5C5BF"
         },
         {
-          "name": "\"Iced Green Transparent\"",
+          "name": "Iced Green Transparent",
           "hex": "178B9F",
           "translucent": true
         },
         {
-          "name": "\"Koala Grey\"",
+          "name": "Koala Grey",
           "hex": "ACB1BA"
         },
         {
-          "name": "\"Lemon Yellow Transparent\"",
+          "name": "Lemon Yellow Transparent",
           "hex": "EA9E3F",
           "translucent": true
         },
         {
-          "name": "\"Melon Yellow\"",
+          "name": "Melon Yellow",
           "hex": "F3B400"
         },
         {
@@ -1018,22 +983,22 @@
           "hex": "3E3E3C"
         },
         {
-          "name": "\"Natural\"",
+          "name": "Natural",
           "hex": "D9D8DE",
           "translucent": true
         },
         {
-          "name": "\"Neon Orange Transparent\"",
+          "name": "Neon Orange Transparent",
           "hex": "F97429",
           "translucent": true
         },
         {
-          "name": "\"Neon Pink Transparent\"",
+          "name": "Neon Pink Transparent",
           "hex": "F14147",
           "translucent": true
         },
         {
-          "name": "\"Neon Yellow Transparent\"",
+          "name": "Neon Yellow Transparent",
           "hex": "EBFF57",
           "translucent": true
         },
@@ -1046,7 +1011,7 @@
           "hex": "FF7A33"
         },
         {
-          "name": "\"Pink Lollipop Transparent\"",
+          "name": "Pink Lollipop Transparent",
           "hex": "C80181",
           "translucent": true
         },
@@ -1059,12 +1024,12 @@
           "hex": "E72F1D"
         },
         {
-          "name": "\"Red Hood Transparent\"",
+          "name": "Red Hood Transparent",
           "hex": "AA0101",
           "translucent": true
         },
         {
-          "name": "\"Sea Wave\"",
+          "name": "Sea Wave",
           "hex": "178B9F"
         },
         {
@@ -1116,7 +1081,7 @@
           "hex": "39B9DB"
         },
         {
-          "name": "\"Vertigo Grey\"",
+          "name": "Vertigo Grey",
           "hex": "45444A"
         },
         {
@@ -1124,7 +1089,7 @@
           "hex": "FFFFFF"
         },
         {
-          "name": "\"Wizard's Voodoo\"",
+          "name": "Wizard's Voodoo",
           "hex": "1E2F5A"
         }
       ],
@@ -1139,7 +1104,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Silk PETG {color_name}",
+      "name": "Silk {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1254,7 +1219,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Extrafill PLA {color_name}",
+      "name": "Extrafill {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1460,7 +1425,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1491,7 +1456,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "MarbleJet PLA {color_name}",
+      "name": "MarbleJet {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1525,7 +1490,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1610,7 +1575,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Pearl PLA {color_name}",
+      "name": "Pearl {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1648,7 +1613,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1780,7 +1745,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1896,7 +1861,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Timberfill PLA {color_name}",
+      "name": "Timberfill {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1954,7 +1919,7 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -1999,11 +1964,11 @@
       ],
       "colors": [
         {
-          "name": "\"Black\"",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "\"Natural\"",
+          "name": "Natural",
           "hex": "F1E6B2"
         }
       ],
@@ -2088,8 +2053,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Flexfill TPE {color_name}",
-      "material": "TPE",
+      "name": "Flexfill {color_name}",
+      "material": "TPE-90A",
       "density": 1.2,
       "weights": [
         {
@@ -2103,43 +2068,69 @@
       ],
       "colors": [
         {
-          "name": "90A \"Light Grey\"",
+          "name": "Light Grey",
           "hex": "BDC8C8"
         },
         {
-          "name": "90A \"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9"
         },
         {
-          "name": "90A \"Signal Red\"",
+          "name": "Signal Red",
           "hex": "BF2B2B"
         },
         {
-          "name": "90A \"Sky Blue\"",
+          "name": "Sky Blue",
           "hex": "0099E6"
         },
         {
-          "name": "90A \"Traffic Black\"",
+          "name": "Traffic Black",
           "hex": "000000"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "CZ"
+    },
         {
-          "name": "96A \"Light Grey\"",
+      "name": "Flexfill {color_name}",
+      "material": "TPE-96A",
+      "density": 1.2,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 220
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Light Grey",
           "hex": "C3CCD5"
         },
         {
-          "name": "96A \"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9"
         },
         {
-          "name": "96A \"Signal Red\"",
+          "name": "Signal Red",
           "hex": "BF1D2D"
         },
         {
-          "name": "96A \"Sky Blue\"",
+          "name": "Sky Blue",
           "hex": "0099E6"
         },
         {
-          "name": "96A \"Traffic Black\"",
+          "name": "Traffic Black",
           "hex": "000000"
         }
       ],
@@ -2154,8 +2145,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "TPU 96 {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-96A",
       "density": 1.21,
       "weights": [
         {
@@ -2192,8 +2183,8 @@
       "country_of_origin": "CZ"
     },
     {
-      "name": "Flexfill TPU {color_name}",
-      "material": "TPU",
+      "name": "Flexfill {color_name}",
+      "material": "TPU-92A",
       "density": 1.21,
       "weights": [
         {
@@ -2207,85 +2198,111 @@
       ],
       "colors": [
         {
-          "name": "92A \"Luminous Green\"",
+          "name": "Luminous Green",
           "hex": "62E480"
         },
         {
-          "name": "92A \"Metallic Grey\"",
+          "name": "Metallic Grey",
           "hex": "C5C5BF"
         },
         {
-          "name": "92A \"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9"
         },
         {
-          "name": "92A \"Signal Red\"",
+          "name": "Signal Red",
           "hex": "DF3303"
         },
         {
-          "name": "92A \"Signal Yellow\"",
+          "name": "Signal Yellow",
           "hex": "FBE200"
         },
         {
-          "name": "92A \"Sky Blue\"",
+          "name": "Sky Blue",
           "hex": "ABD5F3"
         },
         {
-          "name": "92A \"Traffic Black\"",
+          "name": "Traffic Black",
           "hex": "000000"
-        },
+        }
+      ],
+      "extruder_temp_range": [
+        210,
+        240
+      ],
+      "bed_temp_range": [
+        30,
+        60
+      ],
+      "country_of_origin": "CZ"
+    },
+    {
+      "name": "Flexfill {color_name}",
+      "material": "TPU-98A",
+      "density": 1.21,
+      "weights": [
         {
-          "name": "98A \"Blue Transparent\"",
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 220
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Blue Transparent",
           "hex": "40B6E4",
           "translucent": true
         },
         {
-          "name": "98A \"Carrot Orange\"",
+          "name": "Carrot Orange",
           "hex": "F67405"
         },
         {
-          "name": "98A \"Luminous Green\"",
+          "name": "Luminous Green",
           "hex": "62E480"
         },
         {
-          "name": "98A \"Metallic Grey\"",
+          "name": "Metallic Grey",
           "hex": "C5C5BF"
         },
         {
-          "name": "98A \"Natural\"",
+          "name": "Natural",
           "hex": "F2EFE9",
           "translucent": true
         },
         {
-          "name": "98A \"Pistachio Green\"",
+          "name": "Pistachio Green",
           "hex": "BBDB4B"
         },
         {
-          "name": "98A \"Powder Beige\"",
+          "name": "Powder Beige",
           "hex": "E9CB9B"
         },
         {
-          "name": "98A \"Signal Red\"",
+          "name": "Signal Red",
           "hex": "DF3303"
         },
         {
-          "name": "98A \"Signal Yellow\"",
+          "name": "Signal Yellow",
           "hex": "FBE200"
         },
         {
-          "name": "98A \"Sky Blue\"",
+          "name": "Sky Blue",
           "hex": "ABD5F3"
         },
         {
-          "name": "98A \"Traffic Black\"",
+          "name": "Traffic Black",
           "hex": "000000"
         },
         {
-          "name": "98A \"Traffic White\"",
+          "name": "Traffic White",
           "hex": "FFFFFF"
         },
         {
-          "name": "98A \"Vertigo Grey\"",
+          "name": "Vertigo Grey",
           "hex": "6A6C6E"
         }
       ],

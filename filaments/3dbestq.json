@@ -2,7 +2,7 @@
   "manufacturer": "3D BEST-Q",
   "filaments": [
     {
-      "name": "PCTG {color_name}",
+      "name": "{color_name}",
       "material": "PCTG",
       "density": 1.21,
       "weights": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "GF-PC {color_name}",
+      "name": "{color_name}",
       "material": "PC-GF",
       "density": 1.3,
       "weights": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Real Wood PLA {color_name}",
+      "name": "Real Wood {color_name}",
       "material": "PLA",
       "density": 1.28,
       "weights": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Flexible TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

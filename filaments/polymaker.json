@@ -2,8 +2,8 @@
   "manufacturer": "Polymaker",
   "filaments": [
     {
-      "name": "Fiberon™ PA12-CF10 {color_name}",
-      "material": "PA",
+      "name": "Fiberon™ {color_name}",
+      "material": "PA12-CF20",
       "density": 1.06,
       "weights": [
         {
@@ -40,8 +40,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Fiberon™ PA6-CF20 {color_name}",
-      "material": "PA",
+      "name": "Fiberon™ {color_name}",
+      "material": "PA6-CF20",
       "density": 1.17,
       "weights": [
         {
@@ -85,8 +85,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Fiberon™ PA6-GF25 {color_name}",
-      "material": "PA",
+      "name": "Fiberon™ {color_name}",
+      "material": "PA6-GF25",
       "density": 1.2,
       "weights": [
         {
@@ -130,8 +130,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Fiberon™ PA612-CF15 {color_name}",
-      "material": "PA",
+      "name": "Fiberon™ {color_name}",
+      "material": "PA612-CF15",
       "density": 1.03,
       "weights": [
         {
@@ -173,8 +173,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Fiberon™ PA612-ESD {color_name}",
-      "material": "PA",
+      "name": "Fiberon™ ESD {color_name}",
+      "material": "PA612",
       "density": 1.1,
       "weights": [
         {
@@ -209,8 +209,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Fiberon™ PET-CF17 {color_name}",
-      "material": "PET-CF",
+      "name": "Fiberon™ {color_name}",
+      "material": "PET-CF17",
       "density": 1.34,
       "weights": [
         {
@@ -246,7 +246,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Fiberon™ PETG-ESD {color_name}",
+      "name": "Fiberon™ ESD {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -290,8 +290,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Fiberon™ PETG-rCF08 {color_name}",
-      "material": "PETG",
+      "name": "Fiberon™ {color_name}",
+      "material": "PETG-rCF08",
       "density": 1.3,
       "weights": [
         {
@@ -326,8 +326,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Fiberon™ PPS-CF10 {color_name}",
-      "material": "PPS-CF",
+      "name": "Fiberon™ {color_name}",
+      "material": "PPS-CF10",
       "density": 1.29,
       "weights": [
         {
@@ -363,7 +363,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Fiberon™ PPS-GF20 {color_name}",
+      "name": "Fiberon™ {color_name}",
       "material": "PPS-GF20",
       "density": 1.36,
       "weights": [
@@ -489,7 +489,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PolyFlex™ TPU90 {color_name}",
+      "name": "PolyFlex™ TPU90 {color_name}",
       "material": "TPU",
       "density": 1.12,
       "weights": [
@@ -577,7 +577,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PolyFlex™ TPU95 {color_name}",
+      "name": "PolyFlex™ TPU95 {color_name}",
       "material": "TPU",
       "density": 1.22,
       "weights": [
@@ -677,7 +677,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PolyFlex™ TPU95-HF {color_name}",
+      "name": "PolyFlex™ TPU95-HF {color_name}",
       "material": "TPU",
       "density": 1.16,
       "weights": [
@@ -2139,7 +2139,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Panchroma™ Dual Matte PLA {color_name}",
+      "name": "Panchroma™ Dual Matte {color_name}",
       "material": "PLA",
       "density": 1.37,
       "weights": [
@@ -2985,8 +2985,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Polymaker PC-ABS {color_name}",
-      "material": "PC",
+      "name": "{color_name}",
+      "material": "PC-ABS",
       "density": 1.1,
       "weights": [
         {
@@ -3037,8 +3037,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Polymaker PC-PBT {color_name}",
-      "material": "PC",
+      "name": "{color_name}",
+      "material": "PC-PBT",
       "density": 1.2,
       "weights": [
         {
@@ -3190,7 +3190,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PolyMax™ PC-FR {color_name}",
+      "name": "PolyMax™ PC-FR {color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -3478,7 +3478,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PolyMide™ CoPA {color_name}",
+      "name": "PolyMide™ CoPA {color_name}",
       "material": "PA",
       "density": 1.12,
       "weights": [
@@ -5050,7 +5050,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Galaxy PLA {color_name}",
+      "name": "Panchroma™ Galaxy {color_name}",
       "density": 1.17,
       "pattern": "sparkle",
       "colors": [
@@ -5121,7 +5121,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Neon PLA {color_name}",
+      "name": "Panchroma™ Neon {color_name}",
       "density": 1.17,
       "colors": [
         {
@@ -5172,7 +5172,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Metallic PLA {color_name}",
+      "name": "Panchroma™ Metallic {color_name}",
       "density": 1.17,
       "pattern": "sparkle",
       "colors": [
@@ -5225,7 +5225,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Satin PLA {color_name}",
+      "name": "Panchroma™ Satin {color_name}",
       "density": 1.24,
       "colors": [
         {
@@ -5322,7 +5322,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Glow PLA {color_name}",
+      "name": "Panchroma™ Glow {color_name}",
       "density": 1.17,
       "colors": [
         {
@@ -5389,7 +5389,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ UV Shift PLA {color_name}",
+      "name": "Panchroma™ UV Shift {color_name}",
       "density": 1.17,
       "colors": [
         {
@@ -5420,7 +5420,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Dual Silk PLA {color_name}",
+      "name": "Panchroma™ Dual Silk {color_name}",
       "density": 1.24,
       "colors": [
         {
@@ -5582,7 +5582,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Dual Special PLA {color_name}",
+      "name": "Panchroma™ Dual Special {color_name}",
       "density": 1.24,
       "colors": [
         {
@@ -5752,7 +5752,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Gradient Matte PLA {color_name}",
+      "name": "Panchroma™ Gradient Matte {color_name}",
       "density": 1.37,
       "finish": "matte",
       "colors": [
@@ -5855,7 +5855,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Gradient Satin PLA {color_name}",
+      "name": "Panchroma™ Gradient Satin {color_name}",
       "density": 1.24,
       "colors": [
         {
@@ -5894,7 +5894,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Gradient Silk PLA {color_name}",
+      "name": "Panchroma™ Gradient Silk {color_name}",
       "density": 1.24,
       "colors": [
         {
@@ -5974,7 +5974,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Gradient Translucent PLA {color_name}",
+      "name": "Panchroma™ Gradient Translucent {color_name}",
       "density": 1.17,
       "translucent": true,
       "colors": [
@@ -6012,7 +6012,7 @@
         25,
         60
       ],
-      "name": "Panchroma™ Gradient Galaxy PLA {color_name}",
+      "name": "Panchroma™ Gradient Galaxy {color_name}",
       "density": 1.17,
       "pattern": "sparkle",
       "colors": [
@@ -6218,8 +6218,8 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.01,
       "weights": [
         {
@@ -6250,8 +6250,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.14,
       "weights": [
         {
@@ -6282,8 +6282,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 GF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-GF",
       "density": 1.14,
       "weights": [
         {
@@ -6349,7 +6349,7 @@
       "tds_url": "https://wiki.polymaker.com/en/PolyMide_CoPA_TDS"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -6416,8 +6416,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -6448,7 +6448,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.25,
       "weights": [
@@ -6570,7 +6570,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Army Panchroma Matte PLA {color_name}",
+      "name": "Army Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -6622,7 +6622,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Celestial Panchroma PLA {color_name}",
+      "name": "Celestial Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6661,7 +6661,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Creator Special Edition PLA {color_name}",
+      "name": "Creator Special Edition {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6700,7 +6700,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Draft PLA {color_name}",
+      "name": "Draft {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -6725,7 +6725,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Dual Panchroma Matte PLA {color_name}",
+      "name": "Dual Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -6863,7 +6863,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "For Production Matte PLA {color_name}",
+      "name": "For Production Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -6899,7 +6899,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Galaxy Panchroma PLA {color_name}",
+      "name": "Galaxy Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6946,7 +6946,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Gradient Panchroma Matte PLA {color_name}",
+      "name": "Gradient Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -7002,7 +7002,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Gradient Panchroma PLA {color_name}",
+      "name": "Gradient Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7173,7 +7173,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "LW PolyLite PLA {color_name}",
+      "name": "LW PolyLite {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7228,7 +7228,7 @@
       "tds_url": "https://wiki.polymaker.com/en/PolyLite_PLA_TDS"
     },
     {
-      "name": "Marble Panchroma PLA {color_name}",
+      "name": "Marble Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7275,7 +7275,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -7310,7 +7310,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Metallic Panchroma PLA {color_name}",
+      "name": "Metallic Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7349,7 +7349,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Metallic PolyLite PLA {color_name}",
+      "name": "Metallic PolyLite {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7400,7 +7400,7 @@
       "tds_url": "https://wiki.polymaker.com/en/PolyLite_PLA_TDS"
     },
     {
-      "name": "Metallic Polylite Silk PLA {color_name}",
+      "name": "Metallic Polylite Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7435,7 +7435,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Muted Panchroma Matte PLA {color_name}",
+      "name": "Muted Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -7483,7 +7483,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Neon Panchroma PLA {color_name}",
+      "name": "Neon Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7534,7 +7534,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Panchroma Matte PLA {color_name}",
+      "name": "Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -7670,7 +7670,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Panchroma PLA {color_name}",
+      "name": "Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7762,7 +7762,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Panchroma Silk PLA {color_name}",
+      "name": "Panchroma Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7925,7 +7925,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Pastel Panchroma Matte PLA {color_name}",
+      "name": "Pastel Panchroma Matte {color_name}",
       "material": "PLA",
       "density": 1.31,
       "weights": [
@@ -7985,7 +7985,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8028,7 +8028,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PLA PolyCast {color_name}",
+      "name": "PolyCast {color_name}",
       "material": "PLA",
       "density": 1.1,
       "weights": [
@@ -8097,7 +8097,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA PolySmooth {color_name}",
+      "name": "PolySmooth {color_name}",
       "material": "PLA",
       "density": 1.1,
       "weights": [
@@ -8163,7 +8163,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Satin Panchroma PLA {color_name}",
+      "name": "Satin Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8222,7 +8222,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Starlight Panchroma PLA {color_name}",
+      "name": "Starlight Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8289,7 +8289,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Temp Shift Panchroma PLA {color_name}",
+      "name": "Temp Shift Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8325,7 +8325,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Translucent Panchroma PLA {color_name}",
+      "name": "Translucent Panchroma {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -8376,7 +8376,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "Wood PLA {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 0.8,
       "weights": [
@@ -8478,7 +8478,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PVA PolySupport for PLA {color_name}",
+      "name": "PVA PolySupport for {color_name}",
       "material": "PVA",
       "density": 1.22,
       "weights": [
@@ -8504,7 +8504,7 @@
       "tds_url": "https://wiki.polymaker.com/en/Technical_Data_Sheets"
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.23,
       "weights": [

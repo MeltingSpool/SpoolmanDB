@@ -2,7 +2,7 @@
   "manufacturer": "3Dfinity",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "name": "Luminous PLA {color_name}",
+      "name": "Luminous {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "name": "PLA-CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "name": "PETG Transparent {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -421,43 +421,38 @@
         50,
         80
       ],
+      "translucent": true,
       "country_of_origin": "SK",
       "tds_url": "https://eshop.3dfinity.sk/user/related_files/tds_petg-6.pdf",
       "colors": [
         {
           "name": "Clear",
-          "hex": "ffffff",
-          "translucent": true
+          "hex": "ffffff"
         },
         {
           "name": "Persian Blue",
-          "hex": "0f52ba",
-          "translucent": true
+          "hex": "0f52ba"
         },
         {
           "name": "Green",
-          "hex": "008000",
-          "translucent": true
+          "hex": "008000"
         },
         {
           "name": "Orange",
-          "hex": "ff6600",
-          "translucent": true
+          "hex": "ff6600"
         },
         {
           "name": "Crimson Red",
-          "hex": "dc143c",
-          "translucent": true
+          "hex": "dc143c"
         },
         {
           "name": "Jungle Green",
-          "hex": "29ab87",
-          "translucent": true
+          "hex": "29ab87"
         }
       ]
     },
     {
-      "name": "PETG-CF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.27,
       "weights": [
@@ -495,7 +490,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

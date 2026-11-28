@@ -2,7 +2,7 @@
   "manufacturer": "Super-Filament",
   "filaments": [
     {
-      "name": "PLA PRO (Standard) {color_name}",
+      "name": "PRO {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -103,7 +103,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO+ {color_name}",
+      "name": "PRO {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -164,7 +164,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Matte {color_name}",
+      "name": "PRO Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -214,7 +214,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Carbon {color_name}",
+      "name": "PRO {color_name}",
       "material": "PLA-CF",
       "density": 1.24,
       "weights": [
@@ -244,7 +244,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Wood {color_name}",
+      "name": "PRO Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -282,7 +282,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Glow in the Dark {color_name}",
+      "name": "PRO Glow in the Dark {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -312,7 +312,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Glitter {color_name}",
+      "name": "PRO Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -358,7 +358,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Silk {color_name}",
+      "name": "PRO Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -428,7 +428,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA PRO Marble {color_name}",
+      "name": "PRO Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

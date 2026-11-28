@@ -33,66 +33,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte Tri Color {color_name}",
-      "material": "PETG+PLUS",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        210,
-        230
-      ],
-      "bed_temp_range": [
-        65,
-        65
-      ],
-      "colors": [
-        {
-          "name": "Red-Golg-Purple",
-          "hex": "ff0000"
-        }
-      ],
-      "finish": "matte",
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "Multicolor Multicolor {color_name}",
-      "material": "PETG+PLUS",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        210,
-        230
-      ],
-      "bed_temp_range": [
-        65,
-        65
-      ],
-      "colors": [
-        {
-          "name": "Purple - Blue",
-          "hex": "c800ff"
-        }
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -118,7 +59,7 @@
           "hex": "000000"
         },
         {
-          "name": "grey",
+          "name": "Grey",
           "hex": "575757"
         },
         {
@@ -137,8 +78,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG+PLUS {color_name}",
-      "material": "PETG+PLUS",
+      "name": "{color_name}",
+      "material": "PETG+",
       "density": 1.24,
       "weights": [
         {
@@ -174,7 +115,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -215,7 +156,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -264,7 +205,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -293,7 +234,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -388,37 +329,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Translucent {color_name}",
-      "material": "PETG",
-      "density": 1.27,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        85
-      ],
-      "colors": [
-        {
-          "name": "Clear",
-          "hex": "ffffff"
-        }
-      ],
-      "country_of_origin": "CN"
-    },
-    {
       "name": "Transparent {color_name}",
-      "material": "PETG+PLUS",
+      "material": "PETG+",
       "density": 1.24,
       "weights": [
         {

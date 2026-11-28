@@ -2,8 +2,8 @@
   "manufacturer": "Tectonic 3D",
   "filaments": [
     {
-      "name": "Aura ASA+ {color_name}",
-      "material": "ASA",
+      "name": "Aura {color_name}",
+      "material": "ASA+",
       "density": 1.07,
       "weights": [
         {
@@ -77,7 +77,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Kratir PET CF {color_name}",
+      "name": "Kratir {color_name}",
       "material": "PET-CF",
       "density": 1.4,
       "weights": [
@@ -112,8 +112,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Kratir PA6/66 CF {color_name}",
-      "material": "PA-CF",
+      "name": "Kratir {color_name}",
+      "material": "PA6-CF",
       "density": 1.17,
       "weights": [
         {
@@ -147,7 +147,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Zephyr PA11 CF MC {color_name}",
+      "name": "Zephyr MC {color_name}",
       "material": "PA11-CF",
       "density": 0.85,
       "weights": [
@@ -182,7 +182,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Aura ABS {color_name}",
+      "name": "Aura {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -228,7 +228,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Aura Co Polyester Cpe {color_name}",
+      "name": "Aura {color_name}",
       "material": "CPE",
       "density": 1.25,
       "weights": [
@@ -262,39 +262,8 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "PA11 CF {color_name}",
-      "material": "PA11",
-      "density": 1.03,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "KRATIR CF Black",
-          "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        240,
-        270
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "NL",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "Zephyr CF MC CF PA11 {color_name}",
-      "material": "PA11",
+      "name": "Kratir {color_name}",
+      "material": "PA11-CF",
       "density": 1.03,
       "weights": [
         {
@@ -324,8 +293,39 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 CF {color_name}",
-      "material": "PA6",
+      "name": "Zephyr MC {color_name}",
+      "material": "PA11-CF",
+      "density": 1.03,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 230
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        }
+      ],
+      "extruder_temp_range": [
+        240,
+        270
+      ],
+      "bed_temp_range": [
+        80,
+        100
+      ],
+      "country_of_origin": "NL",
+      "fill": "carbon fiber"
+    },
+    {
+      "name": "Kratir {color_name}",
+      "material": "PA6-CF",
       "density": 1.14,
       "weights": [
         {
@@ -339,7 +339,7 @@
       ],
       "colors": [
         {
-          "name": "KRATIR /66 CF Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -355,8 +355,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PC {color_name}",
-      "material": "PC",
+      "name": "Pyra FR {color_name}",
+      "material": "PC+ABS",
       "density": 1.2,
       "weights": [
         {
@@ -370,7 +370,7 @@
       ],
       "colors": [
         {
-          "name": "PYRA /ABS FR Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -385,8 +385,8 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "PEEK CF {color_name}",
-      "material": "PEEK",
+      "name": "Kratir {color_name}",
+      "material": "PEEK-CF",
       "density": 1.3,
       "weights": [
         {
@@ -400,7 +400,7 @@
       ],
       "colors": [
         {
-          "name": "KRATIR r CF Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -416,7 +416,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Vulcan 1010 PEI {color_name}",
+      "name": "Vulcan 1010 {color_name}",
       "material": "PEI",
       "density": 1.27,
       "weights": [
@@ -446,7 +446,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Vulcan 9085 PEI {color_name}",
+      "name": "Vulcan 9085 {color_name}",
       "material": "PEI",
       "density": 1.27,
       "weights": [
@@ -476,7 +476,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Vulcan A PEKK {color_name}",
+      "name": "Vulcan A {color_name}",
       "material": "PEKK",
       "density": 1.3,
       "weights": [
@@ -506,7 +506,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Vulcan SC PEKK {color_name}",
+      "name": "Vulcan SC {color_name}",
       "material": "PEKK",
       "density": 1.3,
       "weights": [
@@ -536,8 +536,8 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "PET CF {color_name}",
-      "material": "PET",
+      "name": "KRATIR {color_name}",
+      "material": "PET-CF",
       "density": 1.38,
       "weights": [
         {
@@ -551,7 +551,7 @@
       ],
       "colors": [
         {
-          "name": "KRATIR CF Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -567,7 +567,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Aura PETG {color_name}",
+      "name": "Aura {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -605,7 +605,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "Aura PLA {color_name}",
+      "name": "Aura {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -643,38 +643,7 @@
       "country_of_origin": "NL"
     },
     {
-      "name": "PP CF {color_name}",
-      "material": "PP",
-      "density": 0.9,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "KRATIR CF",
-          "hex": "000000"
-        }
-      ],
-      "extruder_temp_range": [
-        210,
-        240
-      ],
-      "bed_temp_range": [
-        80,
-        100
-      ],
-      "country_of_origin": "NL",
-      "fill": "carbon fiber"
-    },
-    {
-      "name": "Atar FST1 PPE {color_name}",
+      "name": "Atar FST1 {color_name}",
       "material": "PPE",
       "density": 1.11,
       "weights": [
@@ -698,7 +667,7 @@
       "bed_temp": 100
     },
     {
-      "name": "Vulcan PPSU {color_name}",
+      "name": "Vulcan {color_name}",
       "material": "PPSU",
       "density": 1.24,
       "weights": [
@@ -722,38 +691,8 @@
       "bed_temp": 120
     },
     {
-      "name": "PVA {color_name}",
-      "material": "PVA",
-      "density": 1.23,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 230
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "PROTEOS Nat - Water Soluble Support",
-          "hex": "DFDFD3"
-        }
-      ],
-      "extruder_temp_range": [
-        180,
-        210
-      ],
-      "bed_temp_range": [
-        50,
-        60
-      ],
-      "country_of_origin": "NL"
-    },
-    {
-      "name": "Anasa Tpc {color_name}",
-      "material": "TPC",
+      "name": "Anasa {color_name}",
+      "material": "TPC-95A",
       "density": 1.24,
       "weights": [
         {
@@ -767,19 +706,39 @@
       ],
       "colors": [
         {
-          "name": "95A (45D) Black",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "95A (45D) Natural",
+          "name": "Natural",
           "hex": "DFDFD3"
         },
+      ],
+      "country_of_origin": "NL",
+      "extruder_temp": 235,
+      "bed_temp": 65
+    },
+    {
+      "name": "Anasa {color_name}",
+      "material": "TPC-80A",
+      "density": 1.24,
+      "weights": [
         {
-          "name": "L80A (34D) Black",
+          "weight": 1000,
+          "spool_type": "plastic",
+          "spool_weight": 230
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "colors": [
+        {
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "L80A (34D) Natural",
+          "name": "Natural",
           "hex": "DFDFD3"
         }
       ],
@@ -788,7 +747,7 @@
       "bed_temp": 65
     },
     {
-      "name": "Vulcan Pi TPI {color_name}",
+      "name": "Vulcan Pi {color_name}",
       "material": "TPI",
       "density": 1.24,
       "weights": [

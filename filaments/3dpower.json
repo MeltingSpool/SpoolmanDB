@@ -2,7 +2,7 @@
   "manufacturer": "3DPower",
   "filaments": [
     {
-      "name": "Basic PLA {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -144,7 +144,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Basic PETG {color_name}",
+      "name": "Basic {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -255,7 +255,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -301,7 +301,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -362,7 +362,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Hyper PA6 {color_name}",
+      "name": "Hyper {color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -395,7 +395,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Hyper Speed PETG {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -464,7 +464,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Select PETG {color_name}",
+      "name": "Select {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -521,7 +521,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Dual Color Silk PLA {color_name}",
+      "name": "Dual Color Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -582,7 +582,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "HT 150 PLA {color_name}",
+      "name": "HT 150 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -639,7 +639,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Hyper Speed PLA {color_name}",
+      "name": "Hyper Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -696,7 +696,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -733,7 +733,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.29,
       "weights": [
@@ -787,7 +787,7 @@
       "finish": "matte"
     },
     {
-      "name": "Pastel PLA {color_name}",
+      "name": "Pastel {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -828,7 +828,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Select PLA {color_name}",
+      "name": "Select {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -885,8 +885,8 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "Elasti 90A TPU {color_name}",
-      "material": "TPU",
+      "name": "Elasti {color_name}",
+      "material": "TPU-90A",
       "density": 1.21,
       "weights": [
         {

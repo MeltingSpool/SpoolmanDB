@@ -2,7 +2,7 @@
   "manufacturer": "Eolas Prints",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "PETG Transition {color_name}",
+      "name": "Transition {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "name": "PETG UV Resistant {color_name}",
+      "name": "UV Resistant {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "name": "High Speed PLA {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -506,7 +506,7 @@
       ]
     },
     {
-      "name": "PLA Antibacterial {color_name}",
+      "name": "Antibacterial {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "name": "PLA Ingeo 850 {color_name}",
+      "name": "Ingeo 850 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -608,7 +608,7 @@
       ]
     },
     {
-      "name": "PLA Ingeo 870 {color_name}",
+      "name": "Ingeo 870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -664,7 +664,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -746,7 +746,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA Neon {color_name}",
+      "name": "Neon {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -812,7 +812,7 @@
       ]
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -883,7 +883,7 @@
       "finish": "glossy"
     },
     {
-      "name": "PLA Transition {color_name}",
+      "name": "Transition {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1208,8 +1208,8 @@
       ]
     },
     {
-      "name": "TPU 93A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-93A",
       "density": 1.21,
       "weights": [
         {
@@ -1435,8 +1435,8 @@
       ]
     },
     {
-      "name": "TPU D53 {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-53D",
       "density": 1.21,
       "weights": [
         {
@@ -1491,8 +1491,8 @@
       ]
     },
     {
-      "name": "TPU D60 UV Resistant {color_name}",
-      "material": "TPU",
+      "name": "UV Resistant {color_name}",
+      "material": "TPU-60D",
       "density": 1.21,
       "weights": [
         {
@@ -1537,7 +1537,7 @@
       ]
     },
     {
-      "name": "TPU Transition {color_name}",
+      "name": "Transition {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1588,7 +1588,7 @@
       ]
     },
     {
-      "name": "Ingeo 850 PLA {color_name}",
+      "name": "Ingeo 850 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1625,7 +1625,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Ingeo 870 PLA {color_name}",
+      "name": "Ingeo 870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1662,7 +1662,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1704,7 +1704,7 @@
       "finish": "matte"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1920,7 +1920,7 @@
       "country_of_origin": "ES"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

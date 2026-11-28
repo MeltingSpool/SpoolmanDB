@@ -2,7 +2,7 @@
   "manufacturer": "TCPoly",
   "filaments": [
     {
-      "name": "Ice9 TPU {color_name}",
+      "name": "Ice9 {color_name}",
       "material": "TPU",
       "density": 1.5,
       "weights": [
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Ice9 Nylon {color_name}",
+      "name": "Ice9 {color_name}",
       "material": "PA",
       "density": 1.4,
       "weights": [

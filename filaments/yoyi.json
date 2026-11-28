@@ -31,7 +31,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Flexible {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -60,7 +60,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -134,7 +134,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.24,
       "weights": [

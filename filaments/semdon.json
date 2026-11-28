@@ -2,7 +2,7 @@
   "manufacturer": "Semdon",
   "filaments": [
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -103,77 +103,22 @@
           "multi_color_direction": "longitudinal"
         },
         {
-          "name": "Pla Gold",
+          "name": "Gold",
           "hex": "FFD700"
         },
         {
-          "name": "Pla Silver",
+          "name": "Silver",
           "hex": "C0C0C0"
         },
         {
-          "name": "Pla Copper",
+          "name": "Copper",
           "hex": "B87333"
         }
       ],
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk Bundle {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 250,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        200,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        60
-      ],
-      "colors": [
-        {
-          "name": "250g x4 Dualcolor Bundle",
-          "hexes": [
-            "FF0000",
-            "000000",
-            "FFD700",
-            "0000FF"
-          ],
-          "multi_color_direction": "coaxial"
-        },
-        {
-          "name": "250g x4 Tricolors Bundle",
-          "hexes": [
-            "FF0000",
-            "008000",
-            "0000FF",
-            "FFFF00"
-          ],
-          "multi_color_direction": "coaxial"
-        },
-        {
-          "name": "250g x4 Multicolor Bundle",
-          "hexes": [
-            "FFC0CB",
-            "87CEEB",
-            "FFFF00",
-            "008000"
-          ],
-          "multi_color_direction": "longitudinal"
-        }
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "PLA Wood {color_name}",
+      "name": "Wood {color_name}",
       "material": "PLA",
       "density": 1.24,
       "fill": "wood",
@@ -196,29 +141,20 @@
       ],
       "colors": [
         {
-          "name": "Pla Cherry Wood",
+          "name": "Cherry Wood",
           "hex": "8C3F3F"
         },
         {
-          "name": "Pla Maple Wood",
+          "name": "Maple Wood",
           "hex": "E3C58F"
         },
         {
-          "name": "Pla Walnut Wood",
+          "name": "Walnut Wood",
           "hex": "5C4033"
         },
         {
-          "name": "Pla Mahogany Wood",
+          "name": "Mahogany Wood",
           "hex": "4A1525"
-        },
-        {
-          "name": "4x250g Dark Wood Light Wood Red Wood Walnut",
-          "hexes": [
-            "5C4033",
-            "E3C58F",
-            "8C3F3F"
-          ],
-          "multi_color_direction": "longitudinal"
         }
       ],
       "country_of_origin": "CN"

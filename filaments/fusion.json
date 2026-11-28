@@ -2,7 +2,7 @@
   "manufacturer": "Fusion",
   "filaments": [
     {
-      "name": "ABS Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -110,7 +110,7 @@
           "hex": "9EE978"
         },
         {
-          "name": "Seismic Red ",
+          "name": "Seismic Red",
           "hex": "9D0115"
         },
         {
@@ -134,7 +134,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS Gloss {color_name}",
+      "name": "Gloss {color_name}",
       "material": "ABS",
       "density": 1.05,
       "weights": [
@@ -472,7 +472,7 @@
           "hex": "8C1B18"
         },
         {
-          "name": "Seismic Red ",
+          "name": "Seismic Red",
           "hex": "9D0115"
         },
         {
@@ -571,7 +571,7 @@
           "hex": "8C1B18"
         },
         {
-          "name": "Seismic Red ",
+          "name": "Seismic Red",
           "hex": "9D0115"
         },
         {
@@ -697,7 +697,7 @@
           "hex": "8C1B18"
         },
         {
-          "name": "Seismic Red ",
+          "name": "Seismic Red",
           "hex": "9D0115"
         },
         {
@@ -712,7 +712,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

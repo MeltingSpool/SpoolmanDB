@@ -2,7 +2,7 @@
   "manufacturer": "SOVB 3D",
   "filaments": [
     {
-      "name": "ABS Alumine {color_name}",
+      "name": "Alumine {color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "ABS Phosphorescent {color_name}",
+      "name": "Phosphorescent {color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "name": "ABS Standard {color_name}",
+      "name": "Standard {color_name}",
       "material": "ABS",
       "density": 1.03,
       "weights": [
@@ -238,8 +238,8 @@
       ]
     },
     {
-      "name": "ABS-PC {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS-PC",
       "density": 1.03,
       "weights": [
         {
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "PLA Alumine {color_name}",
+      "name": "Alumine {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "name": "PLA Alumine {color_name}",
+      "name": "Alumine {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "name": "PLA Alumine {color_name}",
+      "name": "Alumine {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -492,7 +492,7 @@
       ]
     },
     {
-      "name": "PLA Pastel {color_name}",
+      "name": "Pastel {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "name": "PLA Pastel {color_name}",
+      "name": "Pastel {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "name": "PLA Pastel {color_name}",
+      "name": "Pastel {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "name": "PLA Standard {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "name": "PLA Standard {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "name": "PLA Standard {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "name": "PLA Standard {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1248,7 +1248,7 @@
       ]
     },
     {
-      "name": "PLA Standard 2.85mm {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1287,7 +1287,7 @@
       ]
     },
     {
-      "name": "Fil ABS {color_name}",
+      "name": "Fil {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1408,7 +1408,7 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "Glow ABS {color_name}",
+      "name": "Glow {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1438,7 +1438,7 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "Fil PLA {color_name}",
+      "name": "Fil {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

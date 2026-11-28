@@ -2,7 +2,7 @@
   "manufacturer": "Kimya",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "name": "ABS-R {color_name}",
+      "name": "R {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "ABS-S {color_name}",
+      "name": "S {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "HIPS-R {color_name}",
+      "name": "R {color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "name": "PA6-CO {color_name}",
+      "name": "CO {color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -164,8 +164,8 @@
       ]
     },
     {
-      "name": "PC-FR {color_name}",
-      "material": "PC",
+      "name": "{color_name}",
+      "material": "PC-FR",
       "density": 1.2,
       "weights": [
         {
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "PETG-R {color_name}",
+      "name": "R {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "PETG-S {color_name}",
+      "name": "S {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "name": "PLA-R {color_name}",
+      "name": "R {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "name": "PPSU-S {color_name}",
+      "name": "S {color_name}",
       "material": "PPSU",
       "density": 1.29,
       "weights": [
@@ -376,8 +376,8 @@
       ]
     },
     {
-      "name": "TPC-91A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-91A",
       "density": 1.2,
       "weights": [
         {
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "name": "TPC-ESD {color_name}",
+      "name": "ESD {color_name}",
       "material": "TPU",
       "density": 1.2,
       "weights": [
@@ -444,8 +444,8 @@
       ]
     },
     {
-      "name": "TPU-92A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-92A",
       "density": 1.2,
       "weights": [
         {

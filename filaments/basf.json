@@ -31,7 +31,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.24,
       "weights": [
@@ -60,7 +60,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -125,7 +125,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.24,
       "weights": [

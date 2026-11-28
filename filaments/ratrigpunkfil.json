@@ -2,7 +2,7 @@
   "manufacturer": "RatRig Punkfil",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.24,
       "weights": [
@@ -55,7 +55,7 @@
       "country_of_origin": "PT"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -84,7 +84,7 @@
       "country_of_origin": "PT"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.24,
       "weights": [
@@ -114,7 +114,7 @@
       "country_of_origin": "PT"
     },
     {
-      "name": "Cf {color_name}",
+      "name": "{color_name}",
       "material": "ASA-CF",
       "density": 1.24,
       "weights": [
@@ -144,7 +144,7 @@
       "country_of_origin": "PT"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [

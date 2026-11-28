@@ -2,7 +2,7 @@
   "manufacturer": "Capricorn",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -52,7 +52,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -138,7 +138,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Thermochromic PLA {color_name}",
+      "name": "Thermochromic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

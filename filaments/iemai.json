@@ -2,7 +2,7 @@
   "manufacturer": "IEMAI",
   "filaments": [
     {
-      "name": "IEMAI PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -26,7 +26,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "IEMAI PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -50,7 +50,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -84,8 +84,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-ABS {color_name}",
-      "material": "ABS",
+      "name": "{color_name}",
+      "material": "ABS-CF",
       "density": 1.1,
       "weights": [
         {
@@ -115,7 +115,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ESD-ABS {color_name}",
+      "name": "ESD {color_name}",
       "material": "ABS",
       "density": 1.08,
       "weights": [
@@ -145,7 +145,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -179,8 +179,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-ASA {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.12,
       "weights": [
         {
@@ -210,8 +210,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "CF-PA12 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.15,
       "weights": [
         {
@@ -241,8 +241,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "GF-PA12 {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-GF",
       "density": 1.2,
       "weights": [
         {
@@ -272,7 +272,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -306,8 +306,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-PA6 {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.18,
       "weights": [
         {
@@ -337,8 +337,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "CF-PC {color_name}",
-      "material": "PC",
+      "name": "{color_name}",
+      "material": "PC-CF",
       "density": 1.38,
       "weights": [
         {
@@ -369,7 +369,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.19,
       "weights": [
@@ -399,7 +399,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [
@@ -430,7 +430,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PEEK {color_name}",
+      "name": "{color_name}",
       "material": "PEEK",
       "density": 1.3,
       "weights": [
@@ -520,7 +520,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PEKK {color_name}",
+      "name": "{color_name}",
       "material": "PEKK",
       "density": 1.3,
       "weights": [
@@ -550,8 +550,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-PETG {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.3,
       "weights": [
         {
@@ -581,7 +581,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -620,8 +620,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-PLA {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.28,
       "weights": [
         {
@@ -651,7 +651,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.17,
       "weights": [
@@ -681,7 +681,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.17,
       "weights": [
@@ -711,7 +711,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PP {color_name}",
+      "name": "{color_name}",
       "material": "PP",
       "density": 0.9,
       "weights": [
@@ -741,8 +741,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "CF-PPS {color_name}",
-      "material": "PPS",
+      "name": "{color_name}",
+      "material": "PPS-CF",
       "density": 1.45,
       "weights": [
         {
@@ -772,7 +772,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PPSU {color_name}",
+      "name": "{color_name}",
       "material": "PPSU",
       "density": 1.29,
       "weights": [
@@ -802,7 +802,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

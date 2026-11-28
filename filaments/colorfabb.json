@@ -2,7 +2,7 @@
   "manufacturer": "colorFabb",
   "filaments": [
     {
-      "name": "PLA/PHA {color_name}",
+      "name": "{color_name}",
       "material": "PLA+PHA",
       "density": 1.24,
       "weights": [
@@ -75,7 +75,7 @@
       "tds_url": "https://colorfabb.com/pla-pha-standard-white"
     },
     {
-      "name": "PLA Economy {color_name}",
+      "name": "Economy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -99,19 +99,19 @@
       ],
       "colors": [
         {
-          "name": "Economy Black",
+          "name": "Black",
           "hex": "111111"
         },
         {
-          "name": "Economy White",
+          "name": "White",
           "hex": "ffffff"
         },
         {
-          "name": "Economy Red",
+          "name": "Red",
           "hex": "c91c1c"
         },
         {
-          "name": "Economy Silver",
+          "name": "Silver",
           "hex": "a3a3a3"
         }
       ],
@@ -119,7 +119,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "PETG Economy {color_name}",
+      "name": "Economy {color_name}",
       "material": "PETG",
       "density": 1.28,
       "weights": [
@@ -143,27 +143,27 @@
       ],
       "colors": [
         {
-          "name": "Economy Black",
+          "name": "Black",
           "hex": "111111"
         },
         {
-          "name": "Economy White",
+          "name": "White",
           "hex": "ffffff"
         },
         {
-          "name": "Economy Red",
+          "name": "Red",
           "hex": "c91c1c"
         },
         {
-          "name": "Economy Silver",
+          "name": "Silver",
           "hex": "a3a3a3"
         },
         {
-          "name": "Economy Blue",
+          "name": "Blue",
           "hex": "1b4e9b"
         },
         {
-          "name": "Economy Grey",
+          "name": "Grey",
           "hex": "72777a"
         }
       ],
@@ -328,7 +328,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -370,7 +370,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "CPE {color_name}",
+      "name": "{color_name}",
       "material": "CPE",
       "density": 1.25,
       "weights": [
@@ -428,7 +428,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -507,7 +507,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "PHA {color_name}",
+      "name": "{color_name}",
       "material": "PHA",
       "density": 1.24,
       "weights": [
@@ -594,7 +594,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "Economy PLA {color_name}",
+      "name": "Economy {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -808,7 +808,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -875,7 +875,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "PHA PLA {color_name}",
+      "name": "PHA {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -941,7 +941,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1033,7 +1033,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "Semi PLA {color_name}",
+      "name": "Semi {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1067,7 +1067,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1097,7 +1097,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "StoneFill PLA {color_name}",
+      "name": "StoneFill {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1135,7 +1135,7 @@
       "tds_url": "https://colorfabb.com"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

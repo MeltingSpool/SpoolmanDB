@@ -2,8 +2,8 @@
   "manufacturer": "3DFILS",
   "filaments": [
     {
-      "name": "60D {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-60D",
       "density": 1.24,
       "weights": [
         {
@@ -31,8 +31,8 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "85A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-85A",
       "density": 1.24,
       "weights": [
         {
@@ -60,8 +60,8 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "90A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-90A",
       "density": 1.24,
       "weights": [
         {
@@ -167,7 +167,7 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "PETG Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -201,7 +201,7 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -234,7 +234,7 @@
       "country_of_origin": "FR"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

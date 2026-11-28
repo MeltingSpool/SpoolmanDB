@@ -2,7 +2,7 @@
   "manufacturer": "3DExpress.my",
   "filaments": [
     {
-      "name": "PLA Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "name": "PLA Matte Basic {color_name}",
+      "name": "Matte Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "name": "PLA Transparent {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "name": "PLA Pro Prosumer {color_name}",
+      "name": "Pro Prosumer {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "name": "PETG Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "name": "PETG Pro Prosumer {color_name}",
+      "name": "Pro Prosumer {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "name": "PETG Standard 5KG {color_name}",
+      "name": "Standard {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "name": "ABS Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1070,7 +1070,7 @@
       ]
     },
     {
-      "name": "ABS Pro Prosumer {color_name}",
+      "name": "Pro Prosumer {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1216,7 +1216,7 @@
       ]
     },
     {
-      "name": "ABS Standard 5KG {color_name}",
+      "name": "Standard {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1246,7 +1246,7 @@
       ]
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1407,7 +1407,7 @@
       ]
     },
     {
-      "name": "PLA Standard 5KG {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "name": "PLA Silk Prosumer {color_name}",
+      "name": "Silk Prosumer {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1610,7 +1610,7 @@
       ]
     },
     {
-      "name": "PLA Silk Dual Co-Extrusion {color_name}",
+      "name": "Silk Dual Co-Extrusion {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1677,7 +1677,7 @@
       ]
     },
     {
-      "name": "PLA Silk Tri Co-Extrusion {color_name}",
+      "name": "Silk Tri Co-Extrusion {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1844,7 +1844,7 @@
       ]
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

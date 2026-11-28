@@ -227,7 +227,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -256,7 +256,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PA12 {color_name}",
+      "name": "{color_name}",
       "material": "PA12",
       "density": 1.01,
       "weights": [
@@ -270,7 +270,7 @@
       ],
       "colors": [
         {
-          "name": "Natural Nylon",
+          "name": "Natural",
           "hex": "DFDFD3",
           "translucent": true
         }
@@ -286,7 +286,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Biodegradable Pha {color_name}",
+      "name": "Biodegradable {color_name}",
       "material": "PHA",
       "density": 1.24,
       "weights": [
@@ -313,7 +313,7 @@
       "bed_temp": 50
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -342,7 +342,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -371,7 +371,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -400,7 +400,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -429,7 +429,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -491,7 +491,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

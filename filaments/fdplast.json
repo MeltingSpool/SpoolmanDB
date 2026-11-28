@@ -2,7 +2,7 @@
   "manufacturer": "FDplast",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "PLA Lumi {color_name}",
+      "name": "Lumi {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -193,7 +193,7 @@
       "bed_temp": 60
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -441,7 +441,7 @@
       "bed_temp": 75
     },
     {
-      "name": "SBS {color_name}",
+      "name": "{color_name}",
       "material": "SBS",
       "density": 1.04,
       "weights": [
@@ -480,7 +480,7 @@
       "bed_temp": 70
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -503,7 +503,7 @@
       "bed_temp": 100
     },
     {
-      "name": "Nylon {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [
@@ -518,16 +518,6 @@
       "country_of_origin": "RU",
       "colors": [
         {
-          "name": "CARBON 30",
-          "hex": "1A1A1A",
-          "fill": "carbon fiber"
-        },
-        {
-          "name": "GLASS 30",
-          "hex": "D3D3D3",
-          "fill": "glass fiber"
-        },
-        {
           "name": "Malevich square",
           "hex": "000000"
         },
@@ -540,7 +530,55 @@
       "bed_temp": 90
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
+      "material": "PA-CF30",
+      "density": 1.14,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "country_of_origin": "RU",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "1A1A1A",
+          "fill": "carbon fiber"
+        }
+      ],
+      "extruder_temp": 265,
+      "bed_temp": 90
+    },
+    {
+      "name": "{color_name}",
+      "material": "PA-GF30",
+      "density": 1.14,
+      "weights": [
+        {
+          "weight": 1000,
+          "spool_type": "plastic"
+        }
+      ],
+      "diameters": [
+        1.75
+      ],
+      "country_of_origin": "RU",
+      "colors": [
+        {
+          "name": "White",
+          "hex": "D3D3D3",
+          "fill": "glass fiber"
+        }
+      ],
+      "extruder_temp": 265,
+      "bed_temp": 90
+    },
+    {
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.2,
       "weights": [

@@ -2,7 +2,7 @@
   "manufacturer": "FiloAlfa",
   "filaments": [
     {
-      "name": "10^8 ABS ANTISTATICO {color_name}",
+      "name": "10^8 ANTISTATICO {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -91,7 +91,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/TDS%20ABS%20Mar,%202019.pdf"
     },
     {
-      "name": "ABS FC by Elix {color_name}",
+      "name": "FC by Elix {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -136,7 +136,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20ABS%203D%20FC%20by%20ELIX%20ENG.pdf"
     },
     {
-      "name": "ABS GF {color_name}",
+      "name": "{color_name}",
       "material": "ABS-GF",
       "density": 1.1,
       "weights": [
@@ -168,7 +168,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/N-ASA%20GF%20msds.pdf"
     },
     {
-      "name": "ABS HS {color_name}",
+      "name": "HS {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -216,7 +216,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/ABS%20HIGH%20SPEED%20msds.pdf"
     },
     {
-      "name": "ABS V0 {color_name}",
+      "name": "V0 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -335,7 +335,7 @@
       "tds_url": "https://www.filoalfa3d.com/upload/scheda/tds-abspeciale-nov-2016.pdf"
     },
     {
-      "name": "ALFA TPU {color_name}",
+      "name": "ALFA {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -384,7 +384,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20FILOFlex%20Medium%20-%20Oct%202020.pdf"
     },
     {
-      "name": "ALFA TPU GF {color_name}",
+      "name": "ALFA {color_name}",
       "material": "TPU-GF",
       "density": 1.25,
       "weights": [
@@ -526,7 +526,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/ALFALOY%2035%20msds%20eng.pdf"
     },
     {
-      "name": "ALFANYLON CF {color_name}",
+      "name": "ALFANYLON {color_name}",
       "material": "PA-CF",
       "density": 1.18,
       "weights": [
@@ -880,7 +880,7 @@
       "tds_url": "https://www.filoalfa3d.com/upload/scheda/tds-thermec-zed-may-2018.pdf"
     },
     {
-      "name": "ALFATEIKO CF {color_name}",
+      "name": "ALFATEIKO {color_name}",
       "material": "PPS-CF",
       "density": 1.4,
       "weights": [
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "weights": [
@@ -1060,7 +1060,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20HIPS_%20Ita_26-06-2019_rev2.pdf"
     },
     {
-      "name": "N-ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1118,7 +1118,7 @@
       "tds_url": "https://www.filoalfa3d.com/upload/scheda/tds-n-asa-maggio-2017.pdf"
     },
     {
-      "name": "N-ASA GF {color_name}",
+      "name": "{color_name}",
       "material": "ASA-GF",
       "density": 1.12,
       "weights": [
@@ -1158,7 +1158,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/N-ASA%20GF%20msds.pdf"
     },
     {
-      "name": "NYLON {color_name}",
+      "name": "{color_name}",
       "material": "PA",
       "density": 1.14,
       "weights": [
@@ -1202,7 +1202,7 @@
       "tds_url": "https://www.filoalfa3d.com/upload/scheda/tds-nylon-aprile-2017.pdf"
     },
     {
-      "name": "PC/ABS {color_name}",
+      "name": "{color_name}",
       "material": "PC+ABS",
       "density": 1.19,
       "weights": [
@@ -1256,7 +1256,7 @@
       "tds_url": "https://www.filoalfa3d.com/upload/scheda/tds-pc-abs-april-2017.pdf"
     },
     {
-      "name": "PET-G {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1341,7 +1341,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/TDS%20PET-G%20-%20Oct%202020.pdf"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1534,7 +1534,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20EN%20-%20PLA%20English%2019-09-2018_rev02.pdf"
     },
     {
-      "name": "PLA CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.3,
       "weights": [
@@ -1574,7 +1574,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/MSDS%20EN%20-%20PLA%20English%2019-09-2018_rev02.pdf"
     },
     {
-      "name": "PP CF {color_name}",
+      "name": "{color_name}",
       "material": "PP-CF",
       "density": 1.05,
       "weights": [
@@ -1611,7 +1611,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/PP%20CF%20msds.pdf"
     },
     {
-      "name": "PP GF {color_name}",
+      "name": "{color_name}",
       "material": "PP-GF",
       "density": 0.94,
       "weights": [
@@ -1656,7 +1656,7 @@
       "tds_url": "https://www.filoalfa3d.com/img/cms/MSDS%20&%20TDS/HIPRO%20H%20FV30H%20msds.pdf"
     },
     {
-      "name": "PUREPRINT PLA {color_name}",
+      "name": "PUREPRINT {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

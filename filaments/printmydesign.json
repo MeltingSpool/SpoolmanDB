@@ -2,7 +2,7 @@
   "manufacturer": "PrintMyDesign",
   "filaments": [
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "name": "ABS Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [

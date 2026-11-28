@@ -30,7 +30,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ABS Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -72,7 +72,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -130,8 +130,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PA6 CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.14,
       "weights": [
         {
@@ -145,7 +145,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon Black",
+          "name": "Black",
           "hex": "1D1D1D"
         }
       ],
@@ -161,8 +161,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PET GF {color_name}",
-      "material": "PET",
+      "name": "{color_name}",
+      "material": "PET-GF",
       "density": 1.38,
       "weights": [
         {
@@ -192,8 +192,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Matte PET CF {color_name}",
-      "material": "PET",
+      "name": "Matte {color_name}",
+      "material": "PET-CF",
       "density": 1.38,
       "weights": [
         {
@@ -224,8 +224,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -291,8 +291,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Frosted GF PETG {color_name}",
-      "material": "PETG",
+      "name": "Frosted {color_name}",
+      "material": "PETG-GF",
       "density": 1.27,
       "weights": [
         {
@@ -354,7 +354,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "Galaxy PETG {color_name}",
+      "name": "Galaxy {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -400,7 +400,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Marble PETG {color_name}",
+      "name": "Marble {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -462,7 +462,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Metallic PETG {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -516,7 +516,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -547,7 +547,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Rapid-Eco PETG {color_name}",
+      "name": "Rapid-Eco {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -716,8 +716,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA CF {color_name}",
-      "material": "PLA",
+      "name": "{color_name}",
+      "material": "PLA-CF",
       "density": 1.24,
       "weights": [
         {
@@ -775,7 +775,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Glow PLA {color_name}",
+      "name": "Glow {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -806,7 +806,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -889,7 +889,7 @@
       "finish": "matte"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -983,7 +983,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1037,8 +1037,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Matte PP CF {color_name}",
-      "material": "PP",
+      "name": "Matte {color_name}",
+      "material": "PP-CF",
       "density": 0.9,
       "weights": [
         {
@@ -1069,8 +1069,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "95A TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {

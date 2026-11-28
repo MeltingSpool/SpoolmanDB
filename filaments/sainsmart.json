@@ -2,7 +2,7 @@
   "manufacturer": "SainSmart",
   "filaments": [
     {
-      "name": "SainSmart TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -84,8 +84,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ASA CF {color_name}",
-      "material": "ASA",
+      "name": "{color_name}",
+      "material": "ASA-CF",
       "density": 1.07,
       "weights": [
         {
@@ -115,7 +115,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Gt 3 ASA {color_name}",
+      "name": "GT 3 {color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -145,8 +145,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PA12 CF {color_name}",
-      "material": "PA12",
+      "name": "{color_name}",
+      "material": "PA12-CF",
       "density": 1.01,
       "weights": [
         {
@@ -160,7 +160,7 @@
       ],
       "colors": [
         {
-          "name": "e-CF Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -176,8 +176,8 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 CF {color_name}",
-      "material": "PA6",
+      "name": "{color_name}",
+      "material": "PA6-CF",
       "density": 1.14,
       "weights": [
         {
@@ -191,7 +191,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon+ Carbon Fiber Black",
+          "name": "Black",
           "hex": "000000"
         }
       ],
@@ -207,7 +207,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6 {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.14,
       "weights": [
@@ -222,7 +222,7 @@
       ],
       "colors": [
         {
-          "name": "Nylon White",
+          "name": "White",
           "hex": "FFFFFF"
         }
       ],
@@ -237,8 +237,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -272,7 +272,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Glossy Gt 3 Silk High Speed PETG {color_name}",
+      "name": "Glossy Gt 3 Silk High Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -312,7 +312,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Glow PETG {color_name}",
+      "name": "Glow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -327,17 +327,17 @@
       ],
       "colors": [
         {
-          "name": "Blue -3",
+          "name": "Blue",
           "hex": "D9D8DE",
           "glow": true
         },
         {
-          "name": "Green -3",
+          "name": "Green",
           "hex": "62E480",
           "glow": true
         },
         {
-          "name": "Red -3",
+          "name": "Red",
           "hex": "E72F1D",
           "glow": true
         }
@@ -353,7 +353,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -368,41 +368,41 @@
       ],
       "colors": [
         {
-          "name": "Black -3",
+          "name": "Black",
           "hex": "000000"
         },
         {
-          "name": "Blue -3",
+          "name": "Blue",
           "hex": "0E21AE"
         },
         {
-          "name": "Brown -3",
+          "name": "Brown",
           "hex": "BB6D48"
         },
         {
-          "name": "Dark Brown -3",
+          "name": "Dark Brown",
           "hex": "7E4F4A"
         },
         {
-          "name": "Silver -3",
+          "name": "Silver",
           "hex": "ABACB0"
         },
         {
-          "name": "Translucent Rainbow -3",
+          "name": "Translucent Rainbow",
           "hex": "E72F1D",
           "translucent": true
         },
         {
-          "name": "Transparent -3",
+          "name": "Transparent",
           "hex": "E4E7E5",
           "translucent": true
         },
         {
-          "name": "Violet -3",
+          "name": "Violet",
           "hex": "E2D9F7"
         },
         {
-          "name": "White -3",
+          "name": "White",
           "hex": "FFFFFF"
         }
       ],
@@ -417,7 +417,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Glossy Gt 3 Silk High Speed PLA {color_name}",
+      "name": "Glossy Gt 3 Silk High Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -460,7 +460,7 @@
       "finish": "glossy"
     },
     {
-      "name": "Gt 3 Matte PLA {color_name}",
+      "name": "Gt 3 Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -511,7 +511,7 @@
       "finish": "matte"
     },
     {
-      "name": "High Flowability Flexible Gt 3 PLA {color_name}",
+      "name": "High Flowability Flexible Gt 3 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -545,7 +545,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Lite Gt 3 High Speed PLA {color_name}",
+      "name": "Lite Gt 3 High Speed {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -579,7 +579,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -633,7 +633,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PVA {color_name}",
+      "name": "{color_name}",
       "material": "PVA",
       "density": 1.23,
       "weights": [
@@ -663,8 +663,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Flexible 87A TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-87A",
       "density": 1.21,
       "weights": [
         {
@@ -693,8 +693,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Flexible 95A Gt 3 TPU {color_name}",
-      "material": "TPU",
+      "name": "Gt 3 {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -722,8 +722,8 @@
       ]
     },
     {
-      "name": "Flexible 95A Matte TPU {color_name}",
-      "material": "TPU",
+      "name": "Matte {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -755,7 +755,7 @@
       "finish": "matte"
     },
     {
-      "name": "Flexible Tpu {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -825,7 +825,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Gt 3 High Speed TPU {color_name}",
+      "name": "Gt 3 High Speed {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "name": "TPU Liquid Luster {color_name}",
+      "name": "Luminous Glow In The Dark {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -919,47 +919,17 @@
       ],
       "colors": [
         {
-          "name": "Flexible TPU",
-          "hex": "6A6C6E"
-        }
-      ],
-      "extruder_temp_range": [
-        210,
-        240
-      ],
-      "bed_temp_range": [
-        30,
-        60
-      ],
-      "country_of_origin": "US"
-    },
-    {
-      "name": "TPU Luminous Glow In The Dark {color_name}",
-      "material": "TPU",
-      "density": 1.21,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic",
-          "spool_weight": 220
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
-        {
-          "name": "Blue, Flexible TPU",
+          "name": "Blue",
           "hex": "DFDFD3",
           "glow": true
         },
         {
-          "name": "Green, Flexible TPU",
+          "name": "Green",
           "hex": "DFDFD3",
           "glow": true
         },
         {
-          "name": "Pink, Flexible TPU",
+          "name": "Pink",
           "hex": "EE8881",
           "glow": true
         }
@@ -975,7 +945,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU Mango Mojito {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -990,7 +960,7 @@
       ],
       "colors": [
         {
-          "name": "Flexible TPU",
+          "name": "Mango Mojito",
           "hex": "FF9A14"
         }
       ],
@@ -1005,7 +975,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Neon Cyberpunk Color TPU {color_name}",
+      "name": "Neon Cyberpunk {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1051,8 +1021,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Pastel 92A Flexible TPU {color_name}",
-      "material": "TPU",
+      "name": "Pastel {color_name}",
+      "material": "TPU-92A",
       "density": 1.21,
       "weights": [
         {
@@ -1105,7 +1075,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Small Spool Flexible TPU {color_name}",
+      "name": "Small Spool {color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [
@@ -1139,8 +1109,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Temperature Sensitive Flexible 95A TPU {color_name}",
-      "material": "TPU",
+      "name": "Temperature Sensitive {color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {

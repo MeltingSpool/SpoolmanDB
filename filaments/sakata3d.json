@@ -2,7 +2,7 @@
   "manufacturer": "Sakata 3D",
   "filaments": [
     {
-      "name": "ABS-E {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "extruder_temp_range": [
@@ -101,7 +101,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "extruder_temp_range": [
@@ -232,7 +232,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "HIPS {color_name}",
+      "name": "{color_name}",
       "material": "HIPS",
       "density": 1.04,
       "extruder_temp_range": [
@@ -269,7 +269,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PET-G {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "extruder_temp_range": [
@@ -392,7 +392,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PET-G CF15 {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF15",
       "density": 1.3,
       "fill": "carbon fiber",
@@ -425,7 +425,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PET-G V0 {color_name}",
+      "name": "V0 {color_name}",
       "material": "PETG",
       "density": 1.27,
       "extruder_temp_range": [
@@ -462,7 +462,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA 700 {color_name}",
+      "name": "700 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -507,8 +507,8 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA 850 Glass {color_name}",
-      "material": "PLA",
+      "name": "850 Glass {color_name}",
+      "material": "PLA-GF",
       "density": 1.24,
       "extruder_temp_range": [
         200,
@@ -576,7 +576,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA 850 Magic {color_name}",
+      "name": "850 Magic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -669,7 +669,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA 850 Silk {color_name}",
+      "name": "850 Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -758,7 +758,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA 850 {color_name}",
+      "name": "850 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -954,7 +954,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA GO&PRINT {color_name}",
+      "name": "GO&PRINT {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1047,7 +1047,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1079,7 +1079,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1111,7 +1111,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1143,7 +1143,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1175,7 +1175,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1208,7 +1208,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1240,7 +1240,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1272,7 +1272,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1304,7 +1304,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1336,7 +1336,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1368,7 +1368,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1400,7 +1400,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1432,7 +1432,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1464,7 +1464,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1496,7 +1496,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1529,7 +1529,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1561,7 +1561,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1593,7 +1593,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1625,7 +1625,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1657,7 +1657,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HR-870 {color_name}",
+      "name": "HR-870 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1689,7 +1689,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA HS High Speed PRO {color_name}",
+      "name": "HS High Speed PRO {color_name}",
       "material": "PLA",
       "density": 1.24,
       "extruder_temp_range": [
@@ -1768,7 +1768,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA WOOD {color_name}",
+      "name": "WOOD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "fill": "wood",
@@ -1871,7 +1871,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1903,8 +1903,8 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PETG CF {color_name}",
-      "material": "PETG",
+      "name": "{color_name}",
+      "material": "PETG-CF",
       "density": 1.27,
       "weights": [
         {
@@ -1936,7 +1936,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "Go&Print PLA {color_name}",
+      "name": "Go&Print {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -1953,227 +1953,31 @@
         {
           "name": "Gold",
           "hex": "A6884C"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Light Blue",
           "hex": "82E3EC"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Magic Star Gold",
           "hex": "54514B"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Militar 1 GC",
           "hex": "3292B2"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pastel Green",
           "hex": "ADD8AB"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Pastel Turquoise",
           "hex": "9EF9FF"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Skin Tone 2",
           "hex": "F0DDC2"
-        }
-      ],
-      "extruder_temp_range": [
-        190,
-        230
-      ],
-      "bed_temp_range": [
-        50,
-        70
-      ],
-      "country_of_origin": "ES",
-      "tds_url": "https://sakata3d.com/es/content/34-pla-goprint",
-      "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
-    },
-    {
-      "name": "Go&Print PLA {color_name}",
-      "material": "PLA",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "cardboard",
-          "spool_weight": 200
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "colors": [
+        },
         {
           "name": "Surf Green",
           "hex": "67D8BC"
@@ -2248,7 +2052,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2301,7 +2105,7 @@
       "sds_url": "https://drive.google.com/drive/folders/1l8lkHw5dHbj9eKl3LXrE0zRbvEQvVTJz"
     },
     {
-      "name": "PLA Silk 850 {color_name}",
+      "name": "Silk 850 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

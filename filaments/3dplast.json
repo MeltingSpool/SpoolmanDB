@@ -2,7 +2,7 @@
   "manufacturer": "3D Plast",
   "filaments": [
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -32,7 +32,7 @@
           "hex": "58002e"
         },
         {
-          "name": "Grass green",
+          "name": "Grass Green",
           "hex": "00f201"
         },
         {
@@ -44,7 +44,7 @@
           "hex": "5e30eb"
         },
         {
-          "name": "Sky blue",
+          "name": "Sky Blue",
           "hex": "00a9e7"
         },
         {
@@ -63,7 +63,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

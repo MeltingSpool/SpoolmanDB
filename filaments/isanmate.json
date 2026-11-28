@@ -2,7 +2,7 @@
   "manufacturer": "iSANMATE",
   "filaments": [
     {
-      "name": "PLA i5+ {color_name}",
+      "name": "i5+ {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [

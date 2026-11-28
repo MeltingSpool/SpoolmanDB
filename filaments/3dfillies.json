@@ -2,7 +2,7 @@
   "manufacturer": "3DFillies",
   "filaments": [
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -35,7 +35,7 @@
       "country_of_origin": "ZA"
     },
     {
-      "name": "Multicolor Multicolor {color_name}",
+      "name": "Multicolor {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -61,7 +61,7 @@
           "hex": "a100e2"
         },
         {
-          "name": "MultiColor - Blue/Red",
+          "name": "Blue/Red",
           "hexes": [
             "0000ff",
             "ff0000"
@@ -72,7 +72,7 @@
       "country_of_origin": "ZA"
     },
     {
-      "name": "PLA+ Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -105,7 +105,7 @@
       "country_of_origin": "ZA"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -182,7 +182,7 @@
       "country_of_origin": "ZA"
     },
     {
-      "name": "TPU {color_name}",
+      "name": "{color_name}",
       "material": "TPU",
       "density": 1.21,
       "weights": [

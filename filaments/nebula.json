@@ -2,7 +2,7 @@
   "manufacturer": "Nebula",
   "filaments": [
     {
-      "name": "ABS Art Glowing {color_name}",
+      "name": "Art Glowing {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -47,7 +47,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-GLOWING-Nebula.pdf"
     },
     {
-      "name": "ABS Art Glowing {color_name}",
+      "name": "Art Glowing {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -92,7 +92,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-GLOWING-Nebula.pdf"
     },
     {
-      "name": "ABS Art Glowing {color_name}",
+      "name": "Art Glowing {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -136,7 +136,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-GLOWING-Nebula.pdf"
     },
     {
-      "name": "ABS Art Glowing {color_name}",
+      "name": "Art Glowing {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -180,7 +180,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-GLOWING-Nebula.pdf"
     },
     {
-      "name": "ABS Art Glowing {color_name}",
+      "name": "Art Glowing {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -224,7 +224,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-GLOWING-Nebula.pdf"
     },
     {
-      "name": "ABS Art Marble Gray {color_name}",
+      "name": "Art Marble Gray {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -260,7 +260,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-MARBLE-GRAY-Nebula.pdf"
     },
     {
-      "name": "ABS Art Marble Gray {color_name}",
+      "name": "Art Marble Gray {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -296,7 +296,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-MARBLE-GRAY-Nebula.pdf"
     },
     {
-      "name": "ABS Art Marble Gray {color_name}",
+      "name": "Art Marble Gray {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -331,7 +331,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-MARBLE-GRAY-Nebula.pdf"
     },
     {
-      "name": "ABS Art Marble Gray {color_name}",
+      "name": "Art Marble Gray {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -366,7 +366,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-MARBLE-GRAY-Nebula.pdf"
     },
     {
-      "name": "ABS Art Marble Gray {color_name}",
+      "name": "Art Marble Gray {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -401,7 +401,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-MARBLE-GRAY-Nebula.pdf"
     },
     {
-      "name": "ABS Art Thermo {color_name}",
+      "name": "Art Thermo {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -443,7 +443,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-THERMO-Nebula.pdf"
     },
     {
-      "name": "ABS Art Thermo {color_name}",
+      "name": "Art Thermo {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -485,7 +485,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-THERMO-Nebula.pdf"
     },
     {
-      "name": "ABS Art Thermo {color_name}",
+      "name": "Art Thermo {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -526,7 +526,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-THERMO-Nebula.pdf"
     },
     {
-      "name": "ABS Art Thermo {color_name}",
+      "name": "Art Thermo {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -567,7 +567,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-THERMO-Nebula.pdf"
     },
     {
-      "name": "ABS Art Thermo {color_name}",
+      "name": "Art Thermo {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -608,7 +608,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ABS-THERMO-Nebula.pdf"
     },
     {
-      "name": "ABS Tech 702 {color_name}",
+      "name": "Tech 702 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -734,7 +734,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-ABS-702-Nebula-1.pdf"
     },
     {
-      "name": "ABS Tech 702 {color_name}",
+      "name": "Tech 702 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -867,7 +867,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-ABS-702-Nebula-1.pdf"
     },
     {
-      "name": "ABS Tech 702 {color_name}",
+      "name": "Tech 702 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -992,7 +992,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-ABS-702-Nebula-1.pdf"
     },
     {
-      "name": "ABS Tech 702 {color_name}",
+      "name": "Tech 702 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1117,7 +1117,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-ABS-702-Nebula-1.pdf"
     },
     {
-      "name": "ABS Tech 702 {color_name}",
+      "name": "Tech 702 {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -1250,7 +1250,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-ABS-702-Nebula-1.pdf"
     },
     {
-      "name": "ASA Kevlar {color_name}",
+      "name": "Kevlar {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1291,7 +1291,7 @@
       "tds_url": "https://nebulafilaments.com/en/product-line/tech/asa-kevlar"
     },
     {
-      "name": "ASA Tech 301 {color_name}",
+      "name": "Tech 301 {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1375,7 +1375,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ASA-301-Nebula.pdf"
     },
     {
-      "name": "ASA Tech 301 {color_name}",
+      "name": "Tech 301 {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1459,7 +1459,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ASA-301-Nebula.pdf"
     },
     {
-      "name": "ASA Tech 301 {color_name}",
+      "name": "Tech 301 {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1542,7 +1542,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ASA-301-Nebula.pdf"
     },
     {
-      "name": "ASA Tech 301 {color_name}",
+      "name": "Tech 301 {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1625,7 +1625,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ASA-301-Nebula.pdf"
     },
     {
-      "name": "ASA Tech 301 {color_name}",
+      "name": "Tech 301 {color_name}",
       "material": "ASA",
       "density": 1.05,
       "weights": [
@@ -1708,7 +1708,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-ASA-301-Nebula.pdf"
     },
     {
-      "name": "HIPS Tech 404 {color_name}",
+      "name": "Tech 404 {color_name}",
       "material": "HIPS",
       "density": 1.03,
       "weights": [
@@ -1743,7 +1743,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-HIPS-404-Nebula.pdf"
     },
     {
-      "name": "HIPS Tech 404 {color_name}",
+      "name": "Tech 404 {color_name}",
       "material": "HIPS",
       "density": 1.03,
       "weights": [
@@ -1778,7 +1778,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-HIPS-404-Nebula.pdf"
     },
     {
-      "name": "HIPS Tech 404 {color_name}",
+      "name": "Tech 404 {color_name}",
       "material": "HIPS",
       "density": 1.03,
       "weights": [
@@ -1812,7 +1812,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-HIPS-404-Nebula.pdf"
     },
     {
-      "name": "HIPS Tech 404 {color_name}",
+      "name": "Tech 404 {color_name}",
       "material": "HIPS",
       "density": 1.03,
       "weights": [
@@ -1846,7 +1846,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-HIPS-404-Nebula.pdf"
     },
     {
-      "name": "HIPS Tech 404 {color_name}",
+      "name": "Tech 404 {color_name}",
       "material": "HIPS",
       "density": 1.03,
       "weights": [
@@ -1880,7 +1880,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-HIPS-404-Nebula.pdf"
     },
     {
-      "name": "PA12 CF15 {color_name}",
+      "name": "{color_name}",
       "material": "PA12-CF15",
       "density": 1.15,
       "weights": [
@@ -1915,7 +1915,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-NYLON-PA12-CF1-Nebula.pdf"
     },
     {
-      "name": "PETG Art Chameleon {color_name}",
+      "name": "Art Chameleon {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -1969,7 +1969,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-CHAMELEON-Nebula.pdf"
     },
     {
-      "name": "PETG Art Chameleon {color_name}",
+      "name": "Art Chameleon {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2010,7 +2010,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-CHAMELEON-Nebula.pdf"
     },
     {
-      "name": "PETG Art Chameleon {color_name}",
+      "name": "Art Chameleon {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2064,7 +2064,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-CHAMELEON-Nebula.pdf"
     },
     {
-      "name": "PETG Art Chameleon {color_name}",
+      "name": "Art Chameleon {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2118,7 +2118,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-CHAMELEON-Nebula.pdf"
     },
     {
-      "name": "PETG Art Chameleon {color_name}",
+      "name": "Art Chameleon {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -2180,7 +2180,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-CHAMELEON-Nebula.pdf"
     },
     {
-      "name": "PETG CF10 {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF10",
       "density": 1.3,
       "weights": [
@@ -2214,7 +2214,7 @@
       "tds_url": "https://nebulafilaments.com/en/product-line/tech/pet-g-cf10"
     },
     {
-      "name": "PLA Art Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2285,7 +2285,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLITTER-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2356,7 +2356,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLITTER-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2427,7 +2427,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLITTER-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2498,7 +2498,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLITTER-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glitter {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2569,7 +2569,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLITTER-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glowing {color_name}",
+      "name": "Glowing {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2614,7 +2614,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLOWING-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glowing {color_name}",
+      "name": "Glowing {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2659,7 +2659,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLOWING-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glowing {color_name}",
+      "name": "Glowing {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2704,7 +2704,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLOWING-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glowing {color_name}",
+      "name": "Glowing {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2749,7 +2749,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLOWING-Nebula.pdf"
     },
     {
-      "name": "PLA Art Glowing {color_name}",
+      "name": "Glowing {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2794,7 +2794,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-GLOWING-Nebula.pdf"
     },
     {
-      "name": "PLA Art Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2830,7 +2830,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MARBLE-Nebula.pdf"
     },
     {
-      "name": "PLA Art Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2866,7 +2866,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MARBLE-Nebula.pdf"
     },
     {
-      "name": "PLA Art Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2902,7 +2902,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MARBLE-Nebula.pdf"
     },
     {
-      "name": "PLA Art Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2938,7 +2938,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MARBLE-Nebula.pdf"
     },
     {
-      "name": "PLA Art Marble {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -2974,7 +2974,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MARBLE-Nebula.pdf"
     },
     {
-      "name": "PLA Art Mystic Green {color_name}",
+      "name": "Mystic Green {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3009,7 +3009,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MYSTIC-GREEN-Nebula.pdf"
     },
     {
-      "name": "PLA Art Mystic Green {color_name}",
+      "name": "Mystic Green {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3044,7 +3044,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MYSTIC-GREEN-Nebula.pdf"
     },
     {
-      "name": "PLA Art Mystic Green {color_name}",
+      "name": "Mystic Green {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3079,7 +3079,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MYSTIC-GREEN-Nebula.pdf"
     },
     {
-      "name": "PLA Art Mystic Green {color_name}",
+      "name": "Mystic Green {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3114,7 +3114,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MYSTIC-GREEN-Nebula.pdf"
     },
     {
-      "name": "PLA Art Mystic Green {color_name}",
+      "name": "Mystic Green {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3149,7 +3149,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-MYSTIC-GREEN-Nebula.pdf"
     },
     {
-      "name": "PLA Art Thermo {color_name}",
+      "name": "Thermo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3191,7 +3191,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-THERMOAKTIV-Nebula.pdf"
     },
     {
-      "name": "PLA Art Thermo {color_name}",
+      "name": "Thermo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3233,7 +3233,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-THERMOAKTIV-Nebula.pdf"
     },
     {
-      "name": "PLA Art Thermo {color_name}",
+      "name": "Thermo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3275,7 +3275,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-THERMOAKTIV-Nebula.pdf"
     },
     {
-      "name": "PLA Art Thermo {color_name}",
+      "name": "Thermo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3317,7 +3317,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-THERMOAKTIV-Nebula.pdf"
     },
     {
-      "name": "PLA Art Thermo {color_name}",
+      "name": "Thermo {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3359,7 +3359,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-THERMOAKTIV-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 607 {color_name}",
+      "name": "Tech 607 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3464,7 +3464,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-607-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 607 {color_name}",
+      "name": "Tech 607 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3569,7 +3569,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-607-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 607 {color_name}",
+      "name": "Tech 607 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3674,7 +3674,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-607-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 607 {color_name}",
+      "name": "Tech 607 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3779,7 +3779,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-607-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 607 {color_name}",
+      "name": "Tech 607 {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3884,7 +3884,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-607-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 609 HD {color_name}",
+      "name": "Tech 609 HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -3989,7 +3989,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-609-HD-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 609 HD {color_name}",
+      "name": "Tech 609 HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4094,7 +4094,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-609-HD-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 609 HD {color_name}",
+      "name": "Tech 609 HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4199,7 +4199,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-609-HD-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 609 HD {color_name}",
+      "name": "Tech 609 HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4304,7 +4304,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-609-HD-Nebula.pdf"
     },
     {
-      "name": "PLA Tech 609 HD {color_name}",
+      "name": "Tech 609 HD {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -4409,7 +4409,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/02/Karta-charakterystyki-msds-PLA-609-HD-Nebula.pdf"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -4647,7 +4647,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -4913,7 +4913,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -5151,7 +5151,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -5389,7 +5389,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "Premium PETG {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -5627,7 +5627,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -5971,7 +5971,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6349,7 +6349,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -6693,7 +6693,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7037,7 +7037,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "Premium PLA {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7381,7 +7381,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "Premium PLA Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7494,7 +7494,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/07/Karta-charakterystyki-msds-PLA-SILK-Nebula.pdf"
     },
     {
-      "name": "Premium PLA Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7614,7 +7614,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/07/Karta-charakterystyki-msds-PLA-SILK-Nebula.pdf"
     },
     {
-      "name": "Premium PLA Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7727,7 +7727,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/07/Karta-charakterystyki-msds-PLA-SILK-Nebula.pdf"
     },
     {
-      "name": "Premium PLA Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7840,7 +7840,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/07/Karta-charakterystyki-msds-PLA-SILK-Nebula.pdf"
     },
     {
-      "name": "Premium PLA Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -7953,7 +7953,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2025/07/Karta-charakterystyki-msds-PLA-SILK-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -7979,7 +7979,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8005,7 +8005,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8031,7 +8031,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8057,7 +8057,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8083,7 +8083,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8109,7 +8109,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8135,7 +8135,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8161,7 +8161,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8187,7 +8187,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8213,7 +8213,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8239,7 +8239,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8265,7 +8265,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8291,7 +8291,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8317,7 +8317,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8343,7 +8343,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8369,7 +8369,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8395,7 +8395,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8421,7 +8421,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8447,7 +8447,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8473,7 +8473,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8499,7 +8499,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8525,7 +8525,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8551,7 +8551,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8577,7 +8577,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8603,7 +8603,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8629,7 +8629,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8655,7 +8655,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8681,7 +8681,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8707,7 +8707,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8733,7 +8733,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8759,7 +8759,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8785,7 +8785,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8811,7 +8811,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8837,7 +8837,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8863,7 +8863,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8889,7 +8889,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8915,7 +8915,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8941,7 +8941,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8967,7 +8967,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -8993,7 +8993,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9019,7 +9019,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9045,7 +9045,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9071,7 +9071,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9097,7 +9097,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9123,7 +9123,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9149,7 +9149,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9175,7 +9175,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9201,7 +9201,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9227,7 +9227,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9253,7 +9253,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9279,7 +9279,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9305,7 +9305,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9331,7 +9331,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9357,7 +9357,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9383,7 +9383,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9409,7 +9409,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9435,7 +9435,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9461,7 +9461,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9487,7 +9487,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9513,7 +9513,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9539,7 +9539,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9565,7 +9565,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9591,7 +9591,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9617,7 +9617,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9643,7 +9643,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9669,7 +9669,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9695,7 +9695,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9721,7 +9721,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9747,7 +9747,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9773,7 +9773,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9799,7 +9799,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9825,7 +9825,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9851,7 +9851,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9877,7 +9877,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9903,7 +9903,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9929,7 +9929,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9955,7 +9955,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -9981,7 +9981,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10007,7 +10007,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10033,7 +10033,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10059,7 +10059,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10085,7 +10085,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10111,7 +10111,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10137,7 +10137,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10163,7 +10163,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10189,7 +10189,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10215,7 +10215,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10241,7 +10241,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10267,7 +10267,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10293,7 +10293,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10319,7 +10319,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10345,7 +10345,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10371,7 +10371,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10397,7 +10397,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10423,7 +10423,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10449,7 +10449,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10475,7 +10475,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10501,7 +10501,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10527,7 +10527,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10553,7 +10553,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10579,7 +10579,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10605,7 +10605,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10631,7 +10631,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10657,7 +10657,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10683,7 +10683,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10709,7 +10709,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10735,7 +10735,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10761,7 +10761,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10787,7 +10787,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10813,7 +10813,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10839,7 +10839,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10865,7 +10865,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10891,7 +10891,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10917,7 +10917,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10943,7 +10943,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10969,7 +10969,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -10995,7 +10995,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11021,7 +11021,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11047,7 +11047,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11073,7 +11073,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11099,7 +11099,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11125,7 +11125,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11151,7 +11151,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11177,7 +11177,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11203,7 +11203,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11229,7 +11229,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11255,7 +11255,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11281,7 +11281,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11307,7 +11307,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11333,7 +11333,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11359,7 +11359,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11385,7 +11385,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11411,7 +11411,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11437,7 +11437,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11463,7 +11463,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11489,7 +11489,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11515,7 +11515,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11541,7 +11541,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11567,7 +11567,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11593,7 +11593,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11619,7 +11619,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11645,7 +11645,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11671,7 +11671,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11697,7 +11697,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11723,7 +11723,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11749,7 +11749,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11775,7 +11775,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11801,7 +11801,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11827,7 +11827,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11853,7 +11853,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11879,7 +11879,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11905,7 +11905,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11931,7 +11931,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11957,7 +11957,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PETG Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PETG",
       "density": 1.23,
       "weights": [
@@ -11983,7 +11983,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PET-G-Nebula.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12009,7 +12009,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12035,7 +12035,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12061,7 +12061,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12087,7 +12087,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12113,7 +12113,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12139,7 +12139,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12165,7 +12165,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12191,7 +12191,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12217,7 +12217,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12243,7 +12243,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12269,7 +12269,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12295,7 +12295,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12321,7 +12321,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12347,7 +12347,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12373,7 +12373,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12399,7 +12399,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12425,7 +12425,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12451,7 +12451,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12477,7 +12477,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12503,7 +12503,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12529,7 +12529,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12555,7 +12555,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12581,7 +12581,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12607,7 +12607,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12633,7 +12633,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12659,7 +12659,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12685,7 +12685,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12711,7 +12711,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12737,7 +12737,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12763,7 +12763,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12789,7 +12789,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12815,7 +12815,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12841,7 +12841,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12867,7 +12867,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12893,7 +12893,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12919,7 +12919,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12945,7 +12945,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12971,7 +12971,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -12997,7 +12997,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13023,7 +13023,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13049,7 +13049,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13075,7 +13075,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13101,7 +13101,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13127,7 +13127,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13153,7 +13153,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13179,7 +13179,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13205,7 +13205,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13231,7 +13231,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13257,7 +13257,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13283,7 +13283,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13309,7 +13309,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13335,7 +13335,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13361,7 +13361,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13387,7 +13387,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13413,7 +13413,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13439,7 +13439,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13465,7 +13465,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13491,7 +13491,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13517,7 +13517,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13543,7 +13543,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13569,7 +13569,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13595,7 +13595,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13621,7 +13621,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13647,7 +13647,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13673,7 +13673,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13699,7 +13699,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13725,7 +13725,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13751,7 +13751,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13777,7 +13777,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13803,7 +13803,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13829,7 +13829,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13855,7 +13855,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13881,7 +13881,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13907,7 +13907,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13933,7 +13933,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13959,7 +13959,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -13985,7 +13985,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14011,7 +14011,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14037,7 +14037,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14063,7 +14063,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14089,7 +14089,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14115,7 +14115,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14141,7 +14141,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14167,7 +14167,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14193,7 +14193,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14219,7 +14219,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14245,7 +14245,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14271,7 +14271,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14297,7 +14297,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14323,7 +14323,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14349,7 +14349,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14375,7 +14375,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14401,7 +14401,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14427,7 +14427,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14453,7 +14453,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14479,7 +14479,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14505,7 +14505,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14531,7 +14531,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14557,7 +14557,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14583,7 +14583,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14609,7 +14609,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14635,7 +14635,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14661,7 +14661,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14687,7 +14687,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14713,7 +14713,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14739,7 +14739,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14765,7 +14765,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14791,7 +14791,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14817,7 +14817,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14843,7 +14843,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14869,7 +14869,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14895,7 +14895,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14921,7 +14921,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14947,7 +14947,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14973,7 +14973,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -14999,7 +14999,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15025,7 +15025,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15051,7 +15051,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15077,7 +15077,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15103,7 +15103,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15129,7 +15129,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15155,7 +15155,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15181,7 +15181,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15207,7 +15207,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15233,7 +15233,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15259,7 +15259,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15285,7 +15285,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15311,7 +15311,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15337,7 +15337,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15363,7 +15363,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15389,7 +15389,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15415,7 +15415,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15441,7 +15441,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15467,7 +15467,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15493,7 +15493,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15519,7 +15519,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15545,7 +15545,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15571,7 +15571,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15597,7 +15597,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15623,7 +15623,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15649,7 +15649,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15675,7 +15675,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15701,7 +15701,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15727,7 +15727,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15753,7 +15753,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15779,7 +15779,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15805,7 +15805,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15831,7 +15831,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15857,7 +15857,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15883,7 +15883,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15909,7 +15909,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15935,7 +15935,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15961,7 +15961,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -15987,7 +15987,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16013,7 +16013,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16039,7 +16039,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16065,7 +16065,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16091,7 +16091,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16117,7 +16117,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16143,7 +16143,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16169,7 +16169,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16195,7 +16195,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16221,7 +16221,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16247,7 +16247,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16273,7 +16273,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16299,7 +16299,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16325,7 +16325,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16351,7 +16351,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16377,7 +16377,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16403,7 +16403,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16429,7 +16429,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16455,7 +16455,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16481,7 +16481,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16507,7 +16507,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16533,7 +16533,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16559,7 +16559,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16585,7 +16585,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16611,7 +16611,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16637,7 +16637,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16663,7 +16663,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16689,7 +16689,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16715,7 +16715,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16741,7 +16741,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16767,7 +16767,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16793,7 +16793,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16819,7 +16819,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16845,7 +16845,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16871,7 +16871,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16897,7 +16897,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16923,7 +16923,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16949,7 +16949,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -16975,7 +16975,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17001,7 +17001,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17027,7 +17027,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17053,7 +17053,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17079,7 +17079,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17105,7 +17105,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17131,7 +17131,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17157,7 +17157,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17183,7 +17183,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17209,7 +17209,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17235,7 +17235,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17261,7 +17261,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17287,7 +17287,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17313,7 +17313,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17339,7 +17339,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17365,7 +17365,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17391,7 +17391,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17417,7 +17417,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17443,7 +17443,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17469,7 +17469,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17495,7 +17495,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17521,7 +17521,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17547,7 +17547,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17573,7 +17573,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17599,7 +17599,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17625,7 +17625,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17651,7 +17651,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17677,7 +17677,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17703,7 +17703,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17729,7 +17729,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17755,7 +17755,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17781,7 +17781,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17807,7 +17807,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17833,7 +17833,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17859,7 +17859,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17885,7 +17885,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17911,7 +17911,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17937,7 +17937,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium {color_name}",
+      "name": "Premium {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -17963,7 +17963,7 @@
       "sds_url": "https://api.nebulafilaments.com/wp-content/uploads/2024/12/Karta-charakterystyki-msds-PLA-Nebula-1.pdf"
     },
     {
-      "name": "PLA Premium Silk {color_name}",
+      "name": "Premium Silk {color_name}",
       "material": "PLA",
       "density": 1.22,
       "weights": [

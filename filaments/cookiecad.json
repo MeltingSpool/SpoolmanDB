@@ -2,7 +2,7 @@
   "manufacturer": "Cookiecad",
   "filaments": [
     {
-      "name": "Cookiecad PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -63,7 +63,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Cookiecad Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -105,7 +105,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -162,7 +162,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -195,7 +195,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -269,7 +269,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Mermaid Fast Change (purple {color_name}",
+      "name": "Mermaid Fast Change {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -283,7 +283,7 @@
       ],
       "colors": [
         {
-          "name": "blue & green) PLA",
+          "name": "Purple, Blue & Green",
           "hex": "B894E2"
         }
       ],
@@ -298,7 +298,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Mermaid (purple {color_name}",
+      "name": "Mermaid {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -312,7 +312,7 @@
       ],
       "colors": [
         {
-          "name": "blue & green) PLA",
+          "name": "Purple, Blue & Green",
           "hex": "BE2ED6"
         }
       ],
@@ -327,7 +327,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -422,7 +422,7 @@
           "hex": "F19DCD"
         },
         {
-          "name": "Lavender \\ Purple",
+          "name": "Lavender / Purple",
           "hex": "E65FE2"
         },
         {
@@ -532,7 +532,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -625,7 +625,7 @@
       "country_of_origin": "US"
     },
     {
-      "name": "PLA Unicorn Fast Change (purple {color_name}",
+      "name": "Unicorn Fast Change {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -639,7 +639,7 @@
       ],
       "colors": [
         {
-          "name": "blue & green) PLA",
+          "name": "Purple, Blue & Green",
           "hex": "C63DBA"
         }
       ],
@@ -654,8 +654,8 @@
       "country_of_origin": "US"
     },
     {
-      "name": "TPU {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -668,71 +668,71 @@
       ],
       "colors": [
         {
-          "name": "Blue Star Stuff 95A",
+          "name": "Blue Star Stuff",
           "hex": "178B9F",
           "translucent": true
         },
         {
-          "name": "Dark Magic 95A",
+          "name": "Dark Magic",
           "hex": "2A3940"
         },
         {
-          "name": "Fairy Floss 95A",
+          "name": "Fairy Floss",
           "hex": "FF72B6",
           "translucent": true
         },
         {
-          "name": "Funfetti 95A",
+          "name": "Funfetti",
           "hex": "E4E7E5",
           "translucent": true
         },
         {
-          "name": "Green Apple Elixir 95A",
+          "name": "Green Apple Elixir",
           "hex": "70FA00"
         },
         {
-          "name": "Lavender Elixir 95A",
+          "name": "Lavender Elixir",
           "hex": "E65FE2"
         },
         {
-          "name": "Mermaid 95A",
+          "name": "Mermaid",
           "hex": "69EBB6"
         },
         {
-          "name": "Mint Star Stuff 95A",
+          "name": "Mint Star Stuff",
           "hex": "98FBCB",
           "translucent": true
         },
         {
-          "name": "Pale Blue Elixir 95A",
+          "name": "Pale Blue Elixir",
           "hex": "39B9DB"
         },
         {
-          "name": "Pale Pink Elixir 95A",
+          "name": "Pale Pink Elixir",
           "hex": "EE8881"
         },
         {
-          "name": "Pixie Dust 95A",
+          "name": "Pixie Dust",
           "hex": "FF72B6"
         },
         {
-          "name": "Ruby Red Elixir 95A",
+          "name": "Ruby Red Elixir",
           "hex": "E72F1D"
         },
         {
-          "name": "Sunrise 95A",
+          "name": "Sunrise",
           "hex": "FADB24"
         },
         {
-          "name": "Sunset 95A",
+          "name": "Sunset",
           "hex": "0099E6"
         },
         {
-          "name": "Unicorn 95A",
+          "name": "Unicorn",
           "hex": "8D65C7"
         },
         {
-          "name": "Witches Blue 95A",
+          "name": "Witches Blue",
           "hex": "0353BA"
         }
       ],

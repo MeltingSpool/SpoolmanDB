@@ -2,7 +2,7 @@
   "manufacturer": "SigmaFilament",
   "filaments": [
     {
-      "name": "PLA Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.26,
       "weights": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "name": "PLA Pro {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.26,
       "weights": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "name": "Silk PLA {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "name": "Chameleon PLA {color_name}",
+      "name": "Chameleon {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -500,7 +500,7 @@
       "fill": "wood"
     },
     {
-      "name": "Marble PLA {color_name}",
+      "name": "Marble {color_name}",
       "material": "PLA",
       "density": 1.26,
       "weights": [
@@ -521,7 +521,7 @@
       "pattern": "marble"
     },
     {
-      "name": "PETG Basic {color_name}",
+      "name": "Basic {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -572,7 +572,7 @@
       ]
     },
     {
-      "name": "PETG+ {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -591,7 +591,7 @@
       ]
     },
     {
-      "name": "Transparent PETG {color_name}",
+      "name": "Transparent {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "name": "High Speed PETG {color_name}",
+      "name": "High Speed {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "name": "Gradient PETG {color_name}",
+      "name": "Gradient {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -754,7 +754,7 @@
       ]
     },
     {
-      "name": "Rainbow PETG {color_name}",
+      "name": "Rainbow {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -792,7 +792,7 @@
       ]
     },
     {
-      "name": "Glitter PETG {color_name}",
+      "name": "Glitter {color_name}",
       "material": "PETG",
       "density": 1.28,
       "weights": [
@@ -823,7 +823,7 @@
       "pattern": "sparkle"
     },
     {
-      "name": "Metallic PETG {color_name}",
+      "name": "Metallic {color_name}",
       "material": "PETG",
       "density": 1.28,
       "weights": [
@@ -836,21 +836,21 @@
       ],
       "colors": [
         {
-          "name": "Metallic Gold",
+          "name": "Gold",
           "hex": "C6A54A"
         },
         {
-          "name": "Metallic Silver",
+          "name": "Silver",
           "hex": "A9ADB2"
         },
         {
-          "name": "Metallic Coffee Bronze",
+          "name": "Coffee Bronze",
           "hex": "8A5A3C"
         }
       ]
     },
     {
-      "name": "Marble PETG {color_name}",
+      "name": "Marble {color_name}",
       "material": "PETG",
       "density": 1.27,
       "weights": [
@@ -871,7 +871,7 @@
       "pattern": "marble"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -899,7 +899,7 @@
       ]
     },
     {
-      "name": "High Speed ABS {color_name}",
+      "name": "High Speed {color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "name": "ABS-FR {color_name}",
+      "name": "FR {color_name}",
       "material": "ABS",
       "density": 1.07,
       "weights": [
@@ -960,7 +960,7 @@
       ]
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.07,
       "weights": [
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "name": "PLA-CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.3,
       "weights": [
@@ -1039,7 +1039,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA-CF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-CF",
       "density": 1.3,
       "weights": [
@@ -1060,7 +1060,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PETG-CF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-CF",
       "density": 1.28,
       "weights": [
@@ -1086,7 +1086,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "ABS-CF {color_name}",
+      "name": "{color_name}",
       "material": "ABS-CF",
       "density": 1.22,
       "weights": [
@@ -1107,7 +1107,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA6-CF {color_name}",
+      "name": "{color_name}",
       "material": "PA6-CF",
       "density": 1.22,
       "weights": [
@@ -1128,7 +1128,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PA12-CF {color_name}",
+      "name": "{color_name}",
       "material": "PA12-CF",
       "density": 1.22,
       "weights": [
@@ -1149,7 +1149,7 @@
       "fill": "carbon fiber"
     },
     {
-      "name": "PLA-GF {color_name}",
+      "name": "{color_name}",
       "material": "PLA-GF",
       "density": 1.4,
       "weights": [
@@ -1170,7 +1170,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "PETG-GF {color_name}",
+      "name": "{color_name}",
       "material": "PETG-GF",
       "density": 1.45,
       "weights": [
@@ -1191,7 +1191,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ABS-GF {color_name}",
+      "name": "{color_name}",
       "material": "ABS-GF",
       "density": 1.38,
       "weights": [
@@ -1212,7 +1212,7 @@
       "fill": "glass fiber"
     },
     {
-      "name": "ASA-GF {color_name}",
+      "name": "{color_name}",
       "material": "ASA-GF",
       "density": 1.38,
       "weights": [
@@ -1233,8 +1233,8 @@
       "fill": "glass fiber"
     },
     {
-      "name": "TPU 95A {color_name}",
-      "material": "TPU",
+      "name": "{color_name}",
+      "material": "TPU-95A",
       "density": 1.21,
       "weights": [
         {
@@ -1261,7 +1261,7 @@
       ]
     },
     {
-      "name": "PEEK {color_name}",
+      "name": "{color_name}",
       "material": "PEEK",
       "density": 1.3,
       "weights": [
@@ -1280,7 +1280,7 @@
       ]
     },
     {
-      "name": "PEI {color_name}",
+      "name": "{color_name}",
       "material": "PEI",
       "density": 1.27,
       "weights": [

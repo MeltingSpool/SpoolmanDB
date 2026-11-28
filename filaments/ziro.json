@@ -2,7 +2,7 @@
   "manufacturer": "Ziro",
   "filaments": [
     {
-      "name": "Ziro PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -34,7 +34,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Ziro Matte PLA {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -52,11 +52,11 @@
       "finish": "matte",
       "colors": [
         {
-          "name": "Matte Black",
+          "name": "Black",
           "hex": "1C1C1C"
         },
         {
-          "name": "Matte White",
+          "name": "White",
           "hex": "F5F5F5"
         }
       ],

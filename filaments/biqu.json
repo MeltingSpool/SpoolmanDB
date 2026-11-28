@@ -2,7 +2,7 @@
   "manufacturer": "BIQU",
   "filaments": [
     {
-      "name": "PLA GO {color_name}",
+      "name": "GO {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -61,7 +61,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Aura Silk {color_name}",
+      "name": "Aura Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -115,8 +115,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA HS {color_name}",
-      "material": "PLA+HS",
+      "name": "HS {color_name}",
+      "material": "PLA",
       "density": 1.24,
       "weights": [
         {
@@ -152,7 +152,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA-HR {color_name}",
+      "name": "{color_name}",
       "material": "PLA+HR",
       "density": 1.24,
       "weights": [

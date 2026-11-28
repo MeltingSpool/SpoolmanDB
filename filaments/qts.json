@@ -2,7 +2,7 @@
   "manufacturer": "QTS",
   "filaments": [
     {
-      "name": "Standard PLA {color_name}",
+      "name": "Standard {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.04,
       "weights": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "PA6 {color_name}",
+      "name": "{color_name}",
       "material": "PA6",
       "density": 1.157,
       "weights": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "PC {color_name}",
+      "name": "{color_name}",
       "material": "PC",
       "density": 1.2,
       "weights": [

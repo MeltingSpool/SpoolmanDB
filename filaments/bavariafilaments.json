@@ -31,7 +31,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "ABS {color_name}",
+      "name": "{color_name}",
       "material": "ABS",
       "density": 1.24,
       "weights": [
@@ -60,7 +60,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "ASA {color_name}",
+      "name": "{color_name}",
       "material": "ASA",
       "density": 1.24,
       "weights": [
@@ -134,7 +134,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -199,7 +199,7 @@
       "country_of_origin": "DE"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [

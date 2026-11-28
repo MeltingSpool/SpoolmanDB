@@ -2,7 +2,7 @@
   "manufacturer": "Ujoybio3d",
   "filaments": [
     {
-      "name": "Hf {color_name}",
+      "name": "HF {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -202,7 +202,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -279,7 +279,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
@@ -385,8 +385,8 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG+PLUS Pro {color_name}",
-      "material": "PETG+PLUS",
+      "name": "Pro {color_name}",
+      "material": "PETG+",
       "density": 1.24,
       "weights": [
         {
@@ -409,32 +409,7 @@
         {
           "name": "Christmas Green",
           "hex": "007007"
-        }
-      ],
-      "country_of_origin": "CN"
-    },
-    {
-      "name": "PETG+PLUS {color_name}",
-      "material": "PETG+PLUS",
-      "density": 1.24,
-      "weights": [
-        {
-          "weight": 1000,
-          "spool_type": "plastic"
-        }
-      ],
-      "diameters": [
-        1.75
-      ],
-      "extruder_temp_range": [
-        230,
-        250
-      ],
-      "bed_temp_range": [
-        70,
-        85
-      ],
-      "colors": [
+        },
         {
           "name": "Iris Purple",
           "hex": "bb15d1"
@@ -443,7 +418,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -513,7 +488,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
@@ -546,7 +521,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Matte {color_name}",
+      "name": "Matte {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -580,7 +555,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Pro {color_name}",
+      "name": "Pro {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -609,7 +584,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
@@ -638,7 +613,7 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [

@@ -8,7 +8,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -37,7 +37,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -66,7 +66,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -89,13 +89,13 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "Multicolor Multicolor {color_name}",
+      "name": "Multicolor {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
         {
           "weight": 250,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -123,13 +123,13 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PETG {color_name}",
+      "name": "{color_name}",
       "material": "PETG",
       "density": 1.24,
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -160,17 +160,17 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
         {
           "weight": 250,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         },
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -217,13 +217,13 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA {color_name}",
+      "name": "{color_name}",
       "material": "PLA",
       "density": 1.24,
       "weights": [
         {
           "weight": 250,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -278,17 +278,17 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ Silk {color_name}",
+      "name": "Silk {color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
         {
-          "weight": 339,
-          "spool_type": "plastic"
+          "weight": 250,
+          "spool_type": "cardboard"
         },
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -305,14 +305,6 @@
       "colors": [
         {
           "name": "Black + Red",
-          "hexes": [
-            "000000",
-            "ff0000"
-          ],
-          "multi_color_direction": "longitudinal"
-        },
-        {
-          "name": "Black/Red",
           "hexes": [
             "000000",
             "ff0000"
@@ -383,17 +375,17 @@
       "country_of_origin": "CN"
     },
     {
-      "name": "PLA+ {color_name}",
+      "name": "{color_name}",
       "material": "PLA+",
       "density": 1.24,
       "weights": [
         {
           "weight": 340,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         },
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -462,7 +454,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -499,7 +491,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [
@@ -536,7 +528,7 @@
       "weights": [
         {
           "weight": 1000,
-          "spool_type": "plastic"
+          "spool_type": "cardboard"
         }
       ],
       "diameters": [

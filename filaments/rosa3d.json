@@ -322,7 +322,7 @@
       "country_of_origin": "PL"
     },
     {
-      "name": "BioWOOD {color_name}",
+      "name": "{color_name}",
       "material": "BioWOOD",
       "density": 1.26,
       "weights": [
